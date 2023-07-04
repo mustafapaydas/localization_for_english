@@ -1,0 +1,6951 @@
+{
+  "MinimumTwenty": {
+    "tr": "En az 20 karakter.",
+    "en": "Minimum 20 characters."
+  },
+  "SendEditorEdit":{
+    "tr": "Editör Düzenlemeye Gönder",
+    "en": "Submit to Editor Edit"
+  },
+  "ReferenceMatch": {
+    "tr": "Atıf Eşleştirme",
+    "en": "Reference Match"
+  },
+  "DELETE_REFERENCE_MATCH": {
+    "tr": "Referans Eşleştirmesi Silme Yetkisi",
+    "en": "Deleting Reference Match Authority"
+  },
+  "FIND_REFERENCE_MATCH": {
+    "tr": "Referans Eşleştirmesi Bulma Yetkisi",
+    "en": "Finding Reference Match Authority"
+  },
+  "CREATE_REFERENCE_MATCH": {
+    "tr": "Referans Eşleştirmesi Yapma Yetkisi",
+    "en": "Reference Matching Authority"
+  },
+  "FIND_REFERENCE": {
+    "tr": "Referans Metni Arama Yetkisi",
+    "en": "Searching Reference Text Authority"
+  },
+  "ChooseMatchError": {
+    "tr": "Eşleştirmek için bir referans ve yayın seçilmiş olmalıdır!",
+    "en": "Choose a reference and publication to match!"
+  },
+  "DUPLICATE_REFERENCE_MATCH": {
+    "tr":"Seçili Referans Daha Önce Eşleştirilmiş",
+    "en": "Choosen Reference Already Matched"
+  },
+  "AlreadyMatchedError": {
+    "tr": "Seçili Referans Daha Önce Eşleştirilmiş",
+    "en": "Choosen Reference Already Matched"
+  },
+  "PleaseSearchReference": {
+    "tr": "Lütfen Referans Arayınız",
+    "en": "Please Search Reference"
+  },
+  "PleaseSearchPublication": {
+    "tr": "Lütfen Yayın Arayınız",
+    "en": "Please Search Publication"
+  },
+  "PleaseSearchMatch": {
+    "tr": "Lütfen Eşleştirme Arayınız",
+    "en": "Please Search Match"
+  },
+  "ACTIVE": {
+    "tr": "Aktif",
+    "en": "Active"
+  },
+  "PASSIVE": {
+    "tr": "Pasif",
+    "en": "Passive"
+  },
+  "WARNING": {
+    "tr": "DİKKAT",
+    "en": "WARNING"
+  },
+  "Matches": {
+    "tr": "Eşleşmeler",
+    "en": "Matches"
+  },
+  "PublicationId": {
+    "tr": "Yayın Numarası",
+    "en": "Publication Id"
+  },
+  "ReferenceId": {
+    "tr": "Referans Numarası",
+    "en": "Reference Id"
+  },
+  "StateStatus": {
+    "tr": "Durum",
+    "en": "Status"
+  },
+  "NewMatch": {
+    "tr": "Yeni Eşleştirme",
+    "en": "New Match"
+  },
+  "SearchBibliometryMatch": {
+    "tr": "Eşleştirme Ara",
+    "en": "Search Match"
+  },
+  "BibliometryManagementList": {
+    "tr": "Bibliyometri Eşleştirme Listesi",
+    "en": "Bibliometry Match List"
+  },
+  "BibliometryMatchList": {
+    "tr": "Bibliyometri Eşleştirme Listesi",
+    "en": "Bibliometry Match List"
+  },
+  "Text": {
+    "tr": "Metin",
+    "en": "Text"
+  },
+  "SearchReference": {
+    "tr": "Referans Metni Arama",
+    "en": "Reference Text Search"
+  },
+  "PublicationSearch": {
+    "tr": "Yayın Arama",
+    "en": "Publication Search"
+  },
+  "BibliometryManagement": {
+    "tr": "Bibliyometri Yönetimi",
+    "en": "Bibliometry Management"
+  },
+  "PersonList": {
+    "tr": "Kişi Listesi",
+    "en": "Person List"
+  },
+  "CommitteeList": {
+    "tr": "Komite Üyesi Listesi",
+    "en": "Committee Member List"
+  },
+  "ExpertList": {
+    "tr": "Uzman Listesi",
+    "en": "Expert List"
+  },
+  "PublicationList": {
+    "tr": "Yayın Listesi",
+    "en": "Publication List"
+  },
+  "JournalList": {
+    "tr": "Dergi Listesi",
+    "en": "Journal List"
+  },
+  "NewPerson": {
+    "tr": "Yeni Kişi",
+    "en": "New Person"
+  },
+  "PersonDetail": {
+    "tr": "Kişi Detay",
+    "en": "Person Detail"
+  },
+  "NewAuthor": {
+    "tr": "Yeni Yazar",
+    "en": "New Author"
+  },
+  "DetailAuthor": {
+    "tr": "Yazar Detay",
+    "en": "Detail Author"
+  },
+  "AuthorDetail": {
+    "tr": "Yazar Detay",
+    "en": "Author Detail"
+  },
+  "DetailPerson": {
+    "tr": "Kişi Detay",
+    "en": "Detail Person"
+  },
+  "NewCommittee": {
+    "tr": "Yeni Komite Üyesi",
+    "en": "New Committee Member"
+  },
+  "NewCommitteeRequest": {
+    "tr": "Yeni Komite Üyesi İsteği",
+    "en": "New Committee Member Request"
+  },
+  "CommitteeDetail": {
+    "tr": "Komite Detay",
+    "en": "Committee Detail"
+  },
+  "DetailCommittee": {
+    "tr": "Komite Üyesi Detay",
+    "en": "Detail Committee Member"
+  },
+  "ExpertDetail": {
+    "tr": "Uzman Detay",
+    "en": "Expert Detail"
+  },
+  "NewRecord": {
+    "tr": "Yeni Kayıt",
+    "en": "New Record"
+  },
+  "NewExpert": {
+    "tr": "Yeni Uzman",
+    "en": "New Expert"
+  },
+  "NewPublication": {
+    "tr": "Yeni Yayın",
+    "en": "New Publication"
+  },
+  "PublicationDetail": {
+    "tr": "Yayın Detay",
+    "en": "Publication Detail"
+  },
+  "PublicationInfo": {
+    "tr": "Yayın Bilgisi",
+    "en": "Publication Information"
+  },
+  "PublicationName": {
+    "tr": "Yayın Adı",
+    "en": "Publication Name"
+  },
+  "DetailExpert": {
+    "tr": "Uzman Detay",
+    "en": "Detail Expert"
+  },
+  "NewPublicationPaper": {
+    "tr": "Yeni Yayın",
+    "en": "New Publication"
+  },
+  "DetailPublicationPaper": {
+    "tr": "Yayın Detay",
+    "en": "Detail Publication"
+  },
+  "NewPublicationProject": {
+    "tr": "Yeni Proje",
+    "en": "New Project"
+  },
+  "DetailPublicationProject": {
+    "tr": "Proje Detay",
+    "en": "Detail Project"
+  },
+  "NewJournal": {
+    "tr": "Yeni Dergi",
+    "en": "New Journal"
+  },
+  "JournalDetail": {
+    "tr": "Dergi Detay",
+    "en": "Journal Detail"
+  },
+  "JournalAdd": {
+    "tr": "Dergi Ekle",
+    "en": "Journal Add"
+  },
+  "DetailJournal": {
+    "tr": "Dergi Detay",
+    "en": "Detail Journal"
+  },
+  "SearchPerson": {
+    "tr": "Kişi Ara",
+    "en": "Search Person"
+  },
+  "SearchAuthor": {
+    "tr": "Yazar Ara",
+    "en": "Search Author"
+  },
+  "SearchJournal": {
+    "tr": "Dergi Ara",
+    "en": "Search Journal"
+  },
+  "SearchPublication": {
+    "tr": "Yayın Ara",
+    "en": "Search Publication"
+  },
+  "SearchCommittee": {
+    "tr": "Komite Üyesi Ara",
+    "en": "Search Committee Member"
+  },
+  "SearchExpert": {
+    "tr": "Uzman Ara",
+    "en": "Search Expert"
+  },
+  "SearchInstitution": {
+    "tr": "Kurum Ara",
+    "en": "Search Institution"
+  },
+  "AscendingOrder": {
+    "tr": "Artan Sıra",
+    "en": "Ascending Order"
+  },
+  "DescendingOrder": {
+    "tr": "Azalan Sıra",
+    "en": "Descending Order"
+  },
+  "Name": {
+    "tr": "İsim",
+    "en": "Name"
+  },
+  "EnterName": {
+    "tr": "İsim Giriniz",
+    "en": "Enter Name"
+  },
+  "Title": {
+    "tr": "Başlık",
+    "en": "Title Content"
+  },
+  "AuthorTitle": {
+    "tr": "Ünvan",
+    "en": "Title"
+  },
+  "CreatedBy": {
+    "tr": "Oluşturan",
+    "en": "Creator"
+  },
+  "CreatedDate": {
+    "tr": "Oluşturma Tarihi",
+    "en": "Created Date"
+  },
+  "UpdatedBy": {
+    "tr": "Güncelleyen",
+    "en": "Updater"
+  },
+  "UpdatedDate": {
+    "tr": "Güncelleme Tarihi",
+    "en": "Updated Date"
+  },
+  "UploadDate": {
+    "tr": "Yüklenme Tarihi",
+    "en": "Upload Date"
+  },
+  "EnterTitle": {
+    "tr": "Başlık Giriniz",
+    "en": "Enter Title"
+  },
+  "Surname": {
+    "tr": "Soyadı",
+    "en": "Surname"
+  },
+  "EnterSurname": {
+    "tr": "Soyadı Giriniz",
+    "en": "Enter Surname"
+  },
+  "EnterIdendtityId": {
+    "tr": "Kimlik Numarası Giriniz",
+    "en": "Enter IdendtityId"
+  },
+  "EnterOrcid": {
+    "tr": "Orcid Giriniz",
+    "en": "Enter EnterOrcid"
+  },
+  "User": {
+    "tr": "Kullanıcı ID",
+    "en": "User ID"
+  },
+  "Username": {
+    "tr": "Kullanıcı Adı",
+    "en": "User Name"
+  },
+  "EnterUser": {
+    "tr": "Kullanıcı ID Giriniz",
+    "en": "Enter User ID"
+  },
+  "EnterUsername": {
+    "tr": "Kullanıcı Adı Giriniz",
+    "en": "Enter User Name"
+  },
+  "Email": {
+    "tr": "E-Posta",
+    "en": "E-mail"
+  },
+  "EnterEmail": {
+    "tr": "E-Posta Giriniz",
+    "en": "Enter E-mail"
+  },
+  "Phone": {
+    "tr": "Telefon",
+    "en": "Phone"
+  },
+  "EnterPhone": {
+    "tr": "Telefon Numarası Giriniz",
+    "en": "Enter Phone Number"
+  },
+  "MobilePhone": {
+    "tr": "Cep Telefonu",
+    "en": "Mobile Phone"
+  },
+  "EnterMobilePhone": {
+    "tr": "Cep Telefonu Giriniz",
+    "en": "Enter Mobile Phone"
+  },
+  "Address": {
+    "tr": "Adres",
+    "en": "Address"
+  },
+  "EnterAddress": {
+    "tr": "Adres Giriniz",
+    "en": "Enter Address"
+  },
+  "IbanNumber": {
+    "tr": "IBAN",
+    "en": "IBAN"
+  },
+  "Iban": {
+    "tr": "IBAN",
+    "en": "IBAN"
+  },
+  "IsActive": {
+    "tr": "Aktif",
+    "en": "Active"
+  },
+  "IsManager": {
+    "tr": "Yönetici",
+    "en": "Manager"
+  },
+  "true": {
+    "tr": "Evet",
+    "en": "Yes"
+  },
+  "false": {
+    "tr": "Hayır",
+    "en": "No"
+  },
+  "EnterIbanNumber": {
+    "tr": "IBAN Giriniz",
+    "en": "Enter IBAN"
+  },
+  "ActivityStatus": {
+    "tr": "Aktif",
+    "en": "Active"
+  },
+  "CommitteeChairman": {
+    "tr": "Komite Başkanı",
+    "en": "Committee Chairman"
+  },
+  "LetterRange": {
+    "tr": "Harf Aralığı",
+    "en": "Letter Range"
+  },
+  "Manager": {
+    "tr": "Yönetici",
+    "en": "Manager"
+  },
+  "PersonType": {
+    "tr": "Kişi Tipi",
+    "en": "Person Type"
+  },
+  "PersonType2": {
+    "tr": "Kişi Türü",
+    "en": "Person Kind"
+  },
+  "Authors": {
+    "tr": "Yazarlar",
+    "en": "Authors"
+  },
+  "Persons": {
+    "tr": "Kişiler",
+    "en": "Persons"
+  },
+  "Volume": {
+    "tr": "Cilt",
+    "en": "Volume"
+  },
+  "WebAddress": {
+    "tr": "Web Sitesi",
+    "en": "Web Address"
+  },
+  "PublicationFormat": {
+    "tr": "Yayın Formatı",
+    "en": "Publication Format"
+  },
+  "Oldjournal": {
+    "tr": "Eski Dergi",
+    "en": "Old Journal"
+  },
+  "Newjournal": {
+    "tr": "Yeni Dergi",
+    "en": "New Journal"
+  },
+  "Years": {
+    "tr": "Yıllar",
+    "en": "Years"
+  },
+  "DocumentType": {
+    "tr": "Doküman Tipi",
+    "en": "Document Type"
+  },
+  "Issue": {
+    "tr": "Sayı",
+    "en": "Issue"
+  },
+  "Eissn": {
+    "tr": "EISSN",
+    "en": "EISSN"
+  },
+  "Issn": {
+    "tr": "ISSN",
+    "en": "ISSN"
+  },
+  "Language": {
+    "tr": "Dil",
+    "en": "Language"
+  },
+  "PublicationType": {
+    "tr": "Yayın Türü",
+    "en": "Publication Type"
+  },
+  "Detail": {
+    "tr": "Detay",
+    "en": "Detail"
+  },
+  "Edit": {
+    "tr": "Düzenle",
+    "en": "Edit"
+  },
+  "Save": {
+    "tr": "Kaydet",
+    "en": "Save"
+  },
+  "Delete": {
+    "tr": "Sil",
+    "en": "Delete"
+  },
+  "Cancel": {
+    "tr": "İptal",
+    "en": "Cancel"
+  },
+  "TurnBack": {
+    "tr": "Geri",
+    "en": "Back"
+  },
+  "SaveAndTurnBack": {
+    "tr": "Kaydet ve Geri Dön",
+    "en": "Save And Turn Back"
+  },
+  "Columns": {
+    "tr": "Sütunlar",
+    "en": "Columns"
+  },
+  "Total": {
+    "tr": "Toplam",
+    "en": "Total"
+  },
+  "SelectPublicationType": {
+    "tr": "Yayın Türü Seçiniz",
+    "en": "Select Publication Type"
+  },
+  "Indexed": {
+    "tr": "Indeksli",
+    "en": "Indexed"
+  },
+  "NotIndexed": {
+    "tr": "İndeksli_Değil",
+    "en": "Not_Indexed"
+  },
+  "JournalInfo": {
+    "tr": "Dergi Bilgisi",
+    "en": "Journal Info"
+  },
+  "JournalName": {
+    "tr": "Dergi Adı",
+    "en": "Journal Name"
+  },
+  "SelectJournal": {
+    "tr": "Dergi Adı Seçiniz",
+    "en": "Select Journal"
+  },
+  "Year": {
+    "tr": "Yıl",
+    "en": "Year"
+  },
+  "SelectYear": {
+    "tr": "Yıl Seçiniz",
+    "en": "Select Year"
+  },
+  "Number": {
+    "tr": "Sayı",
+    "en": "Number"
+  },
+  "SelectNumber": {
+    "tr": "Sayı Seçiniz",
+    "en": "Select Number"
+  },
+  "SelectVolumeNumber": {
+    "tr": "Cit / Sayı Seçiniz",
+    "en": "Select Volume / Number"
+  },
+  "NotFound": {
+    "tr": "Sonuç Bulunamadı...",
+    "en": "Not Found..."
+  },
+  "FileNotFound": {
+    "tr": "Dosya Bulunamadı",
+    "en": "File Not Found"
+  },
+  "İnfo": {
+    "tr": "Künye",
+    "en": "Info"
+  },
+  "PaperLanguage": {
+    "tr": "Makale Dili",
+    "en": "Article Language"
+  },
+  "PaperType": {
+    "tr": "Makale Türü",
+    "en": "Article Type"
+  },
+  "FirstPage": {
+    "tr": "İlk Sayfa",
+    "en": "First Page"
+  },
+  "LastPage": {
+    "tr": "Son Sayfa",
+    "en": "Last Page"
+  },
+  "StartPage": {
+    "tr": "İlk Sayfa",
+    "en": "First Page"
+  },
+  "EndPage": {
+    "tr": "Son Sayfa",
+    "en": "Last Page"
+  },
+  "DoiNumber": {
+    "tr": "DOI Numarası",
+    "en": "DOI Number"
+  },
+  "Funder": {
+    "tr": "Fonlayan",
+    "en": "Funder"
+  },
+  "EnterFunder": {
+    "tr": "Fonlayan Giriniz",
+    "en": "Enter Funder"
+  },
+  "DetailedSearch": {
+    "tr": "Detaylı Arama",
+    "en": "Detailed Search"
+  },
+  "PaperInfo": {
+    "tr": "Makale Bilgisi",
+    "en": "Article Info"
+  },
+  "SelfInformation": {
+    "tr": "Öz",
+    "en": "Self Information"
+  },
+  "EnterSelfInformation": {
+    "tr": "Öz Bilgisi Giriniz",
+    "en": "Enter Self Information"
+  },
+  "Keyword": {
+    "tr": "Anahtar Kelimeler",
+    "en": "Keyword"
+  },
+  "EnterKeyword": {
+    "tr": "Anahtar Kelimeleri Giriniz",
+    "en": "Enter Keyword"
+  },
+  "Author-Translator": {
+    "tr": "Yazar / Çevirmen",
+    "en": "Author / Translator"
+  },
+  "AuthorInPaperName": {
+    "tr": "Yazar'ın Yayındaki Adı",
+    "en": "Author's Name in Publication"
+  },
+  "AuthorInPaperInstitution": {
+    "tr": "Yazar'ın Yayındaki Kurumu",
+    "en": "Author's Institution in Publication"
+  },
+  "AuthorOrcid": {
+    "tr": "Yazar'ın ORCID'si",
+    "en": "Author's ORCID"
+  },
+  "Author": {
+    "tr": "Yazar",
+    "en": "Author"
+  },
+  "Translator": {
+    "tr": "Çevirmen",
+    "en": "Translator"
+  },
+  "AddAuthor": {
+    "tr": "Yazar Ekle",
+    "en": "Add Author"
+  },
+  "PaperPDF": {
+    "tr": "Makale PDF",
+    "en": "Article PDF"
+  },
+  "Reference": {
+    "tr": "Referans",
+    "en": "Reference"
+  },
+  "Reference1": {
+    "tr": "Örnek: Referans1",
+    "en": "Example: Reference1"
+  },
+  "Reference2": {
+    "tr": "Örnek: Referans2",
+    "en": "Example: Reference2"
+  },
+  "Publication1": {
+    "tr": "Örnek: Yayın1",
+    "en": "Example: Publication1"
+  },
+  "Publication2": {
+    "tr": "Örnek: Yayın2",
+    "en": "Example: Publication2"
+  },
+  "ReferenceInfo": {
+    "tr": "Birer Satır Boşluk Bırakarak Referans Ekleyiniz.",
+    "en": "Reference by Leaving One Line Space Add"
+  },
+  "References": {
+    "tr": "Referanslar",
+    "en": "References"
+  },
+  "Publications": {
+    "tr": "Yayınlar",
+    "en": "Publications"
+  },
+  "CreateReferences": {
+    "tr": "Referansları Oluştur",
+    "en": "Create References"
+  },
+  "CreatePublication": {
+    "tr": "Yayınları Oluştur",
+    "en": "Create Publication"
+  },
+  "ProjectNumber": {
+    "tr": "Proje Numarası",
+    "en": "Project Number"
+  },
+  "EnterProjectNumber": {
+    "tr": "Proje Numarası Giriniz",
+    "en": "Enter Project Number"
+  },
+  "ProjectGroupName": {
+    "tr": "Proje Grup Adı",
+    "en": "Project Group Name"
+  },
+  "EnterProjectGroupName": {
+    "tr": "Proje Grup Adı Giriniz",
+    "en": "Enter Project Group Name"
+  },
+  "ProjectLanguage": {
+    "tr": "Proje Dili",
+    "en": "Project Language"
+  },
+  "PagesOfNumber": {
+    "tr": "Sayfa Sayısı",
+    "en": "Pages Of Number"
+  },
+  "EnterPagesOfNumber": {
+    "tr": "Sayfa Sayısı Giriniz",
+    "en": "Enter Pages Of Number"
+  },
+  "ProjectFirstDate": {
+    "tr": "Proje Başlangıç Tarihi",
+    "en": "Project First Date"
+  },
+  "ProjectEndDate": {
+    "tr": "Proje Bitiş Tarihi",
+    "en": "Project End Date"
+  },
+  "ProjectManagers": {
+    "tr": "Proje Sorumluları",
+    "en": "Project Managers"
+  },
+  "AuthorInProjectName": {
+    "tr": "Yazar'ın Projedeki Adı",
+    "en": "Author's Name in Project"
+  },
+  "AuthorInProjectInstitution": {
+    "tr": "Yazar'ın Projedeki Kurumu",
+    "en": "Author's Institution in Project"
+  },
+  "Consultant": {
+    "tr": "Danışman",
+    "en": "Consultant"
+  },
+  "Researcher": {
+    "tr": "Araştırmacı",
+    "en": "Researcher"
+  },
+  "ScholarshipStudent": {
+    "tr": "Bursiyer",
+    "en": "Scholarship Student"
+  },
+  "ProjectPDF": {
+    "tr": "Proje PDF",
+    "en": "Project PDF"
+  },
+  "ProjectInfo": {
+    "tr": "Proje Bilgisi",
+    "en": "Project Info"
+  },
+  "Reference&Publication": {
+    "tr": "Referans & Çıkan Yayınlar ",
+    "en": "Reference & Released Publications"
+  },
+  "ReleasedPublications": {
+    "tr": "Projeden Çıkan Yayınlar ",
+    "en": "Released Publications in Project"
+  },
+  "Person": {
+    "tr": "Kişi",
+    "en": "Person"
+  },
+  "Committee": {
+    "tr": "Komite Üyeleri",
+    "en": "Committee Members"
+  },
+  "Expert": {
+    "tr": "Uzmanlar",
+    "en": "Experts"
+  },
+  "Journals": {
+    "tr": "Dergiler",
+    "en": "Journals"
+  },
+  "Journal": {
+    "tr": "Dergi",
+    "en": "Journal"
+  },
+  "Publication": {
+    "tr": "Yayınlar",
+    "en": "Publications"
+  },
+  "EmptyKeyword": {
+    "tr": "Anahtar Kelime Boş Girilemez",
+    "en": "Keyword cannot be entered empty"
+  },
+  "AddedKeyword": {
+    "tr": "Bu Anahtar Kelime Zaten Eklenmiş",
+    "en": "This Keyword Is Already Added"
+  },
+  "DeleteLanguage": {
+    "tr": "Dil Silindi",
+    "en": "Language Deleted"
+  },
+  "Warning": {
+    "tr": "Uyarı",
+    "en": "Warning"
+  },
+  "Error": {
+    "tr": "Hata",
+    "en": "Error"
+  },
+  "Successful": {
+    "tr": "Başarılı",
+    "en": "Successful"
+  },
+  "Info": {
+    "tr": "Bilgi",
+    "en": "Info"
+  },
+  "HavePublicationError": {
+    "tr": "Sayı içerisinde yayın olduğu için silinemedi",
+    "en": "Delete failed because of  have publication."
+  },
+  "SaveExpertLetterRange": {
+    "tr": "Tüm dergilere yeniden uzman ataması yapılacaktır .Eş Uzmanlar varsa kaldırılacaktır. Devam etmek istediğinize emin misiniz?",
+    "en": "Experts will be reassigned to all journals. Are you sure you want to continue?"
+  },
+  "AreYouSureSelect": {
+    "tr": "Seçmek İstediğinize Emin Misiniz?",
+    "en": "Are You Sure You Want To Select?"
+  },
+  "AreYouSureDelete": {
+    "tr": "Silmek İstediğinize Emin Misiniz?",
+    "en": "Are You Sure You Want To Delete?"
+  },
+  " All associated data will be deleted  AreYouSureDelete": {
+    "tr": "İlişkili tüm veriler silinecek, Silmek İstediğinize Emin Misiniz?",
+    "en": "All associated data will be deleted, Are You Sure You Want To Delete?"
+  },
+  "AreYouSureForThisProcess": {
+    "tr": "İşlemi Gerçekleştirmek İstediğinize Emin Misiniz?",
+    "en": "Are You Sure You Want To Do This Process?"
+  },
+  "AreYouSureForTakeOnHimselfIssue": {
+    "tr": "Yayını Üzerinize Almak İstediğinize Emin Misiniz?<br/>{Issue}",
+    "en": "Are You Sure You Want To Take On Publication Himself?<br/>{Issue}"
+  },
+  "AreYouSureForTakeOffIssue": {
+    "tr": "Yayını Bırakmak İstediğinize Emin Misiniz?<br/>{Issue}",
+    "en": "Are You Sure You Want To Take Off Publication?<br/>{Issue}"
+  },
+  "AreYouSureForChangeToWaitingCheck": {
+    "tr": "Onay Verdikten Sonra Bu Sayı İçin Makale Girişine Devam Edemeyeceksiniz. Bu Nedenle Sayıda Belirtilen Kadar Makaleyi Girdiğinizden Emin Olunuz Ve Ondan Sonra İşlemi Onaylayınız.",
+    "en": "You will not be able to continue the paper input after confirmation for this issue. Therefore, be sure to enter the paper until the number specified and then confirm the process."
+  },
+  "ConfirmationForChangeToWaitingCheck": {
+    "tr": "Sayının İçindeki Yayınları Kontrol Sürecine Göndermek İstediğinize Emin Misiniz?",
+    "en": "Are you sure you want to send the publications within the journal issue to the control process?"
+  },
+  "DeleteKeyword": {
+    "tr": "Anahtar Kelime Silindi",
+    "en": "Keyword Deleted"
+  },
+  "BOOK_PRESENTATION": {
+    "tr": "Kitap Tanıtımı",
+    "en": "Book Presentation"
+  },
+  "COMPILATION": {
+    "tr": "Derleme",
+    "en": "Compilation"
+  },
+  "CORRECTION": {
+    "tr": "Düzeltme",
+    "en": "Correction"
+  },
+  "EDITORIAL": {
+    "tr": "Editoryal",
+    "en": "Editorial"
+  },
+  "OTHER": {
+    "tr": "Diğer",
+    "en": "Other"
+  },
+  "FACT_PRESENTATION": {
+    "tr": "Olgu Sunumu",
+    "en": "Fact Presentation"
+  },
+  "LETTER": {
+    "tr": "Mektup",
+    "en": "Letter"
+  },
+  "LETTER_TO_EDITOR": {
+    "tr": "Editöre Mektup",
+    "en": "Letter To Editor"
+  },
+  "MEETING_SUMMARY": {
+    "tr": "Toplantı Özetleri",
+    "en": "Meeting Summary"
+  },
+  "REPORT": {
+    "tr": "Bildiri",
+    "en": "Report"
+  },
+  "RESEARCH": {
+    "tr": "Araştırma Makalesi",
+    "en": "Research Paper"
+  },
+  "SHORT_REPORT": {
+    "tr": "Kısa Bildiri",
+    "en": "Short Report"
+  },
+  "TRANSLATION": {
+    "tr": "Çeviri",
+    "en": "Translation"
+  },
+  "BIBLIOGRAPHIC": {
+    "tr": "Bibliyografik",
+    "en": "Bibliographic"
+  },
+  "RETRACTED": {
+    "tr": "Geri Çekilmiş",
+    "en": "Retracted"
+  },
+  "CannotDeletedExpert": {
+    "tr": "Harf Aralığı Olan Uzman Silinemez",
+    "en": "Letter Spacing Expert Cannot Be Deleted"
+  },
+  "WrongMail": {
+    "tr": "Uzman Bilgisi Bulunamadı",
+    "en": "No Expert Information Found"
+  },
+  "WrongDataRegistration": {
+    "tr": "Hatalı Veri Kaydı",
+    "en": "Wrong Data Registration"
+  },
+  "CommitteeNotFound": {
+    "tr": "Komite Bilgisi Bulunamadı",
+    "en": "Committee Information Not Found"
+  },
+  "SearchedJournalNotFound": {
+    "tr": "Aradığınız Dergi Bulunamadı",
+    "en": "Searched Journal Not Found"
+  },
+  "NotFoundUser": {
+    "tr": "Kullanıcı Bilgisi Bulunamadı",
+    "en": "No User Information Found"
+  },
+  "EditLetterRange": {
+    "tr": "Harf Aralığı Düzenle",
+    "en": "Edit Letter Range"
+  },
+  "AddLetterRange": {
+    "tr": "Harf Aralığı Ekle",
+    "en": "Add Letter Range"
+  },
+  "DeleteLetterRange": {
+    "tr": "Harf Aralığı Sil",
+    "en": "Delete Letter Range"
+  },
+  "FinishEditLetterRange": {
+    "tr": "Harf Aralıkları Başarıyla Kaydedildi",
+    "en": "Letter Spacing Successfully Saved"
+  },
+  "AnError": {
+    "tr": "Bir Hata Oluştu!",
+    "en": "Something Went Wrong!"
+  },
+  "LetterRangeConflict": {
+    "tr": "Harf Aralıkları Çakışıyor, Farklı Harf Aralıkları Seçilmelidir!",
+    "en": "Letter Spacings Conflict, Different Letter Spacings Must Be Selected!"
+  },
+  "SamePerson": {
+    "tr": "Aynı Kişi Tekrar Eklenemez!",
+    "en": "Same Person Cannot Be Added Again!"
+  },
+  "NaturalPerson": {
+    "tr": "Gerçek Kişi",
+    "en": "Natural Person"
+  },
+  "LegalPerson": {
+    "tr": "Tüzel Kişi",
+    "en": "Legal Person"
+  },
+  "PERSON": {
+    "tr": "Şahıs",
+    "en": "Person"
+  },
+  "STATE_AGENCY": {
+    "tr": "Kamu Kurumu",
+    "en": "State Agency"
+  },
+  "UNIVERSTY": {
+    "tr": "Üniversite",
+    "en": "Universty"
+  },
+  "SOCIETY": {
+    "tr": "Dernek",
+    "en": "Society"
+  },
+  "COMPANY": {
+    "tr": "Şirket",
+    "en": "Company"
+  },
+  "EmptyAuthorName": {
+    "tr": "Yazar/Çevirmen'in Makaledeki Adı Girilmesi Zorunludur",
+    "en": "Author/Translator's Name in the Article is Required"
+  },
+  "DeleteSubject": {
+    "tr": "Konu Silindi",
+    "en": "Delete Subject"
+  },
+  "NOT_INDEXED": {
+    "tr": "İndeksli Değil",
+    "en": "Not Indexed"
+  },
+  "INDEXED": {
+    "tr": "İndeksli",
+    "en": "Indexed"
+  },
+  "IndexStatus": {
+    "tr": "İndeks Durumu",
+    "en": "Index Status"
+  },
+  "Index": {
+    "tr": "İndeks",
+    "en": "Index"
+  },
+  "1": {
+    "tr": "Ocak",
+    "en": "January"
+  },
+  "2": {
+    "tr": "Şubat",
+    "en": "February"
+  },
+  "3": {
+    "tr": "Mart",
+    "en": "March"
+  },
+  "4": {
+    "tr": "Nisan",
+    "en": "April"
+  },
+  "5": {
+    "tr": "Mayıs",
+    "en": "May"
+  },
+  "6": {
+    "tr": "Haziran",
+    "en": "June"
+  },
+  "7": {
+    "tr": "Temmuz",
+    "en": "July"
+  },
+  "8": {
+    "tr": "Agustos",
+    "en": "August"
+  },
+  "9": {
+    "tr": "Eylül",
+    "en": "September"
+  },
+  "10": {
+    "tr": "Ekim",
+    "en": "October"
+  },
+  "11": {
+    "tr": "Kasım",
+    "en": "November"
+  },
+  "12": {
+    "tr": "Aralık",
+    "en": "December"
+  },
+  "Logout": {
+    "tr": "Çıkış Yap",
+    "en": "Logout"
+  },
+  "ChangeUser": {
+    "tr": "Kullanıcı Değiştir",
+    "en": "Change User"
+  },
+  "ChangeAuthor": {
+    "tr": "Yazar Değiştir",
+    "en": "Change Author"
+  },
+  "ChangeInstitution": {
+    "tr": "Kurum Değiştir",
+    "en": "Change Institution"
+  },
+  "Change": {
+    "tr": "Değiştir",
+    "en": "Change"
+  },
+  "GeneralSuccessSave": {
+    "tr": "Başarıyla Kaydedildi",
+    "en": "Successfully Saved"
+  },
+  "GeneralSuccessUpdate": {
+    "tr": "Başarıyla Güncellendi",
+    "en": "Successfully Updated"
+  },
+  "GeneralSuccessDelete": {
+    "tr": "Başarıyla Silindi",
+    "en": "Successfully Deleted"
+  },
+  "Success": {
+    "tr": "Başarılı",
+    "en": "Success"
+  },
+  "PublicationDeleteError": {
+    "tr": "Yayın silinirken bir hata oluştu",
+    "en": "An error occurred while deleting the publication"
+  },
+  "ReferenceAddError": {
+    "tr": "Referans Bilgisi Girilmeden Bu İşlem Yapılamaz!",
+    "en": "This Operation Cannot Be Performed Without Entering Reference Information!"
+  },
+  "PublicationAddError": {
+    "tr": "Yayın Bilgisi Girilmeden Bu İşlem Yapılamaz!",
+    "en": "This Operation Cannot Be Performed Without Entering Publication Information!"
+  },
+  "SelectedSubjectsAdded": {
+    "tr": "Seçili Konular Eklendi!",
+    "en": "Selected Subjects Added!"
+  },
+  "SelectedSubjectsUpdated": {
+    "tr": "Seçili Konular Güncellendi",
+    "en": "Selected Subjects Updated!"
+  },
+  "EXCEPT_LAST_ISSUE": {
+    "tr": "Son Sayı Hariç",
+    "en": "Except Last Issue"
+  },
+  "EXCEPT_LAST_YEAR": {
+    "tr": "Son Yıl Hariç",
+    "en": "Except Last Year"
+  },
+  "ALL": {
+    "tr": "Tümü",
+    "en": "All"
+  },
+  "NO": {
+    "tr": "Hiçbiri",
+    "en": "No"
+  },
+  "SearchByUsername": {
+    "tr": "Kullanıcı Adına Göre Ara",
+    "en": "Search By Username"
+  },
+  "Example": {
+    "tr": "Örnek",
+    "en": "Example"
+  },
+  "PUBLISHER": {
+    "tr": "Yayıncı",
+    "en": "Publisher"
+  },
+  "EXPERT": {
+    "tr": "Uzman",
+    "en": "Expert"
+  },
+  "EDITOR": {
+    "tr": "Editör",
+    "en": "Editor"
+  },
+  "GRANTEE": {
+    "tr": "İmtiyaz Sahibi",
+    "en": "Grantee"
+  },
+  "PublisherAssignmentError": {
+    "tr": "Sadece bir yayıncı atanabilir!",
+    "en": "Only one publisher should be assigned!"
+  },
+  "SameAssignmentError": {
+    "tr": "Aynı pozisyonda aynı kullanıcı zaten var!",
+    "en": "The same user already exists in the same position!"
+  },
+  "Pool": {
+    "tr": "Havuz",
+    "en": "Pool"
+  },
+  "Reel": {
+    "tr": "Gerçek",
+    "en": "Reel"
+  },
+  "PoolStatus": {
+    "tr": "Havuz Durumu",
+    "en": "Pool Status"
+  },
+  "FirstName": {
+    "tr": "Ad",
+    "en": "FirstName"
+  },
+  "LastName": {
+    "tr": "Soyad",
+    "en": "LastName"
+  },
+  "AuthorType": {
+    "tr": "Yazar Türü",
+    "en": "Author Type"
+  },
+  "Orcid": {
+    "tr": "Orcid",
+    "en": "Orcid"
+  },
+  "IdendtityId": {
+    "tr": "Kimlik Numarası",
+    "en": "Idendtity Id"
+  },
+  "SelectUser": {
+    "tr": "Kullanıcı Seçiniz",
+    "en": "Select User"
+  },
+  "Select": {
+    "tr": "Seç",
+    "en": "Select"
+  },
+  "VerificationStatus": {
+    "tr": "Doğrulama Durumu",
+    "en": "Verification Status"
+  },
+  "AUTO": {
+    "tr": "Otomatik",
+    "en": "Auto"
+  },
+  "MANUAL": {
+    "tr": "Manuel",
+    "en": "Manual"
+  },
+  "API": {
+    "tr": "API",
+    "en": "API"
+  },
+  "AuthorList": {
+    "tr": "Yazar Listesi",
+    "en": "Author List"
+  },
+  "EmptyLetterRange": {
+    "tr": "Boş Olan Harf Aralıkları Bulunmaktadır.",
+    "en": "There Are Blank Letter Ranges."
+  },
+  "ControllButton": {
+    "tr": "Kontrol Et",
+    "en": "Controll"
+  },
+  "ConnectedUserToAuthor": {
+    "tr": "Yazara Bağlı Kullanıcı",
+    "en": "User connected to the author"
+  },
+  "DOÇENT": {
+    "tr": "Doçent",
+    "en": "AssociateProfessor"
+  },
+  "DOKTOR ÖĞRETİM ÜYESİ": {
+    "tr": "Doktor Öğretim Görevlisi",
+    "en": "Doctor Instructor"
+  },
+  "PROFESÖR": {
+    "tr": "Profesör",
+    "en": "Professor"
+  },
+  "ARAŞTIRMA GÖREVLİSİ": {
+    "tr": "Araştırma Görevlisi",
+    "en": "Research Assistant"
+  },
+  "ÖĞRETİM GÖREVLİSİ": {
+    "tr": "Öğretim Görevlisi",
+    "en": "Instructor"
+  },
+  "DOKTOR": {
+    "tr": "Doktor",
+    "en": "Doctor"
+  },
+  "DİĞER": {
+    "tr": "Diğer",
+    "en": "Other"
+  },
+  "Doctor": {
+    "tr": "Doktor",
+    "en": "Doctor"
+  },
+  "ResearchAssistant": {
+    "tr": "Araştırma Görevlisi",
+    "en": "Research Assistant"
+  },
+  "DoctorResearchAssistant": {
+    "tr": "Doktor Araştırma Görevlisi",
+    "en": "Doctor Research Assistant"
+  },
+  "Instructor": {
+    "tr": "Öğretim Görevlisi",
+    "en": "Instructor"
+  },
+  "DoctorInstructor": {
+    "tr": "Doktor Öğretim Üyesi",
+    "en": "Doctor Instructor"
+  },
+  "AssociateProfessor": {
+    "tr": "Doç. Dr.",
+    "en": "Associate Professor"
+  },
+  "Professor": {
+    "tr": "Prof. Dr.",
+    "en": "Professor"
+  },
+  "Other": {
+    "tr": "Diğer",
+    "en": "Other"
+  },
+  "EnterSpelling": {
+    "tr": "Diğer Adı Girin",
+    "en": "Enter Spelling"
+  },
+  "SpellingAlreadyExist": {
+    "tr": "Diğer Adı Zaten Mevcut!",
+    "en": "Spelling Already Exist!"
+  },
+  "AuthorSpellings": {
+    "tr": "Yazar Diğer Adları",
+    "en": "Author Spellings"
+  },
+  "AuthorMerge": {
+    "tr": "Yazar Birleştir",
+    "en": "Merge Author"
+  },
+  "Merge": {
+    "tr": "Birleştir",
+    "en": "Merge"
+  },
+  "Source": {
+    "tr": "Kaynak",
+    "en": "Source"
+  },
+  "Target": {
+    "tr": "Hedef",
+    "en": "Target"
+  },
+  "MergeAuthorsSuccess": {
+    "tr": "Yazar birleştirme işlemi başarıyla gerçekleştirildi.",
+    "en": "Authors merging  operation has completed successfully."
+  },
+  "Profile": {
+    "tr": "Profil",
+    "en": "Profile"
+  },
+  "AuthorProfile": {
+    "tr": "Yazar Profili",
+    "en": "Author Profile"
+  },
+  "MyAuthorProfile": {
+    "tr": "Yazar Profilim",
+    "en": "My Author Profile"
+  },
+  "RecommendedPublications": {
+    "tr": "Önerilen Makaleler",
+    "en": "Recommended Publications"
+  },
+  "AssignedPublications": {
+    "tr": "Atanmış Makaleler",
+    "en": "Assigned Publications"
+  },
+  "DeletePublicationAuthorRelation": {
+    "tr": "Makaleyi Çıkar",
+    "en": "Remove Publication"
+  },
+  "RejectRecommendationPublication": {
+    "tr": "Yayını Önermeden Çıkar",
+    "en": "Reject Recommended Publication"
+  },
+  "AcceptRecommendationPublication": {
+    "tr": "Yayını Kabul Et",
+    "en": "Accept Publication"
+  },
+  "PublicationVolume": {
+    "tr": "Cilt",
+    "en": "Volume"
+  },
+  "PublicationNumber": {
+    "tr": "Sayı",
+    "en": "Number"
+  },
+  "Publication_Number": {
+    "tr": "DOI",
+    "en": "DOI"
+  },
+  "PublicationPageRange": {
+    "tr": "Sayfa Aralığı",
+    "en": "Page Range"
+  },
+  "MyPublications": {
+    "tr": "Yayınlarım",
+    "en": "My Publications"
+  },
+  "Profiles": {
+    "tr": "Profiller",
+    "en": "Profiles"
+  },
+  "NoResult": {
+    "tr": "Sonuç Yok",
+    "en": "There are no results"
+  },
+  "NoResultForPaperCheckList": {
+    "tr": "Üzerinize atanmış herhangi bir sayı yok. Üzerinize sayı almak için lütfen 'Yeni Sayı Al' butonunu kullanın.",
+    "en": "There aren't any issue assigned on you. For take issue on you, please click 'Take On New Issue'."
+  },
+  "NoResultForProjectCheckList": {
+    "tr": "Üzerinize atanmış herhangi bir proje yok. Üzerinize proje almak için lütfen 'Yeni Proje Al' butonunu kullanın.",
+    "en": "There aren't any project assigned on you. For take issue on you, please click 'Take On New Project'."
+  },
+  "ProfileList": {
+    "tr": "Profil Listesi",
+    "en": "Profile List"
+  },
+  "Note": {
+    "tr": "Not",
+    "en": "Note"
+  },
+  "NOTE": {
+    "tr": "Not",
+    "en": "Note"
+  },
+  "RoleList": {
+    "tr": "Rol Listesi",
+    "en": "Role List"
+  },
+  "SearchRole": {
+    "tr": "Rol Ara",
+    "en": "Search Role"
+  },
+  "SearchNote": {
+    "tr": "Not Ara",
+    "en": "Search Note"
+  },
+  "Roles": {
+    "tr": "Roller",
+    "en": "Roles"
+  },
+  "Status": {
+    "tr": "Durum",
+    "en": "Status"
+  },
+  "Active": {
+    "tr": "Aktif",
+    "en": "Active"
+  },
+  "Passive": {
+    "tr": "Pasif",
+    "en": "Passive"
+  },
+  "DoPassive": {
+    "tr": "Pasif Yap",
+    "en": "Do Passive"
+  },
+  "DoActive": {
+    "tr": "Aktif Yap",
+    "en": "Do Active"
+  },
+  "NewRole": {
+    "tr": "Yeni Rol",
+    "en": "New Role"
+  },
+  "DetailRole": {
+    "tr": "Rol Detay",
+    "en": "Detail Role"
+  },
+  "RoleDetail": {
+    "tr": "Rol Detay",
+    "en": "Role Detail"
+  },
+  "Code": {
+    "tr": "Kod",
+    "en": "Code"
+  },
+  "AccessDenied": {
+    "tr": "Erişim Hatası",
+    "en": "Access Denied"
+  },
+  "InternalServerError": {
+    "tr": "Sunucu Hatası Oluştu!",
+    "en": "An Internal Server Error Occurred!"
+  },
+  "DuplicateKeyValueAlreadyExists": {
+    "tr": "Veri Tekrarı! Anahtar/Değer Çifti Zaten Var.",
+    "en": "Duplicate! Key-Value Already Exists."
+  },
+  "NameMustBeAtLeastCountCharacters": {
+    "tr": "{name} en az {count} karakter olmalıdır",
+    "en": "{name} must be at least {count} characters"
+  },
+  "_Name_CanNotDeleteHave_Child_": {
+    "tr": "{name} silinemez: Alt {child} var",
+    "en": "{name} can not delete: Have a {child}"
+  },
+  "Error_Still_Referenced_From_Table": {
+    "tr": "{entity} için işlem yapılamaz: İlişkili olduğu {relation} var",
+    "en": "Can not porcess for {entity}: It has at least one {relation} associated with it."
+  },
+  "InterpolatedMessageSizeMustBeBetween": {
+    "tr": "{property} değeri {firstRange} ile {lastRange} arasında olmalıdır",
+    "en": "{property} size must be between {firstRange} and {lastRange}"
+  },
+  "InterpolatedMessageValidationFailed": {
+    "tr": "{property} değeri uygun formatta olmalıdır",
+    "en": "{property} must be valid format"
+  },
+  "InterpolatedMessageValidationFailedSpecificObject": {
+    "tr": "{object} bilgilerinde yer alan {property} formata uygun olmalıdır.",
+    "en": "The {property} in the {object} information must conform to the format."
+  },
+  "NoteTitle": {
+    "tr": "Not Başlığı",
+    "en": "Note Title"
+  },
+  "NoteAttachment": {
+    "tr": "Ek",
+    "en": "Attachment"
+  },
+  "Notes": {
+    "tr": "Notlar",
+    "en": "Notes"
+  },
+  "EnterNewNote": {
+    "tr": "Yeni Not Giriniz",
+    "en": "Enter New Note"
+  },
+  "sendCorrespondence": {
+    "tr": "Yazışma Gönder",
+    "en": "Send Correspondence"
+  },
+  "Subject": {
+    "tr": "Konu",
+    "en": "Subject"
+  },
+  "Period": {
+    "tr": "Periyot",
+    "en": "Period"
+  },
+  "Contract": {
+    "tr": "Sözleşme",
+    "en": "Contract"
+  },
+  "Contracts": {
+    "tr": "Sözleşmeler",
+    "en": "Contracts"
+  },
+  "ContractFile": {
+    "tr": "Sözleşme Dosyası",
+    "en": "Contract File  "
+  },
+  "ContractAccessType": {
+    "tr": "Sözleşme Erişim Türü",
+    "en": "Contract Access Type"
+  },
+  "SelectAccessType": {
+    "tr": "Erişim Türü Seçiniz",
+    "en": "Select Access Type"
+  },
+  "ContractAccessTypeEmptyError": {
+    "tr": "Sözleşme Erişim Türü Belirtmelisiniz!",
+    "en": "Contract Access Type Is Empty!"
+  },
+  "ContractPdfEmptyError": {
+    "tr": "Sözleşme Dosyasını Seçmelisiniz!",
+    "en": "Contract Pdf Is Empty!"
+  },
+  "SearchPermisson": {
+    "tr": "Yetki Ara",
+    "en": "Search Permisson"
+  },
+  "UPDATE_INDEX_STATUS": {
+    "tr": "Indeks Durumu Güncelleme Yetkisi",
+    "en": "UPDATE INDEX STATUS"
+  },
+  "CHANGE_JOURNAL_EXPERT": {
+    "tr": "Dergi Uzmanı Değiştirme Yetkisi",
+    "en": "CHANGE JOURNAL EXPERT"
+  },
+  "CREATE_JOURNAL": {
+    "tr": "Dergi Oluşturma Yetkisi",
+    "en": "CREATE JOURNAL"
+  },
+  "UPDATE_JOURNAL": {
+    "tr": "Dergi Güncelleme Yetkisi",
+    "en": "UPDATE JOURNAL"
+  },
+  "UPDATE_ALL_JOURNAL": {
+    "tr": "Tüm Dergileri Güncelleme Yetkisi",
+    "en": "UPDATE ALL JOURNAL"
+  },
+  "DELETE_JOURNAL": {
+    "tr": "Dergi Silme Yetkisi",
+    "en": "DELETE JOURNAL"
+  },
+  "FIND_JOURNAL": {
+    "tr": "Dergi Arama Yetkisi",
+    "en": "FIND JOURNAL"
+  },
+  "UPDATE_JOURNAL_ACTIVITY_STATUS": {
+    "tr": "Dergi Aktiflik Durumunu Güncelleme Yetkisi",
+    "en": "UPDATE JOURNAL ACTIVITY STATUS"
+  },
+
+  "CREATE_JOURNAL_YEAR": {
+    "tr": "Dergi Yılı Oluşturma Yetkisi",
+    "en": "CREATE_JOURNAL_YEAR"
+  },
+  "UPDATE_JOURNAL_YEAR": {
+    "tr": "Dergi Yılı Güncelleme Yetkisi",
+    "en": "UPDATE JOURNAL YEAR"
+  },
+  "DELETE_JOURNAL_YEAR": {
+    "tr": "Dergi Yılı Silme Yetkisi",
+    "en": "DELETE JOURNAL YEAR"
+  },
+  "FIND_JOURNAL_YEAR": {
+    "tr": "Dergi Yılı Arama Yetkisi",
+    "en": "FIND JOURNAL YEAR"
+  },
+  "CREATE_JOURNAL_ISSUE": {
+    "tr": "Dergi Sayısı Oluşturma Yetkisi  ",
+    "en": "CREATE JOURNAL ISSUE"
+  },
+  "CREATE_JOURNAL_ISSUE_NEXT_YEAR": {
+    "tr": "Dergi Sayısı (Bir Sonraki Yıl) Oluşturma Yetkisi",
+    "en": "CREATE JOURNAL ISSUE NEXT YEAR"
+  },
+  "UPDATE_JOURNAL_ISSUE": {
+    "tr": "Dergi Sayısı Güncelleme Yetkisi",
+    "en": "UPDATE JOURNAL ISSUE"
+  },
+  "DELETE_JOURNAL_ISSUE": {
+    "tr": "Dergi Sayısı Silme Yetkisi",
+    "en": "DELETE JOURNAL ISSUE"
+  },
+  "FIND_JOURNAL_ISSUE": {
+    "tr": "Dergi Sayısı Arama Yetkisi",
+    "en": "FIND JOURNALISSUE"
+  },
+  "VIEW_JOURNAL_YEAR_CONTRACT_WAITING_JOB": {
+    "tr": "Dergi Yılı Sözleşme Bekleyen İşleri Görüntüleme Yetkisi",
+    "en": "VIEW JOURNAL YEAR CONTRACT WAITING JOB"
+  },
+  "CREATE_JOURNAL_CONTRACT": {
+    "tr": "Dergi Sözleşmesi Oluşturma Yetkisi",
+    "en": "CREATE JOURNAL CONTRACT"
+  },
+  "UPDATE_JOURNAL_CONTRACT": {
+    "tr": "Dergi Sözleşmesi Güncelleme Yetkisi",
+    "en": "UPDATE JOURNAL CONTRACT"
+  },
+  "DELETE_JOURNAL_CONTRACT": {
+    "tr": "Dergi Sözleşmesi Silme Yetkisi",
+    "en": "DELETE JOURNAL CONTRACT"
+  },
+  "FIND_JOURNAL_CONTRACT": {
+    "tr": "Dergi Sözleşmesi Arama Yetkisi",
+    "en": "FIND JOURNAL CONTRACT"
+  },
+  "CREATE_JOURNAL_PERIOD": {
+    "tr": "Dergi Periyodu Oluşturma Yetkisi",
+    "en": "CREATE JOURNAL PERIOD"
+  },
+  "SEND_SYSTEM_CORRESPONDENCE_WARNING": {
+    "tr": "Sistem Yazışma Uyarısı Gönderme Yetkisi",
+    "en": "SEND SYSTEM CORRESPONDENCE WARNING"
+  },
+  "FIND_JOURNAL_CORRESPONDENCE": {
+    "tr": "Dergi Yazışma Arama Yetkisi",
+    "en": "FIND JOURNAL CORRESPONDENCE"
+  },
+  "FIND_CORRESPONDENCE_TEMPLATES": {
+    "tr": "Yazışma Şablonu Arama Yetkisi",
+    "en": "FIND CORRESPONDENCE TEMPLATES"
+  },
+  "UPDATE_JOURNAL_PERIOD": {
+    "tr": "Dergi Periyot Güncelleme Yetkisi",
+    "en": "UPDATE JOURNAL PERIOD"
+  },
+  "UPDATE_ALL_JOURNAL_PERIOD": {
+    "tr": "Tüm Dergi Periyotlarını Güncelleme Yetkisi",
+    "en": "UPDATE ALL JOURNAL PERIOD"
+  },
+  "SET_NULL_JOURNAL_YEAR_FOR_PERIOD": {
+    "tr": "Periyota Boş Dergi Yılı Atama Yetkisi",
+    "en": "SET_NULL_JOURNAL_YEAR_FOR_PERIOD"
+  },
+  "DELETE_JOURNAL_PERIOD": {
+    "tr": "Dergi Periyot Sime Yetkisi",
+    "en": "DELETE_JOURNAL_PERIOD"
+  },
+  "FIND_JOURNAL_PERIOD": {
+    "tr": "Dergi Periyot Arama Yetkisi",
+    "en": "FIND_JOURNAL_PERIOD"
+  },
+  "CREATE_PUBLICATION": {
+    "tr": "Yayın Oluşturma Yetkisi",
+    "en": "CREATE_PUBLICATION"
+  },
+  "UPDATE_PUBLICATION": {
+    "tr": "Yayın Güncelleme Yetkisi",
+    "en": "UPDATE_PUBLICATION"
+  },
+  "UPDATE_ALL_PUBLICATION": {
+    "tr": "Tüm Yayınları Güncelleme Yetkisi",
+    "en": "UPDATE_ALL_PUBLICATION"
+  },
+  "DELETE_PUBLICATION": {
+    "tr": "Yayın Silme Yetkisi ",
+    "en": "DELETE_PUBLICATION"
+  },
+  "FIND_PUBLICATION": {
+    "tr": "Yayın Arama Yetkisi",
+    "en": "FIND_PUBLICATION"
+  },
+  "UPDATE_POOL_STATUS": {
+    "tr": "Yayın Havuz Durumu Güncelleme Yetkisi",
+    "en": "UPDATE_POOL_STATUS"
+  },
+  "CREATE_PERSON": {
+    "tr": "Kişi Oluşturma Yetkisi",
+    "en": "CREATE_PERSON"
+  },
+  "UPDATE_PERSON": {
+    "tr": "Kişi Güncelleme Yetkisi",
+    "en": "UPDATE_PERSON"
+  },
+  "DELETE_PERSON": {
+    "tr": "Kişi Silme Yetkisi",
+    "en": "DELETE_PERSON"
+  },
+  "FIND_PERSON": {
+    "tr": "Kişi Arama Yetkisi",
+    "en": "FIND_PERSON"
+  },
+  "CREATE_EXPERT": {
+    "tr": "Uzman Oluşturma Yetkisi",
+    "en": "CREATE_EXPERT"
+  },
+  "UPDATE_EXPERT": {
+    "tr": "Uzman Güncelleme Yetkisi",
+    "en": "UPDATE_EXPERT"
+  },
+  "DELETE_EXPERT": {
+    "tr": "Uzman Silme Yetkisi",
+    "en": "DELETE_EXPERT"
+  },
+  "VIEW_REQUIRED_ISSUES_ICON": {
+    "tr": "Yüklenmesi Gereken Sayı İkonu Görme Yetkisi",
+    "en": "Number to Upload Icon Authorization to See"
+  },
+  "VIEW_COMMITTEE_ASSESSMENT_ICON": {
+    "tr": "Komite Değerlendirmesi İkonu Görme Yetkisi",
+    "en": "Committee Evaluation Authorization to See Icon"
+  },
+  "VIEW_EXPERT_ASSESSMENT_ICON": {
+    "tr": "Uzman Değerlendirmesi İkonu Görme Yetkisi",
+    "en": "Expert Evaluation Authorization to See Icon"
+  },
+  "VIEW_GRAY_WARNING_ICON": {
+    "tr": "Gri Durumu Oluşturan Uyarı İkonu Görme Yetkisi",
+    "en": "Alert Icon That Creates Gray Status Authorization to See"
+  },
+  "FIND_EXPERT": {
+    "tr": "Uzman Arama Yetkisi",
+    "en": "FIND_EXPERT"
+  },
+  "CREATE_COMMITTEE": {
+    "tr": "Komite Oluşturma Yetkisi",
+    "en": "CREATE_COMMITTEE"
+  },
+  "UPDATE_COMMITTEE": {
+    "tr": "Komite Güncelleme Yetkisi",
+    "en": "UPDATE_COMMITTEE"
+  },
+  "DELETE_COMMITTEE": {
+    "tr": "Komite Silme Yetkisi",
+    "en": "DELETE_COMMITTEE"
+  },
+  "FIND_COMMITTEE": {
+    "tr": "Komite Arama Yetkisi",
+    "en": "FIND_COMMITTEE"
+  },
+  "DELETE_REFEREE_REPORT": {
+    "tr": "Hakem Raporu Silme Yetkisi",
+    "en": "DELETE_REFEREE_REPORT"
+  },
+  "UPDATE_ALL_REFEREE_REPORT": {
+    "tr": "Tüm Hakem Raporlarını Güncelleme Yetkisi",
+    "en": "UPDATE_ALL_REFEREE_REPORT"
+  },
+  "VIEW_KEYCLOAK_GROUPS": {
+    "tr": "KEYCLOAK Gruplarını Görme Yetkisi",
+    "en": "VIEW_KEYCLOAK_GROUPS"
+  },
+  "EDIT_JOURNAL_NAME": {
+    "tr": "Dergi Adını Güncelleme Yetkisi",
+    "en": "EDIT_JOURNAL_NAME"
+  },
+  "VIEW_MEETING_MINUTES_PAGE": {
+    "tr": "Toplantı Tarih Önerileri Görme Yetkisi",
+    "en": "VIEW_MEETING_MINUTES_PAGE"
+  },
+  "VIEW_TRD_SIDE_MENU": {
+    "tr": "TRD Yan Menu Görme Yetkisi",
+    "en": "VIEW_TRD_SIDE_MENU"
+  },
+  "VIEW_EXPERT_ASSESSMENT_LIST": {
+    "tr": "Uzman Değerlendirmelerini Görüntüleme Yetkisi",
+    "en": "VIEW_EXPERT_ASSESSMENT_LIST"
+  },
+  "VIEW_EXPERT_CONTROL_LIST": {
+    "tr": "Uzman Kontrol Değerlendirmelerini Görüntüleme Yetkisi",
+    "en": "VIEW_EXPERT_CONTROL_LIST"
+  },
+  "VIEW_EXPERTS_IN_MENU": {
+    "tr": "Menu de Uzmanları Görme Yetkisi",
+    "en": "VIEW_EXPERTS_IN_MENU"
+  },
+  "VIEW_LIST_SENTCORRESPONDENCES_PAGE": {
+    "tr": "Gönderilen Yazışmaları Görme Yetkisi",
+    "en": "VIEW_LIST_SENTCORRESPONDENCES_PAGE"
+  },
+  "VIEW_BIBLIOMETRICS_PAGE": {
+    "tr": "Bibliyometri Görme Yetkisi",
+    "en": "VIEW_BIBLIOMETRICS_PAGE"
+  },
+  "VIEW_PROCESS_PAGE": {
+    "tr": "Süreç Görme Yetkisi",
+    "en": "VIEW_PROCESS_PAGE"
+  },
+  "VIEW_PROCESS_REGISTER_MODE": {
+    "tr": "Süreç Kayıt Modu Görme Yetkisi",
+    "en": "VIEW_PROCESS_REGISTER_MODE"
+  },
+  "VIEW_PROCESS_ACCEPT_MODE": {
+    "tr": "Süreç Kabul Modu Görme Yetkisi",
+    "en": "VIEW_PROCESS_ACCEPT_MODE"
+  },
+  "VIEW_PROCESS_EXPORT_CONTROL_MODE": {
+    "tr": "Süreç Uzman Kontrol Modu Görme Yetkisi",
+    "en": "VIEW_PROCESS_EXPORT_CONTROL_MODE"
+  },
+  "VIEW_PROCESS_OBSERVATION_MODE": {
+    "tr": "Süreç Gözlem Modu Görme Yetkisi",
+    "en": "VIEW_PROCESS_OBSERVATION_MODE"
+  },
+  "VIEW_PROCESS_MEETING_MODE": {
+    "tr": "Süreç Toplantı Modu Görme Yetkisi",
+    "en": "VIEW_PROCESS_MEETING_MODE"
+  },
+  "VIEW_PROCESS_COMMITTEE_ASSESSMENT_MODE": {
+    "tr": "Süreç Komite Değerlendirme Modu Görme Yetkisi",
+    "en": "VIEW_PROCESS_COMMITTEE_ASSESSMENT_MODE"
+  },
+  "VIEW_PROCESS_EXPORT_ASSESSMENT_MODE": {
+    "tr": "Süreç Uzman Atama Modu Görme Yetkisi",
+    "en": "VIEW_PROCESS_EXPORT_ASSESSMENT_MODE"
+  },
+  "VIEW_TOPBAR_MENU": {
+    "tr": "Üst Menu Görme Yetkisi",
+    "en": "VIEW_TOPBAR_MENU"
+  },
+  "CHANGE_ALL_JOURNAL_YEAR_PROCESS": {
+    "tr": "Tüm Dergi Yılı Süreçlerini Değiştirme Yetkisi",
+    "en": "CHANGE_ALL_JOURNAL_YEAR_PROCESS"
+  },
+  "VIEW_PROCESS_EXPORT_CONTROL": {
+    "tr": "Uzman Kontrol Süreci Görme Yetkisi",
+    "en": "VIEW_PROCESS_EXPORT_CONTROL"
+  },
+  "VIEW_PROCESS_REJECT": {
+    "tr": "Süreç Redlerini Görme Yetkisi",
+    "en": "VIEW_PROCESS_REJECT"
+  },
+  "SEND_CORRESPONDENCE": {
+    "tr": "Yazışma Gönderme Yetkisi",
+    "en": "SEND_CORRESPONDENCE"
+  },
+  "FIND_SUBJECT": {
+    "tr": "Konu ALanı Arama Yetkisi",
+    "en": "FIND_SUBJECT"
+  },
+  "CREATE_JOURNAL_NAME_CHANGE_REQUEST": {
+    "tr": "Dergi İsmi Değişikliği İsteği Oluşturma Yetkisi",
+    "en": "CREATE_JOURNAL_NAME_CHANGE_REQUEST"
+  },
+  "UPDATE_JOURNAL_NAME_CHANGE_REQUEST": {
+    "tr": "Dergi İsmi Değişikliği İsteği Güncelleme Yetkisi",
+    "en": "UPDATE_JOURNAL_NAME_CHANGE_REQUEST"
+  },
+  "KEYCLOAK_FIND_USER": {
+    "tr": "KEYCLOAK Üzerinde Kullanıcı Arama Yetkisi",
+    "en": "KEYCLOAK_FIND_USER"
+  },
+  "DO_AUTHOR_PROFILE_REQUEST": {
+    "tr": "Yazar Profili İsteği Oluşturma Yetkisi",
+    "en": "DO_AUTHOR_PROFILE_REQUEST"
+  },
+  "ALL_PROFILE_UPDATE": {
+    "tr": "Tüm Yazar Profilleri Üzerinde İşlem Yapme Yetkisi",
+    "en": "ALL_PROFILE_UPDATE"
+  },
+  "DECIDE_AUTHOR_PROFILE_REQUEST": {
+    "tr": "Yazar Profili İsteğine Karar Verme Yetkisi",
+    "en": "DECIDE_AUTHOR_PROFILE_REQUEST"
+  },
+  "CREATE_AUTHOR": {
+    "tr": "Yazar Oluşturma Yetkisi",
+    "en": "CREATE_AUTHOR"
+  },
+  "UPDATE_AUTHOR": {
+    "tr": "Yazar Güncelleme Yetkisi",
+    "en": "UPDATE_AUTHOR"
+  },
+  "DELETE_AUTHOR": {
+    "tr": "Yazar Silme Yetkisi",
+    "en": "DELETE_AUTHOR"
+  },
+  "SEARCH_AUTHOR": {
+    "tr": "Yazar Arama Yetkisi",
+    "en": "SEARCH_AUTHOR"
+  },
+  "VIEW_AUTHOR_LIST": {
+    "tr": "Yazar Listesi Görüntüleme Yetkisi",
+    "en": "VIEW_AUTHOR_LIST"
+  },
+  "VIEW_AUTHOR_DETAIL": {
+    "tr": "Yazar Detay Görüntüleme Yetkisi",
+    "en": "VIEW_AUTHOR_DETAIL"
+  },
+  "VIEW_AUTHOR_PROFILE": {
+    "tr": "Yazar Profili Görüntüleme Yetkisi",
+    "en": "VIEW_AUTHOR_PROFILE"
+  },
+  "CHANGE_JOURNAL_YEAR_PROCESS_TO_BASVURU": {
+    "tr": "Dergi Yılı Sürecini BAŞVURU Olarak Değiştirme Yetkisi",
+    "en": "CHANGE_JOURNAL_YEAR_PROCESS_TO_BASVURU"
+  },
+  "CHANGE_JOURNAL_YEAR_PROCESS_TO_KABUL": {
+    "tr": "Dergi Yılı Sürecini KABUL Olarak Değiştirme Yetkisi",
+    "en": "CHANGE_JOURNAL_YEAR_PROCESS_TO_KABUL"
+  },
+  "CHANGE_JOURNAL_YEAR_PROCESS_TO_RET": {
+    "tr": "Dergi Yılı Sürecini RET Olarak Değiştirme Yetkisi",
+    "en": "CHANGE_JOURNAL_YEAR_PROCESS_TO_RET"
+  },
+  "CHANGE_JOURNAL_YEAR_PROCESS_TO_UZMAN_KONTROLU": {
+    "tr": "Dergi Yılı Sürecini UZMAN-KONTROLÜ Olarak Değiştirme Yetkisi",
+    "en": "CHANGE_JOURNAL_YEAR_PROCESS_TO_UZMAN_KONTROLU"
+  },
+  "CHANGE_JOURNAL_YEAR_PROCESS_TO_IZLEME": {
+    "tr": "Dergi Yılı Sürecini İZLEME Olarak Değiştirme Yetkisi",
+    "en": "CHANGE_JOURNAL_YEAR_PROCESS_TO_IZLEME"
+  },
+  "CHANGE_JOURNAL_YEAR_PROCESS_TO_KOMITE_DEGERLENDIRMESI": {
+    "tr": "Dergi Yılı Sürecini KOMİTE_DEĞERLENDİRMESİ Olarak Değiştirme Yetkisi",
+    "en": "CHANGE_JOURNAL_YEAR_PROCESS_TO_KOMITE_DEGERLENDIRMESI"
+  },
+  "CHANGE_JOURNAL_YEAR_PROCESS_TO_TOPLANTI": {
+    "tr": "Dergi Yılı Sürecini TOPLANTI Olarak Değiştirme Yetkisi",
+    "en": "CHANGE_JOURNAL_YEAR_PROCESS_TO_TOPLANTI"
+  },
+  "CHANGE_JOURNAL_YEAR_PROCESS_TO_UZMAN_DEGERLENDIRMESI": {
+    "tr": "Dergi Yılı Sürecini UZMAN_DEĞERLENDİRMESİ Olarak Değiştirme Yetkisi",
+    "en": "CHANGE_JOURNAL_YEAR_PROCESS_TO_UZMAN_DEGERLENDIRMESI"
+  },
+  "MERGE_AUTHOR": {
+    "tr": "Yazar Birlşetirme Yetkisi",
+    "en": "MERGE_AUTHOR"
+  },
+  "VIEW_JOURNAL_YEAR_PROCESS_ALL_JOURNAL_FOR_PROCESS_PAGE": {
+    "tr": "Tüm Dergiler İçin Derig Yılı Süreçlerini Görme Yetkisi",
+    "en": "VIEW_JOURNAL_YEAR_PROCESS_ALL_JOURNAL_FOR_PROCESS_PAGE"
+  },
+  "FIND_LANGUAGE": {
+    "tr": "Dil Arama Yetkisi",
+    "en": "FIND_LANGUAGE"
+  },
+  "CREATE_ROLE": {
+    "tr": "Rol Oluşturma Yetkisi",
+    "en": "CREATE_ROLE"
+  },
+  "FIND_ROLE": {
+    "tr": "Rol Arama Yetkisi",
+    "en": "FIND_ROLE"
+  },
+  "UPDATE_ROLE": {
+    "tr": "Rol Güncelleme Yetkisi",
+    "en": "UPDATE_ROLE"
+  },
+  "DELETE_ROLE": {
+    "tr": "Rol Silme Yetkisi",
+    "en": "DELETE_ROLE"
+  },
+  "REJECT_PUBLICATION_RECOMMEND": {
+    "tr": "Yayın Önerisini Reddetme Yetkisi",
+    "en": "REJECT_PUBLICATION_RECOMMEND"
+  },
+  "DELETE_CORRESPONDENCE": {
+    "tr": "Yazışma Silme Yetkisi",
+    "en": "DELETE_CORRESPONDENCE"
+  },
+  "CREATE_JOURNAL_AUTH_REQUEST": {
+    "tr": "Dergide Yetkili Kullanıcı İsteği Oluşturma Yetkisi",
+    "en": "CREATE_JOURNAL_AUTH_REQUEST"
+  },
+  "DECIDE_JOURNAL_AUTH_REQUEST": {
+    "tr": "Dergide Yetkili Kullanıcı İsteğine Karar Verme Yetkisi",
+    "en": "DECIDE_JOURNAL_AUTH_REQUEST"
+  },
+  "CREATE_JOURNAL_ISSUE_NOT_POOL": {
+    "tr": "Havuzda Olmayan Dergi Sayısı Oluşturma Yetkisi",
+    "en": "CREATE_JOURNAL_ISSUE_NOT_POOL"
+  },
+  "UPDATE_PUBLICATION_POOL_STATUS_TO_WAITING_EDIT": {
+    "tr": "Düzenlenmeyi Bekleyen Yayın Havuzu Durumunu Güncelleme Yetkisi",
+    "en": "UPDATE_PUBLICATION_POOL_STATUS_TO_WAITING_EDIT"
+  },
+  "UPDATE_PUBLICATION_POOL_STATUS_TO_WAITING_CHECK": {
+    "tr": "Kontrol Edilmeyi Bekleyen Yayın Havuzu Durumunu Güncelleme Yetkisi",
+    "en": "UPDATE_PUBLICATION_POOL_STATUS_TO_WAITING_CHECK"
+  },
+  "UPDATE_PUBLICATION_POOL_STATUS_TO_IN_PROGRESS": {
+    "tr": "Süreçteki Yayın Havuzu Durumunu Güncelleme Yetkisi",
+    "en": "UPDATE_PUBLICATION_POOL_STATUS_TO_IN_PROGRESS"
+  },
+  "UPDATE_PUBLICATION_POOL_STATUS_TO_COMPLETED": {
+    "tr": "Tamamlanmış Yayın Havuzu Durumunu Güncelleme Yetkisi",
+    "en": "UPDATE_PUBLICATION_POOL_STATUS_TO_COMPLETED"
+  },
+  "ASSIGN_POOL_PUBLICATION": {
+    "tr": "Havuza Yayın Atama Yetkisi",
+    "en": "ASSIGN_POOL_PUBLICATION"
+  },
+  "REJECT_PUBLICATION_OWER_AUTHOR": {
+    "tr": "Yayın Sahibi Yazar Reddetme Yetkisi",
+    "en": "REJECT_PUBLICATION_OWER_AUTHOR"
+  },
+  "PUBLICATION_CHECK": {
+    "tr": "Yayın Kontrolü Görme Yetkisi",
+    "en": "PUBLICATION_CHECK"
+  },
+  "ALL_PUBLICATION_CHECK": {
+    "tr": "Tüm Yayın Kontrollerini Görme Yetkisi",
+    "en": "ALL_PUBLICATION_CHECK"
+  },
+  "CREATE_COMMITTEE_ASSESSMENT": {
+    "tr": "Komite Değerlendirmesi Oluştırma Yetkisi",
+    "en": "CREATE_COMMITTEE_ASSESSMENT"
+  },
+  "CREATE_EXPERT_ASSESSMENT": {
+    "tr": "Uzman Değerlendirmesi Oluştırma Yetkisi",
+    "en": "CREATE_EXPERT_ASSESSMENT"
+  },
+  "SHOW_JOURNAL_EXPERT": {
+    "tr": "Dergi Uzmanını Gösterme Yetkisi",
+    "en": "SHOW_JOURNAL_EXPERT"
+  },
+  "IMPERSONATE_USER": {
+    "tr": "Kullanıcı Değiştirme Yetkisi",
+    "en": "Impersonate Another User "
+  },
+  "UPLOAD_FILE": {
+    "tr": "Dosya Yükleme Yetkisi",
+    "en": "UPLOAD_FILE"
+  },
+  "UPDATE_EXPIRED_JOURNAL_ISSUE": {
+    "tr": "Dergi Sayısı Zamana Aşımını Güncelleme Yetkisi",
+    "en": "UPDATE_EXPIRED_JOURNAL_ISSUE"
+  },
+  "JOURNAL_YEAR_STATUS_CHANGE": {
+    "tr": "Dergi Yılı Durumunu Güncelleme Yetkisi",
+    "en": "JOURNAL_YEAR_STATUS_CHANGE"
+  },
+  "CREATE_COMMITTEE_REQUEST": {
+    "tr": "Komite Üyeliği Kayıt Linki Yollama Yetkisi",
+    "en": "CREATE_COMMITTEE_REQUEST"
+  },
+  "VIEW_WIDGET_COMMITTEE_ASSESSMENT_OF_WAITING": {
+    "tr": "Bekleyen Komite Değerlendirmesi Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_COMMITTEE_ASSESSMENT_OF_WAITING"
+  },
+  "VIEW_WIDGET_COMMITTEE_ASSESSMENT_OF_WAITING_FOR_MEETING_DECISION": {
+    "tr": "Toplantı Kararını Bekleyen Komite Değerlendirmesi Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_COMMITTEE_ASSESSMENT_OF_WAITING_FOR_MEETING_DECISION"
+  },
+  "VIEW_WIDGET_COMMITTEE_ASSESSMENT_ALL": {
+    "tr": "Tüme komite Değerlerindirmelerini Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_COMMITTEE_ASSESSMENT_ALL"
+  },
+  "VIEW_WIDGET_COMMITTEE_ASSESSMENT_OF_UNCOMPLETED": {
+    "tr": "Tamamlanmamış Komite Değerlendirmeleri Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_COMMITTEE_ASSESSMENT_OF_UNCOMPLETED"
+  },
+  "VIEW_WIDGET_COMMITTEE_ASSESSMENT_OF_COMPLETED": {
+    "tr": "Tamamlanmış Komite Değerlendirmeleri Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_COMMITTEE_ASSESSMENT_OF_COMPLETED"
+  },
+  "EXPERT_ASSESSMENT_OF_UNCOMPLETED": {
+    "tr": "Tamamlanmamış Uzman Değerlendirmeleri",
+    "en": "Expert Assessment Of Uncompleteded"
+  },
+  "VIEW_WIDGET_EXPERT_ASSESSMENT_OF_UNCOMPLETED": {
+    "tr": "Tamamlanmamış Uzman Değerlendirmeleri Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_EXPERT_ASSESSMENT_OF_UNCOMPLETED"
+  },
+  "VIEW_WIDGET_EXPERT_ASSESSMENT_OF_COMPLETED": {
+    "tr": "Tamamlanmış Uzman Değerlendirmeleri Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_EXPERT_ASSESSMENT_OF_COMPLETED"
+  },
+  "VIEW_WIDGET_EXPERT_CONTROL_LAST_YEAR_IS_ACCEPT": {
+    "tr": "Uzman Kontrolü Son Yıl Kabulü Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_EXPERT_CONTROL_LAST_YEAR_IS_ACCEPT"
+  },
+  "VIEW_WIDGET_EXPERT_CONTROL_HAVE_WARNING": {
+    "tr": "Uyarısı Olan Uzman Kontrolü Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_EXPERT_CONTROL_HAVE_WARNING"
+  },
+  "VIEW_WIDGET_EXPERT_CONTROL_COMMITTEE_MEMBER_SELECTED": {
+    "tr": "Uzman Kontrolü Komite Üyesi Seçme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_EXPERT_CONTROL_COMMITTEE_MEMBER_SELECTED"
+  },
+  "VIEW_WIDGET_PROCESS_STATUS_OF_REGISTER": {
+    "tr": "Kayıylı  Süreç Durumları Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_PROCESS_STATUS_OF_REGISTER"
+  },
+  "VIEW_WIDGET_EXPERT_ASSESSMENT_IS_WAITING": {
+    "tr": "Bekleyen Uzman Değerlendirmeleri Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_EXPERT_ASSESSMENT_IS_WAITING"
+  },
+  "VIEW_WIDGET_WAITING_NEW_REFEREE_REPORT": {
+    "tr": "Bekleyen Yeni Hakem Raporu Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_WAITING_NEW_REFEREE_REPORT"
+  },
+  "VIEW_WIDGET_PROCESS_STATUS_OF_EXPERT_CONTROL": {
+    "tr": "Uzman Kontrolü Süreç Durumu Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_PROCESS_STATUS_OF_EXPERT_CONTROL"
+  },
+  "VIEW_WIDGET_PROCESS_STATUS_OF_VIEW": {
+    "tr": "Süreç Durumu Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_PROCESS_STATUS_OF_VIEW"
+  },
+  "VIEW_WIDGET_AUTHOR_CITATION_COUNT": {
+    "tr": "Yazar Atıf Sayısı Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_AUTHOR_CITATION_COUNT"
+  },
+  "VIEW_WIDGET_AUTHOR_H_INDEX": {
+    "tr": "Yazar H-Index Sayısı Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_AUTHOR_H_INDEX"
+  },
+  "VIEW_WIDGET_AUTHOR_IN_CITATION_COUNT": {
+    "tr": "Yazarın Kendine Atıf Sayısı Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_AUTHOR_IN_CITATION_COUNT"
+  },
+  "VIEW_WIDGET_AUTHOR_IN_CITATION_AVG": {
+    "tr": "Yazarın Kendine Atıf Ortalaması Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_AUTHOR_IN_CITATION_AVG"
+  },
+  "VIEW_WIDGET_AUTHOR_PAPER_COUNT": {
+    "tr": "Yazar Makale Sayısı Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_AUTHOR_PAPER_COUNT"
+  },
+  "VIEW_WIDGET_AUTHOR_PROJECT_COUNT": {
+    "tr": "Yazar Proje Sayısı Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_AUTHOR_PROJECT_COUNT"
+  },
+  "VIEW_WIDGET_MY_MEETINGS": {
+    "tr": "Toplantı Görme Yetkisi (Widget)",
+    "en": "VIEW_WIDGET_MY_MEETINGS"
+  },
+  "FIND_REFEREE_REPORT": {
+    "tr": "Hakem Raporu Arama Yetkisi",
+    "en": "FIND_REFEREE_REPORT"
+  },
+  "FIND_ASSESSMENT_BY_JOURNAL": {
+    "tr": "Dergi Değerlendirmesi Arama Yetkisi",
+    "en": "FIND_ASSESSMENT_BY_JOURNAL"
+  },
+  "FIND_PROJECT_GROUP": {
+    "tr": "Proje Grubu Arama Yetkisi",
+    "en": "FIND_PROJECT_GROUP"
+  },
+  "FIND_JOURNAL_WAITING_JOB": {
+    "tr": "Dergi Bekleyen İşler Arama Yetkisi",
+    "en": "FIND_JOURNAL_WAITING_JOB"
+  },
+  "CHANGE_JOURNAL_YEAR_SUBJECT": {
+    "tr": "Dergi Yılı Konu Alanı Güncelleme Yetkisi",
+    "en": "CHANGE_JOURNAL_YEAR_SUBJECT"
+  },
+  "CHANGE_JOURNAL_YEAR_PROCESS": {
+    "tr": "Dergi Yılı Süreç Güncelleme Yetkisi",
+    "en": "CHANGE_JOURNAL_YEAR_PROCESS"
+  },
+  "FIND_JOURNAL_YEAR_PROCESS_HISTORY": {
+    "tr": "Dergi Yılı Süreç Geçmişi Bulma Yetkisi",
+    "en": "FIND_JOURNAL_YEAR_PROCESS_HISTORY"
+  },
+  "VIEW_PROCESS_REJECT_MODE": {
+    "tr": "Ret Süreç Sayfası Görüntüleme Yetkisi",
+    "en": "VIEW_PROCESS_REJECT_MODE"
+  },
+  "VIEW_MEETING_MANAGEMENT_PAGE": {
+    "tr": "Toplantı Yönetim Sayfası Görüntüleme Yetkisi",
+    "en": "VIEW_MEETING_MANAGEMENT_PAGE"
+  },
+  "VIEW_CORRESPONDENCE_TEMPLATES_MANAGEMENT_PAGE": {
+    "tr": "Yazışma Şablon Yönetim Sayfası Görüntüleme Yetkisi",
+    "en": "VIEW_CORRESPONDENCE_TEMPLATES_MANAGEMENT_PAGE"
+  },
+  "VIEW_SYSTEM_SETTINGS_MANAGEMENT_PAGE": {
+    "tr": "Sistem Ayar Yönetim Sayfası Görüntüleme Yetkisi",
+    "en": "VIEW_SYSTEM_SETTINGS_MANAGEMENT_PAGE"
+  },
+  "EDIT_CHATBOT": {
+    "tr": "Chatbot Yönetim Sayfası Görüntüleme Yetkisi",
+    "en": "EDIT_CHATBOT"
+  },
+  "VIEW_NOTIFICATIONS": {
+    "tr": "Gelen Bildirim Görüntüleme Yetkisi",
+    "en": "VIEW_NOTIFICATIONS"
+  },
+  "VIEW_INBOXCORRESPONDENCES_PAGE": {
+    "tr": "Gelen Yazışma Görüntüleme Yetkisi",
+    "en": "VIEW_INBOXCORRESPONDENCES_PAGE"
+  },
+  "SEND_CORRESPONDENCE_NOTIFICATION": {
+    "tr": "Bildirim Gönderme Yetkisi",
+    "en": "SEND_CORRESPONDENCE_NOTIFICATION"
+  },
+  "VIEW_MEETING_DETAILS_PAGE": {
+    "tr": "Toplantı Detay Sayfası Görüntüleme Yetkisi",
+    "en": "VIEW_MEETING_DETAILS_PAGE"
+  },
+  "EDIT_MEETING_PAGE": {
+    "tr": "Toplantı Düzenleme Sayfası Görüntüleme Yetkisi",
+    "en": "EDIT_MEETING_PAGE"
+  },
+  "DELETE_MEETING": {
+    "tr": "Toplantı Silme Yetkisi",
+    "en": "DELETE_MEETING"
+  },
+  "ADD_MEETING_PAGE": {
+    "tr": "Toplantı Oluşturma Yetkisi",
+    "en": "ADD_MEETING_PAGE"
+  },
+  "VIEW_EDIT_CORRESPONDENCE_TEMPLATE_PAGE": {
+    "tr": "Yazışma Şablon Yönetimi Sayfası Görüntüleme Yetkisi",
+    "en": "VIEW_EDIT_CORRESPONDENCE_TEMPLATE_PAGE"
+  },
+  "VIEW_JOURNAL_HISTORY": {
+    "tr": "Dergi Geçmişini Görme Yetkisi",
+    "en": "VIEW_JOURNAL_HISTORY"
+  },
+  "VIEW_PROCESS_ACCEPT": {
+    "tr": "Kabul Süreç Sayfası Görüntüleme Yetkisi",
+    "en": "VIEW_PROCESS_ACCEPT"
+  },
+  "VIEW_CORRESPONDENCE_SEND_USER": {
+    "tr": "Yazışma Gönderen Kullanıcıyı Görme Yetkisi",
+    "en": "VIEW_CORRESPONDENCE_SEND_USER"
+  },
+  "VIEW_PROCESS_COMMITTEE_ASSESSMENT": {
+    "tr": "Komite Değerlendirmesi Süreç Sayfası Görüntüleme Yetkisi",
+    "en": "VIEW_PROCESS_COMMITTEE_ASSESSMENT"
+  },
+  "VIEW_PROCESS_MEETING": {
+    "tr": "Toplantı Süreç Sayfası Görüntüleme Yetkisi",
+    "en": "VIEW_PROCESS_MEETING"
+  },
+  "VIEW_PROCESS_EXPORT_ASSESSMENT": {
+    "tr": "Uzman Değerlendirmesi Süreç Sayfası Görüntüleme Yetkisi",
+    "en": "VIEW_PROCESS_EXPORT_ASSESSMENT"
+  },
+  "VIEW_PROCESS_OBSERVATION": {
+    "tr": "Başvuru Süreç Sayfası Görüntüleme Yetkisi",
+    "en": "VIEW_PROCESS_OBSERVATION"
+  },
+  "VIEW_AUTHOR_FULL_IDENTITY_ID": {
+    "tr": "Yazar Tam Kimlik Bilgisi Görme Yetkisi",
+    "en": "VIEW_AUTHOR_FULL_IDENTITY_ID"
+  },
+  "EDIT_NOTE": {
+    "tr": "Not Düzenleme Yetkisi",
+    "en": "EDIT_NOTE"
+  },
+  "DELETE_NOTE": {
+    "tr": "Not Silme Yetkisi",
+    "en": "DELETE_NOTE"
+  },
+  "CREATE_ALL_ASSESSMENT": {
+    "tr": "Tüm Değerlendirmeleri Yapabilme Yetkisi",
+    "en": "CREATE_ALL_ASSESSMENT"
+  },
+  "FIND_ALL_PUBLICATION": {
+    "tr": "Tüm Yayınları Görme Yetkisi",
+    "en": "FIND_ALL_PUBLICATION"
+  },
+  "FIND_JOURNAL_NAME_CHANGE_REQUEST": {
+    "tr": "Dergi isim/issn değişiklik isteklerini görüntüleyebilme yetkisi",
+    "en": "FIND_JOURNAL_NAME_CHANGE_REQUEST"
+  },
+  "VIEW_WIDGET_PROCESS_NEW_APPEAL": {
+    "tr": "Yeni başvuru yapan dergiler widget görüntüleyebilme yetkisi",
+    "en": "VIEW_WIDGET_PROCESS_NEW_APPEAL"
+  },
+  "VIEW_SEND_CORRESPONDENCE_PAGE": {
+    "tr": "Eski TRDizin Yazışma Gönderme Ekranının Görüntülenebilmesi",
+    "en": "VIEW_SEND_CORRESPONDENCE_PAGE"
+  },
+  "VIEW_CORRESPONDENCE_DETAILS": {
+    "tr": "Eski TRDizin Yazışma Detayının Görüntülenebilmesi",
+    "en": "VIEW_CORRESPONDENCE_DETAILS"
+  },
+  "VIEW_REPLY_CORRESPONDENCE_PAGE": {
+    "tr": "Eski TRDizin Yazışma Cevaplama Yetkisi",
+    "en": "VIEW_REPLY_CORRESPONDENCE_PAGE"
+  },
+  "DELETE_INBOX_CORRESPONDENCE": {
+    "tr": "Eski TRDizin Gelen Yazışma Silme Yetkisi",
+    "en": "DELETE_INBOX_CORRESPONDENCE"
+  },
+  "DELETE_SENT_CORRESPONDENCE": {
+    "tr": "Eski TRDizin Giden Yazışma Silebilme Yetkisi",
+    "en": "DELETE_SENT_CORRESPONDENCE"
+  },
+  "VIEW_JOURNAL_NOTE": {
+    "tr": "Dergi Notlarını Görebilme Yetkisi",
+    "en": "VIEW_JOURNAL_NOTE"
+  },
+  "VIEW_PUBLICATION_NOTE": {
+    "tr": "Makale Notlarını Görebilme Yetkisi",
+    "en": "VIEW_PUBLICATION_NOTE"
+  },
+  "VIEW_COMMITTEE_NOTE": {
+    "tr": "Komite Notlarını Görebilme Yetkisi",
+    "en": "VIEW_COMMITTEE_NOTE"
+  },
+  "VIEW_EXPERT_NOTE": {
+    "tr": "Uzman Notlarını Görebilme Yetkisi",
+    "en": "VIEW_EXPERT_NOTE"
+  },
+  "UPDATE_REFEREE_REPORT": {
+    "tr": "Hakem Raporları Güncelleme Yetkisi",
+    "en": "UPDATE_REFEREE_REPORT"
+  },
+  "VIEW_JOURNAL_YEAR_SUBJECT": {
+    "tr": "Dergi Konu Alanlarını Görme Yetkisi",
+    "en": "VIEW_JOURNAL_YEAR_SUBJECT"
+  },
+  "UPDATE_JOURNAL_PERIOD_PREVIOUS_YEAR": {
+    "tr": "Geçmişe dönük periyot güncellemesi yapabilme yetkisi",
+    "en": "UPDATE_JOURNAL_PERIOD_PREVIOUS_YEAR"
+  },
+  "SHOW_PERSON_DETAIL": {
+    "tr": "Kişilerin(Person) tüm verilerini görüntüleyebilme yetkisi",
+    "en": "SHOW_PERSON_DETAIL"
+  },
+  "PAPER_ASSIGNABLE_USER": {
+    "tr": "Makale ataması yapılabilir kullanıcı yetkisi",
+    "en": "PAPER_ASSIGNABLE_USER"
+  },
+  "ADD_JOURNAL_YEAR_SUBJECT": {
+    "tr": "Dergi Yılına Konu Alanı Ekleme Yetkisi",
+    "en": "ADD_JOURNAL_YEAR_SUBJECT"
+  },
+  "CREATE_REFEREE_REPORT": {
+    "tr": "Hakem Raporu Ekleme Yetkisi",
+    "en": "CREATE_REFEREE_REPORT"
+  },
+  "VIEW_COMMITTEEASSESSMENT_LIST": {
+    "tr": "Komite Değerlendirmelerini Görüntüleme Yetkisi",
+    "en": "VIEW_COMMITTEEASSESSMENT_LIST"
+  },
+  "ASSIGN_COMMITTEE_MEMBER_TO_JOURNAL": {
+    "tr": "Komite Üyesi Atama Yetkisi",
+    "en": "ASSIGN_COMMITTEE_MEMBER_TO_JOURNAL"
+  },
+  "FIND_JOURNAL_CORRESPONDENCE_POST": {
+    "tr": "Derginin Posta Türündeki Yazışmalarını Görüntüleme Yetkisi",
+    "en": "FIND_JOURNAL_CORRESPONDENCE_POST"
+  },
+  "ADD_FILE_POST_CORRESPONDENCE": {
+    "tr": "Posta Türündeki Yazışmalara Karar Yazısı Ekleme Yetkisi",
+    "en": "ADD_FILE_POST_CORRESPONDENCE"
+  },
+  "CREATE_JOURNAL_YEAR_SELECT_ALL_YEAR": {
+    "tr": "Yıl kaydı ekleme/düzenleme işlemlerinde yıl sınırı olmadan seçim yapılabilme yetkisi",
+    "en": "CREATE_JOURNAL_YEAR_SELECT_ALL_YEAR"
+  },
+  "FIND_ALL_JOURNAL": {
+    "tr": "Tüm dergileri görüntüleme yetkisi",
+    "en": "FIND_ALL_JOURNAL"
+  },
+  "BYPASS_JOURNAL_CONTRACT_FILE_UPLOAD": {
+    "tr": "Dergi Sözleşme Dosyası Yükleme Zorunluluğunu Gecersiz Kılma Yetkisi",
+    "en": "BYPASS_JOURNAL_CONTRACT_FILE_UPLOAD"
+  },
+  "abstractContent": {
+    "tr": "Öz",
+    "en": "abstractContent"
+  },
+  "correspondenceTemplate": {
+    "tr": "Yazışma Şablonu",
+    "en": "Correspondence Template"
+  },
+  "enterCorrespondenceTemplate": {
+    "tr": "Yazışma Şablonu Seçiniz",
+    "en": "Correspondence Template Selected"
+  },
+  "JournalYear": {
+    "tr": "Dergi Yılı",
+    "en": "Journal Year"
+  },
+  "selectedCorrespondencejournalYear": {
+    "tr": "Dergi Yılı Seçiniz",
+    "en": "Journal Year Selected"
+  },
+  "correspondenceTitle": {
+    "tr": "Yazışma Başlıgı",
+    "en": "Correspondence Title"
+  },
+  "enterCorrespondenceTitle": {
+    "tr": "Yazışma Başlıgı Giriniz",
+    "en": "Enter Correspondence Title"
+  },
+  "correspondenceContext": {
+    "tr": "Yazışma İçeriği",
+    "en": "Correspondence Context"
+  },
+  "enterCorrespondenceContext": {
+    "tr": "Yazışma Konusu Giriniz",
+    "en": "Enter Correspondence Context"
+  },
+  "correspondenceAttachment": {
+    "tr": "Yazışma Eki",
+    "en": "Correspondence Attachment"
+  },
+  "sendType": {
+    "tr": "Gönderim Türü",
+    "en": "Send Type"
+  },
+  "selectedsendType": {
+    "tr": "Seçiniz",
+    "en": "Send Type Selected"
+  },
+  "correspondenceWarning": {
+    "tr": "Uyarı Olarak İşaretle",
+    "en": "Mark As Warning"
+  },
+  "post": {
+    "tr": "Posta",
+    "en": "Post"
+  },
+  "UserIdNotFoundForAuthor": {
+    "tr": "Yazarla İlişkli Kimlik Bilgisi Bulunamadı!",
+    "en": "UserId Not Found For Author"
+  },
+  "CombinationIssuePeriodsMustBeSequentialError": {
+    "tr": "Sayı Periyotları Ardışık Aylar Seçilmelidir!",
+    "en": "Combination Issue Periods Must Be Sequential!"
+  },
+  "EmptyPeriod": {
+    "tr": "En Az 1 Ay Seçilmelidir!",
+    "en": "Must Be Selected For At Least 1 Month!"
+  },
+  "PdfNotNull": {
+    "tr": "Pdf Alanı Boş Geçilemez!",
+    "en": "Pdf Must Be Not Null!"
+  },
+  "YearError": {
+    "tr": "Yıl Alanı Hatalı!",
+    "en": "Year Value Must Be Availabel!"
+  },
+  "EmptySubject": {
+    "tr": "Konu Alanı Boş Geçilemez!",
+    "en": "Subject Field Cannot Be Empty"
+  },
+  "ActionPermissionError": {
+    "tr": "Bu işlemi yapma yetkiniz yok!",
+    "en": "You have not permission for this action!"
+  },
+  "NotDeleteJournalHaveIssue": {
+    "tr": "Sayısı olduğu için dergi silinemedi!",
+    "en": "Journal delete failed because of have issue!"
+  },
+  "NotDeleteIssueHavePublication": {
+    "tr": "Makalesi olduğu için sayı silinemedi!",
+    "en": "Issue delete failed because of have publication!"
+  },
+  "NotDeleteYearHaveIssue": {
+    "tr": "Sayısı olduğu için yıl kaydı silinemedi!",
+    "en": "Year delete failed because of have issue!"
+  },
+  "NotDeleteContractHaveYear": {
+    "tr": "Yılda ekli olduğu için Sözleşme silinemedi!",
+    "en": "Contract could not be deleted because it was added in the year!"
+  },
+  "PRINTED": {
+    "tr": "Basılı",
+    "en": "Printed"
+  },
+  "ELECTRONIC": {
+    "tr": "Elektronik",
+    "en": "Electronic"
+  },
+  "BOTH": {
+    "tr": "Basılı ve Elektronik",
+    "en": "Printed and Electronic"
+  },
+  "PAPER": {
+    "tr": "Makale",
+    "en": "Paper"
+  },
+  "PROJECT": {
+    "tr": "Proje",
+    "en": "Project"
+  },
+  "NotNullPeriod": {
+    "tr": "Periyot bilgisi boş geçilemez!",
+    "en": "Period must be not null!"
+  },
+  "month-1": {
+    "tr": "Ocak",
+    "en": "January"
+  },
+  "month-2": {
+    "tr": "Şubat",
+    "en": "February"
+  },
+  "month-3": {
+    "tr": "Mart",
+    "en": "March"
+  },
+  "month-4": {
+    "tr": "Nisan",
+    "en": "April"
+  },
+  "month-5": {
+    "tr": "Mayıs",
+    "en": "May"
+  },
+  "month-6": {
+    "tr": "Haziran",
+    "en": "June"
+  },
+  "month-7": {
+    "tr": "Temmuz",
+    "en": "July"
+  },
+  "month-8": {
+    "tr": "Ağustos",
+    "en": "August"
+  },
+  "month-9": {
+    "tr": "Eylül",
+    "en": "September"
+  },
+  "month-10": {
+    "tr": "Ekim",
+    "en": "October"
+  },
+  "month-11": {
+    "tr": "Kasım",
+    "en": "November"
+  },
+  "month-12": {
+    "tr": "Aralık",
+    "en": "December"
+  },
+  "SaveAndContinue": {
+    "tr": "Kaydet & Devam",
+    "en": "Save & Continue"
+  },
+  "NoSelectedSubjects": {
+    "tr": "Seçilmiş herhangi bir konu yok.",
+    "en": "There are no selected subjects."
+  },
+  "NoSelectedAbstractContents": {
+    "tr": "Seçilmiş herhangi bir proje bilgisi yok.",
+    "en": "There are no selected abstract contents."
+  },
+  "TotalNumber": {
+    "tr": "Toplam Kayıt",
+    "en": "Total Number"
+  },
+  "TotalPage": {
+    "tr": "Toplam Sayfa",
+    "en": "Total Page"
+  },
+  "PublicationCheckList": {
+    "tr": "Yayın Kontrol Listesi",
+    "en": "Publication Check List"
+  },
+  "TakeOnNewIssue": {
+    "tr": "Yeni Sayı Al",
+    "en": "Take On New Issue"
+  },
+  "TakeOnNewProject": {
+    "tr": "Yeni Proje Al",
+    "en": "Take On New Project"
+  },
+  "TakeOn": {
+    "tr": "Kontrol İçin Ata",
+    "en": "Assign For Control"
+  },
+  "TakeOff": {
+    "tr": "Üzerinden Bırak",
+    "en": "Take Off"
+  },
+  "Controller": {
+    "tr": "Kontrolör",
+    "en": "Controller"
+  },
+  "Process": {
+    "tr": "Süreç",
+    "en": "Process"
+  },
+  "PublicationCount": {
+    "tr": "Yayın Sayısı",
+    "en": "Publication Count"
+  },
+  "MAIL": {
+    "tr": "E-Posta",
+    "en": "E-mail"
+  },
+  "POST": {
+    "tr": "Posta",
+    "en": "Post"
+  },
+  "KABUL": {
+    "tr": "Kabul",
+    "en": "Accept"
+  },
+  "RET": {
+    "tr": "Ret",
+    "en": "Reject"
+  },
+  "WAITING_CHECK": {
+    "tr": "Kontrol Bekliyor",
+    "en": "Waiting Check"
+  },
+  "WAITING_EDIT": {
+    "tr": "Editör Düzenleme",
+    "en": "Waiting Editor"
+  },
+  "IN_PROGRESS": {
+    "tr": "Kontrol Ediliyor",
+    "en": "In Progress"
+  },
+  "COMPLETED": {
+    "tr": "Tamamlandı",
+    "en": "Completed"
+  },
+  "Approved": {
+    "tr": "Onaylandı",
+    "en": "Approved"
+  },
+  "Approve": {
+    "tr": "Onayla",
+    "en": "Approve"
+  },
+  "NotApproved": {
+    "tr": "Onaylanmadı",
+    "en": "Not Approved"
+  },
+  "Refused": {
+    "tr": "Reddedildi",
+    "en": "Refused"
+  },
+  "ApprovalStatus": {
+    "tr": "Onay Durumu",
+    "en": "Approval Status"
+  },
+  "CommitteeAssessments":{
+    "tr":"Komite Değerlendirmesi",
+    "en":"Committee Assessments"
+  },
+  "ExpertAssessments":{
+    "tr":"Uzman Değerlendirmesi",
+    "en":"Expert Assessments"
+  },
+  "ExpertControlForm":{
+    "tr":"Uzman Kontrol",
+    "en":"Expert Controls"
+  },
+  "EmptyJournal": {
+    "tr": "Bir Dergi Seçiniz!",
+    "en": "Choose A Journal!"
+  },
+  "EmptyDescription": {
+    "tr": "Açıklama Alanı Boş Geçilemez!",
+    "en": "Description Field Cannot Be Empty!"
+  },
+  "JournalAuthRequest": {
+    "tr": "Dergi Sorumluluğu İstekleri",
+    "en": "Journal Responsibility Requests"
+  },
+  "Edited":{
+    "tr":"Güncellendi",
+    "en":"Edited"
+  },
+  "Created":{
+    "tr":"Oluşturuldu",
+    "en":"Created"
+  },
+  "Appointment":{
+    "tr":"Atanma",
+    "en":"Appointment"
+  },
+  "Completion":{
+    "tr":"Tamamlanma",
+    "en":"Completion"
+  },
+  "TransactionConfirm": {
+    "tr": "İşlemi Onaylıyor Musunuz?",
+    "en": "Do You Confirm The Transaction?"
+  },
+  "RequestNewRefereeReportSuccess": {
+    "tr": "Yeni Hakem Raporu isteme işlemi Başarıyla Yapıldı.",
+    "en": "Requesting a New Referee Report was Successfully Done."
+  },
+  "EmptyPdf": {
+    "tr": "PDF Dosyası Boş Geçilemez, Tüm PDF Dosyalarını Yükleyiniz.",
+    "en": "PDF File Cannot Be Empty, Upload All PDF Files."
+  },
+  "EmptyPaperTitle": {
+    "tr": "Makale Başlıgı Boş Geçilemez, Tüm Makale Başlıklarını Giriniz.",
+    "en": "Paper Title Cannot Be Blank, Enter All Article Titles."
+  },
+  "EmptyNumber": {
+    "tr": "Sayı numarası boş geçilemez",
+    "en": "Number cannot be blank"
+  },
+  "TotalPaperCountInfo": {
+    "tr": "Hakemli ve Referanslı Makalelerin Sayısıdır",
+    "en": "Number of Referee-Reviewed and Referenced Articles"
+  },
+  "IssueLoadingTimeDayInfo": {
+    "tr": "Sayıları Düzenleme İşlemi sayı oluşturulduktan sonra 15 gün boyunca yapılabilir",
+    "en": "Editing Issues can be done up to 15 days after issue is created"
+  },
+  "RefereeeReportLoadingTimeDayInfo": {
+    "tr": "Hakem Raporu Düzenleme İşlemi ilgili kayıtlar yüklendikten sonra 15 gün boyunca yapılabilir.",
+    "en": "Referee Report Editing can be done for 15 days after the relevant records are uploaded."
+  },
+  "RefereeeReportUploadReport": {
+    "tr": "Hakem raporu yüklemek için yukarıdan bir sayıya tıklayıp Rapor Yükle butonuna basınız.",
+    "en": "To upload the referee report, click on a number above and press the Upload Report button."
+  },
+  "RefereeReportPaperTitleInfo": {
+    "tr": "Makale adı dergide geçtiği şekilde girilmelidir",
+    "en": "The article name should be entered as it appears in the journal."
+  },
+  "SpecialIssue": {
+    "tr": "Özel Sayı",
+    "en": "Special Issue"
+  },
+  "PublicationToBeCorrected": {
+    "tr": "Düzeltilecek Yayın",
+    "en": "Publication to be Corrected"
+  },
+  "ChoosePublicationToBeCorrected": {
+    "tr": "Düzeltilecek Yayını Seç",
+    "en": "Choose Publication to be Corrected"
+  },
+  "MustChoosePublicationToBeCorrected": {
+    "tr": "Düzeltilecek Yayını Seçmelisiniz!",
+    "en": "You must choose the publication to be corrected!"
+  },
+  "MissingJournalIssue": {
+    "tr": "Yayın sayısı tanımsız!",
+    "en": "Missing Journal Issue!"
+  },
+  "PerYearPublicatios": {
+    "tr": "Yayın Sayısı(Yılda)",
+    "en": "Number of Publications (Per Year)"
+  },
+  "MonthsOfPublish": {
+    "tr": "Yayımlanması Gereken Aylar",
+    "en": "Months to Publish"
+  },
+  "DeletePaperPool": {
+    "tr": "Makale Havuzunu Sil",
+    "en": "Delete Paper Pool"
+  },
+  "MustChooseAPerson": {
+    "tr": "Kişi Seçmelisiniz",
+    "en": "Must Choose A Person"
+  },
+  "UploadedRefereeReport": {
+    "tr": "Yüklenmiş Hakem Raporu",
+    "en": "Uploaded Referee Report"
+  },
+  "NotUploadedRefereeReport": {
+    "tr": "Yüklenmemiş Hakem Raporu",
+    "en": "Not Uploaded Referee Report"
+  },
+  "Confirmantion": {
+    "tr": "Onay",
+    "en": "Confirmantion"
+  },
+  "AreYouSureUpdate": {
+    "tr": "Güncellemek İstediğinize Emin Misiniz?",
+    "en": "Are You Sure You Want To Update?"
+  },
+  "OpenReportForUpdate": {
+    "tr": "Raporu Güncellemeye Aç",
+    "en": "Open Report For Update"
+  },
+  "OpenJournalIssueForUpdate": {
+    "tr": "Sayıyı Güncellemeye Aç",
+    "en": "Open Journal Issue For Update"
+  },
+  "AdditionalPublicationsAdded": {
+    "tr": "Ek Raporlar Eklendi",
+    "en": "Additional Reports Added"
+  },
+  "PaperCheckList": {
+    "tr": "Makale Kontrol Listesi",
+    "en": "Paper Check List"
+  },
+  "Approve": {
+    "tr": "Onayla",
+    "en": "Approve"
+  },
+  "ApproveIssue": {
+    "tr": "Sayıyı Onayla",
+    "en": "Approve Issue"
+  },
+  "Refuse": {
+    "tr": "Reddet",
+    "en": "Refuse"
+  },
+  "DeleteSelected": {
+    "tr": "Seçilenleri Sil",
+    "en": "Delete Selected"
+  },
+  "PageRange": {
+    "tr": "Sayfa Aralığı",
+    "en": "Page Range"
+  },
+  "CommitteeRegistrationLink": {
+    "tr": "Komite Kayıt Linki",
+    "en": "Committee Registration Link"
+  },
+  "CreateCommitteeRegistrationLink": {
+    "tr": "Komite Kayıt Linki Oluştur",
+    "en": "Create Committee Registration Link"
+  },
+  "CreateRequest": {
+    "tr": "İstek Oluştur",
+    "en": "Create Request"
+  },
+  "Close": {
+    "tr": "Kapat",
+    "en": "Close"
+  },
+  "Search": {
+    "tr": "Ara",
+    "en": "Search"
+  },
+  "ViewProfile": {
+    "tr": "Profili Gör",
+    "en": "View Profile"
+  },
+  "CommitteeProfile": {
+    "tr": "Komite Üyesi Profili",
+    "en": "Committee Profile"
+  },
+  "SelectCommitteeMember": {
+    "tr": "Komite Üye Seçimi",
+    "en": "Committee Member Election"
+  },
+  "AwaitingNewRefereeReport": {
+    "tr": "Toplantıdan Değerlendirmeye Dönenler",
+    "en": "Returns from Meeting to Evaluation"
+  },
+  "ProcessStatus": {
+    "tr": "Süreç Durumu",
+    "en": "Process Status"
+  },
+  "ExpertControlProcessStatus": {
+    "tr": "Uzman Kontrolü Bekleyenler",
+    "en": "Waiting Expert Control"
+  },
+  "CommitteeEvaluationPending": {
+    "tr": "Komite Değerlendirmesi Bekleyenler",
+    "en": "Committee Evaluation Pending"
+  },
+  "MeetingDecisionWaiting": {
+    "tr": "Toplantı Kararı Bekleyenler",
+    "en": "Meeting Decision Waiting"
+  },
+  "CommitteeEvaluationCompleted": {
+    "tr": "Komite Değerlendirmesi Tamamlananlar",
+    "en": "Committee Evaluation Completed"
+  },
+  "AwaitingExpertEvaluation": {
+    "tr": "Uzman Değerlendirmesi Bekleyenler",
+    "en": "Awaiting Expert Evaluation"
+  },
+  "ThoseWhoHaveWarningsinExpertEvaluation": {
+    "tr": "Uzman Değerlendirmede Uyarısı Olanlar",
+    "en": "Those Who Have Warnings in Expert Evaluation"
+  },
+  "InMonitoring": {
+    "tr": "İzleme Durumu",
+    "en": "In Monitoring"
+  },
+  "NewApplicants": {
+    "tr": "Yeni Başvurular",
+    "en": "New Applicants"
+  },
+  "NameIssnChange": {
+    "tr": "İsim / ISSN Değişikliği",
+    "en": "Name / ISSN Change"
+  },
+  "AcceptedJournalAuthorizationRequests": {
+    "tr": "Seçilen Görev",
+    "en": "Selected Position"
+  },
+  "CompletedCommitteeAssessment": {
+    "tr": "Tamamlanmış Komite Değerlendirmeleri",
+    "en": "Completed Committee Assessments"
+  },
+  "CompletedExpertAssessment": {
+    "tr": "Tamamlanmış Uzman Değerlendirmeleri",
+    "en": "Completed Expert Assessments"
+  },
+  "CompletedExpertControlForm": {
+    "tr": "Tamamlanmış Uzman Kontrolleri",
+    "en": "Completed Expert Controls"
+  },
+  "YouDontHaveAnAuthorProfile": {
+    "tr": "Yazar Profiliniz Bulunmamaktadır",
+    "en": "You Don't Have an Author Profile"
+  },
+  "MyMeetings": {
+    "tr": "Toplantılarım",
+    "en": "My Meetings"
+  },
+  "TheJournalsofAllPublicationsHaveBeenChanged": {
+    "tr": "Seçili Yayınların Dergileri Değiştirildi.",
+    "en": "The Journals of Selected Publications Have Been Changed."
+  },
+  "MultipleSelection": {
+    "tr": "Çoklu Seçim",
+    "en": "Multiple Selection"
+  },
+  "CancelMultipleSelection": {
+    "tr": "Çoklu Seçim İptal",
+    "en": "Cancel Multiple Selection"
+  },
+  "Transactions": {
+    "tr": "İşlemler",
+    "en": "Transactions"
+  },
+  "ChangeJournal": {
+    "tr": "Dergi Değiştir",
+    "en": "Change Journal"
+  },
+  "ChangeJournalName": {
+    "tr": "Dergi Adı Değiştir",
+    "en": "Change Journal Name"
+  },
+  "SelectAll": {
+    "tr": "Hepsini Seç",
+    "en": "Select All"
+  },
+  "UpdateAll": {
+    "tr": "Hepsini Güncelle",
+    "en": "Update All"
+  },
+  "ApplytoAll": {
+    "tr": "Tümüne Uygula",
+    "en": "Apply to All"
+  },
+  "TheAreaYouClickedHasBeenCopied": {
+    "tr": "Tıkladığınız Alan Kopyalandı",
+    "en": "The Area You Clicked Has Been Copied"
+  },
+  "PublicationNotes": {
+    "tr": "Yayın Notları",
+    "en": "Publication Notes"
+  },
+  "Choose": {
+    "tr": "Seçiniz",
+    "en": "Choose"
+  },
+  "AddResponsible": {
+    "tr": "Sorumlu Ekle",
+    "en": "Add Responsible"
+  },
+  "Creator": {
+    "tr": "Oluşturan",
+    "en": "Creator"
+  },
+  "NewDetail": {
+    "tr": "Yeni Dergi Bilgileri",
+    "en": "New Journal Detail"
+  },
+  "OldDetail": {
+    "tr": "Eski Dergi Bilgileri",
+    "en": "Old Journal Detail"
+  },
+  "Description": {
+    "tr": "Açıklama",
+    "en": "Description"
+  },
+  "Updated": {
+    "tr": "Güncelleyen",
+    "en": "Updated"
+  },
+  "DescriptionNotEntered": {
+    "tr": "Açıklama Girilmemiş",
+    "en": "Description Not Entered"
+  },
+  "Printed": {
+    "tr": "Basılı",
+    "en": "Printed"
+  },
+  "Electronic": {
+    "tr": "Elektronik",
+    "en": "Electronic"
+  },
+  "OldName": {
+    "tr": "Eski Adı",
+    "en": "Old Name"
+  },
+  "NewName": {
+    "tr": "Yeni Adı",
+    "en": "New Name"
+  },
+  "NewJournalName": {
+    "tr": "Yeni Dergi Adı",
+    "en": "New Journal Name"
+  },
+  "ISSNChangeRequest": {
+    "tr": "İsim ve ISSN Değişikliği",
+    "en": "Name and ISSN Changes"
+  },
+  "EnterIssn": {
+    "tr": "ISSN Giriniz",
+    "en": "Enter ISSN"
+  },
+  "EnterEIssn": {
+    "tr": "EISSN Giriniz",
+    "en": "Enter EISSN"
+  },
+  "EIssnVerified": {
+    "tr": "EISSN Doğrulanmış Olmalıdır",
+    "en": "EISSN Must Be Verified"
+  },
+  "IssnVerified": {
+    "tr": "ISSN Doğrulanmış Olmalıdır",
+    "en": "ISSN Must Be Verified"
+  },
+  "MustChoosePublicationToProcess": {
+    "tr": "İşlem İçin Yayın Seçmelisiniz!",
+    "en": "You must choose the publication to process!"
+  },
+  "MyJournals": {
+    "tr": "Dergilerim",
+    "en": "My Journals"
+  },
+  "AllMyJournals": {
+    "tr": "Tüm Dergiler",
+    "en": "All Journals"
+  },
+  "JournalsIamExpertIn": {
+    "tr": "Uzmanı Olduğum Dergiler",
+    "en": "Journals I'm Expert in"
+  },
+  "JournalsIamCommitteeIn": {
+    "tr": "Komitesi Olduğum Dergiler",
+    "en": "Journals I've Committeeed"
+  },
+  "JournalsIAmAuthorized": {
+    "tr": "Yetkili Olduğum Dergiler",
+    "en": "Journals I Am Authorized"
+  },
+  "JournalAuthorizationRequest": {
+    "tr": "Dergi Yetki İsteği",
+    "en": "Journal Authorization Request"
+  },
+  "DescriptionFile": {
+    "tr": "Açıklama Dosyası",
+    "en": "Description File"
+  },
+  "EnterPhoto": {
+    "tr": "70x100 Oranında Fotograf Giriniz",
+    "en": "Enter a 70x100 Photo"
+  },
+  "Upload": {
+    "tr": "Yükle",
+    "en": "Upload"
+  },
+  "IssueWarning": {
+    "tr":"Sayı içerisindeki makaleler eksiktir.",
+    "en":"The articles in the issue are missing."
+  },
+  "CoverPhoto": {
+    "tr": "Kapak Fotoğrafı",
+    "en": "Cover Photo"
+  },
+  "Tag": {
+    "tr": "Künye",
+    "en": "Tag"
+  },
+  "PublicationLanguage": {
+    "tr": "Yayın Dili",
+    "en": "Publication Language"
+  },
+  "FirstPublishDate": {
+    "tr": "İlk Yayına Başladığı Tarih",
+    "en": "First Publish Date"
+  },
+  "JournalInformation": {
+    "tr": "Dergi Bilgi",
+    "en": "Journal Information"
+  },
+  "MonthstoPublish": {
+    "tr": "Yayınlanması Gereken Aylar",
+    "en": "Months to Publish"
+  },
+  "SelectMonth": {
+    "tr": "Ay Seçiniz",
+    "en": "SelectMonth"
+  },
+  "Confirmation": {
+    "tr": "Onay",
+    "en": "Confirmation"
+  },
+  "ApplicationAgreement": {
+    "tr": "Başvuru Sözleşmesi",
+    "en": "Application Agreement"
+  },
+  "ApplicationAgreementTerms1": {
+    "tr": "Dergi amacı hakkında detaylı bilgi veriyorum",
+    "en": "I give detailed information about the purpose of the journal."
+  },
+  "ApplicationAgreementTerms2": {
+    "tr": "Derginin kapsamı hakkında açıklamaya yer veriyorum",
+    "en": "I give an explanation about the scope of the journal."
+  },
+  "ApplicationAgreementTerms3": {
+    "tr": "Yazım kurallarını kullanıyor ve gösteriyorum",
+    "en": "I use and show spelling rules"
+  },
+  "ApplicationAgreementTerms4": {
+    "tr": "Hakem sistemi kullanıyorum",
+    "en": "I am using the referee system"
+  },
+  "ApplicationAgreementTerms5": {
+    "tr": "Yayın dilinde Öz gösteriyorum",
+    "en": "I'm presenting in the broadcast language"
+  },
+  "ApplicationAgreementTerms6": {
+    "tr": "Makalede anahtar terimleri kullanıyorum",
+    "en": "I use key terms in the article"
+  },
+  "ApplicationAgreementTerms7": {
+    "tr": "Makalede ORCID kullanıyorum",
+    "en": "I am using ORCID in article"
+  },
+  "ApplicationAgreementTerms8": {
+    "tr": "Yayın dilini dergide belirtiyorum",
+    "en": "I specify the publication language in the journal"
+  },
+  "ApplicationAgreementTerms9": {
+    "tr": "Basılı kopyalarda sayfa numarası vermeden ve etik kurallara uygun olarak reklam veriyorum",
+    "en": "I advertise in printed copies without page numbers and in accordance with ethical rules."
+  },
+  "ApplicationAgreementTerms10": {
+    "tr": "Birden fazla türde Makale yayınlarken; Makale başlık sayfasında ve içindekiler sayfasında makale sınıflamasını belirtiyorum",
+    "en": "When publishing more than one type of Article; I specify the article classification on the article title page and the table of contents"
+  },
+  "ApplicationAgreementTerms11": {
+    "tr": "Makale gönderme / kabul tarihlerini gösteriyorum",
+    "en": "I show article submission / acceptance dates"
+  },
+  "ApplicationAgreementTerms12": {
+    "tr": "Makale kaynakça gösterme (citing) bütün makalelerde standart formatta kullanıyorum",
+    "en": "I use article citing in standard format in all articles"
+  },
+  "ApplicationAgreementTerms13": {
+    "tr": "DergiPark kullananlar için; makale verilerimi ilgili kaynaktan göndereceğimi",
+    "en": "For those who use DergiPark, I will send their data from the relevant source."
+  },
+  "ApplicationAgreementTerms14": {
+    "tr": "Yalnızca TR Dizin kullanan dergiler için; makale verilerimi sistem içerisinde elle ya da TR Dizin XML standardı ile göndereceğimi",
+    "en": "For journals that only use TR Index, I will send their data manually within the system or with the TR Index XML standard."
+  },
+  "ApplicationAgreementTerms15": {
+    "tr": "https://trdizin.gov.tr/kriterler/ sayfasındaki bilgileri okudum, anladım, onaylıyorum ve uyacağım",
+    "en": "I have read, understood, approved and will comply with the information on https://trdizin.gov.tr/kriterler/"
+  },
+  "YearInformation": {
+    "tr": "Yıl Bilgisi",
+    "en": "Year Information"
+  },
+  "SelectSubject": {
+    "tr": "Konu Seçiniz",
+    "en": "Select Subject"
+  },
+  "JournalSubjects": {
+    "tr": "Konular",
+    "en": "Subjects"
+  },
+  "NewSubject": {
+    "tr": "Yeni Konu",
+    "en": "New Subject"
+  },
+  "SubjectAreaNotFound": {
+    "tr": "Konu Alanı Bulunamadı",
+    "en": "Subject Area Not Found"
+  },
+  "SelectContract": {
+    "tr": "Sözleşme Seçiniz",
+    "en": "Select Contract"
+  },
+  "NewContract": {
+    "tr": "Yeni Sözleşme",
+    "en": "New Contract"
+  },
+  "AccessType": {
+    "tr": "Erişim Türü",
+    "en": "Access Type"
+  },
+  "NameinForeignLanguage": {
+    "tr": "Yabancı Dildeki Adı",
+    "en": "Name in Foreign Language"
+  },
+  "SelectLanguage": {
+    "tr": "Dil Seçiniz",
+    "en": "Select Language"
+  },
+  "PublishStatus": {
+    "tr": "Yayın Durum",
+    "en": "Publish Status"
+  },
+  "InformationforAuthorsWebAddress": {
+    "tr": "Yazarlara Bilgi Web Adresi",
+    "en": "Information for Authors Web Address"
+  },
+  "TypesPublicationsPublishedJournal": {
+    "tr": "Dergide Yapılan Yayın Türleri",
+    "en": "Types of Publications Published in the Journal"
+  },
+  "AcceptedPublicationLanguages": {
+    "tr": "Kabul Edilen Yayın Dilleri",
+    "en": "Accepted Publication Languages"
+  },
+  "SpellingRule": {
+    "tr": "Yazım Kuralı",
+    "en": "Spelling Rule"
+  },
+  "ELECTRONICWEBPAGE": {
+    "tr": "Elektronik(Web Sayfasında)",
+    "en": "Electronic (On Web Page)"
+  },
+  "ELECTRONIC_ON_WEBSITE": {
+    "tr": "Web Sitesinde Elektronik",
+    "en": "Electronic On Website"
+  },
+  "FullTextAccess": {
+    "tr": "Tam Metin Erişimi",
+    "en": "Full Text Access"
+  },
+  "ConfirmationForAllNumbers": {
+    "tr": "Tüm Sayılar İçin Onay",
+    "en": "Confirmation For All Numbers"
+  },
+  "JournalRegistrationDate": {
+    "tr": "Dergi Kayıt Tarihi",
+    "en": "Journal Registration Date"
+  },
+  "JournalPeriods": {
+    "tr": "Periyotlar",
+    "en": "Periods"
+  },
+  "Publishperiods": {
+    "tr": "Yayın Periyotları",
+    "en": "Publish Periods"
+  },
+  "JournalResponsibles": {
+    "tr": "Sorumlular",
+    "en": "Responsibles"
+  },
+  "History": {
+    "tr": "Geçmiş",
+    "en": "History"
+  },
+  "Correspondence": {
+    "tr": "Yazışma",
+    "en": "Correspondence"
+  },
+  "Correspondences": {
+    "tr": "Yazışmalar",
+    "en": "Correspondences"
+  },
+  "TemplateCorrespondences": {
+    "tr": "Yazışma Şaplonu Seçilmelidir.",
+    "en": "Correspondences"
+  },
+  "JournalOtherLanguageContext": {
+    "tr": "Derginin Başka Dildeki Adı",
+    "en": "JournalOtherLanguageContext"
+  },
+  "JournalPersonRelation": {
+    "tr": "Dergi Sorumluları",
+    "en": "JournalPersonRelation"
+  },
+  "JournalUserAuthRelation": {
+    "tr": "Dergide Yetkili Kullanıcılar",
+    "en": "JournalUserAuthRelation"
+  },
+  "ProcessStatusHistory": {
+    "tr": "Dergi Yılı Süreç Geçmişi",
+    "en": "Process Status History"
+  },
+  "PublicationAbstractContent": {
+    "tr": "Yayın Bilgileri",
+    "en": "Publication Abstract Content"
+  },
+  "PublicationAuthorRelation": {
+    "tr": "Yayının Yazarları",
+    "en": "Publication Author Relation"
+  },
+  "PublicationReference": {
+    "tr": "Yayının Referansları",
+    "en": "PublicationReference"
+  },
+
+  "NewCorrespondence": {
+    "tr": "Yeni Yazışma",
+    "en": "New Correspondence"
+  },
+  "Assessments": {
+    "tr": "Değerlendirmeler",
+    "en": "Assessments"
+  },
+  "OtherInformations": {
+    "tr": "Diğer Bilgiler",
+    "en": "Other Informations"
+  },
+  "GrayWarning": {
+    "tr": "Gri durumunu oluşturan uyarısı bulunmaktadır",
+    "en": "There is a warning that creates the gray status"
+  },
+  "Thenumberhasshouldinstall": {
+    "tr": "Yüklediği / yüklemesi gereken sayı",
+    "en": "The number it has/should install"
+  },
+  "Allnumbersloaded": {
+    "tr": "Tüm sayılar yüklenmiş",
+    "en": "All numbers loaded"
+  },
+  "HasExpertEvaluation": {
+    "tr": "Uzman Değerlendirmesi var",
+    "en": "Has Expert Evaluation"
+  },
+  "HaveCommitteeEvaluation": {
+    "tr": "Komite Değerlendirmesi var",
+    "en": "Have Committee Evaluation"
+  },
+  "YearDetail": {
+    "tr": "Yıl Detayı",
+    "en": "Year Detail"
+  },
+  "YearDelete": {
+    "tr": "Yılı Sil",
+    "en": "Delete Year"
+  },
+  "YearFromMinusJournal": {
+    "tr": "Eksi Dergiden Gelen Yıl",
+    "en": "Year From Minus Journal"
+  },
+  "RefereeReport": {
+    "tr": "Hakem Raporu",
+    "en": "Referee Report"
+  },
+  "CorrespondenceAndWarnings": {
+    "tr": "Uyarılar ve Yazışmalar",
+    "en": "Correspondence and Warnings"
+  },
+  "NewPeriod": {
+    "tr": "Yeni Periyot",
+    "en": "New Period"
+  },
+  "SelectPeriod": {
+    "tr": "Periyot Seçiniz",
+    "en": "Select Period"
+  },
+  "AddNewPeriodError": {
+    "tr": "Yeni Periyot eklemek için önce yılı olmayan periyodları düzeltin",
+    "en": "Fix periods without a year first to add new period"
+  },
+  "OtherLanguageName": {
+    "tr": "Diğer Dildeki Adı",
+    "en": "Other Language Name"
+  },
+  "WebAddressAuthors": {
+    "tr": "Yazarlar İçin Web Adresi",
+    "en": "Web Address for Authors"
+  },
+  "CreationTime": {
+    "tr": "Oluşturulma Zamanı",
+    "en": "Creation Time"
+  },
+  "ProcessStartDate": {
+    "tr": "Süreç Başlangıç Tarihi",
+    "en": "Process Start Date"
+  },
+  "SubjectArea": {
+    "tr": "Konu Alanları",
+    "en": "Subject Areas"
+  },
+  "JournalLanguage": {
+    "tr": "Dergi Dili",
+    "en": "Journal Language"
+  },
+  "OldJournal": {
+    "tr": "Eski Dergi",
+    "en": "Old Journal"
+  },
+  "PublishedLanguages": {
+    "tr": "Yayın Dilleri",
+    "en": "Published Languages"
+  },
+  "ArticlesWithReferences": {
+    "tr": "Makale Sayıları",
+    "en": "Articles Numbers"
+  },
+  "NumberResearchArticles": {
+    "tr": "Araştırma Makalesi Sayısı",
+    "en": "Number of Research Articles"
+  },
+  "NumberofCompilations": {
+    "tr": "Derleme Sayısı",
+    "en": "Number of Compilations"
+  },
+  "NumberofCaseReports": {
+    "tr": "Olgu Sunumu Sayısı",
+    "en": "Number of CaseReports"
+  },
+  "OtherNumberofArticles": {
+    "tr": "Diğer Makale Sayısı",
+    "en": "Other Number of Articles"
+  },
+  "SelectConsecutiveMonthsPeriod": {
+    "tr": "Periyodun aylarını ardışık seçiniz.",
+    "en": "Select consecutive months of the period."
+  },
+  "PublishDate": {
+    "tr": "Yayın Tarihi",
+    "en": "Publish Date"
+  },
+  "PublishYear": {
+    "tr": "Yayın Yılı",
+    "en": "Publish Year"
+  },
+  "EnterPublishYear": {
+    "tr": "Yayın Yılı Giriniz",
+    "en": "Enter Publish Year"
+  },
+  "TotalPaperCount": {
+    "tr": "Toplam Makale Sayısı",
+    "en": "Total Paper Count"
+  },
+  "NewJournalIssue": {
+    "tr": "Yeni Dergi Sayısı",
+    "en": "New Journal Issue"
+  },
+  "Selected": {
+    "tr": "Adet Seçildi",
+    "en": "Selected"
+  },
+  "SelectPublicationLanguage": {
+    "tr": "Yayın Dili Seçiniz",
+    "en": "Select Publication Language"
+  },
+  "OnlyJpegPngUpload": {
+    "tr": "Sadece JPG ve PNG formatlarında resim yüklenebilir",
+    "en": "Only images in JPG and PNG formats can be uploaded."
+  },
+  "NoteOnlyPdfJpegPngUpload": {
+    "tr": "Sadece PDF, JPG ve PNG formatlarında resim yüklenebilir",
+    "en": "Only images in PDF, JPG and PNG formats can be uploaded."
+  },
+  "Score": {
+    "tr": "Puan",
+    "en": "Score"
+  },
+  "SendDate": {
+    "tr": "Gönderilme Tarihi",
+    "en": "SendDate"
+  },
+  "Sender": {
+    "tr": "Gönderen",
+    "en": "Sender"
+  },
+  "SECRETARY": {
+    "tr": "Sekreter",
+    "en": "Secretary"
+  },
+  "AuthUsers": {
+    "tr": "Yetkili Kullanıcılar",
+    "en": "Auth Users"
+  },
+  "AuthUser": {
+    "tr": "Yetkili Kullanıcı",
+    "en": "Auth User"
+  },
+  "Add": {
+    "tr": "Ekle",
+    "en": "Add"
+  },
+  "AddReport": {
+    "tr": "Rapor Ekle",
+    "en": "Add Report"
+  },
+  "UploadReport": {
+    "tr": "Rapor Yükle",
+    "en": "Upload Report"
+  },
+  "PaperName": {
+    "tr": "Makale Adı",
+    "en": "Paper Name"
+  },
+  "ReportType": {
+    "tr": "Rapor Türü",
+    "en": "Report Type"
+  },
+  "SelectReportType": {
+    "tr": "Rapor Türü Seçiniz",
+    "en": "Select Report Type"
+  },
+  "PaperTitle": {
+    "tr": "Makale Başlıgı",
+    "en": "Paper Title"
+  },
+  "NoPdf": {
+    "tr": "Yok İşaretlendi",
+    "en": "No Pdf"
+  },
+  "RequestNewReport": {
+    "tr": "Yeni Rapor İste",
+    "en": "Request New Report"
+  },
+  "EditRefereeReport": {
+    "tr": "Hakem Raporu Düzenle",
+    "en": "Edit Referee Report"
+  },
+  "RejectionPaper": {
+    "tr": "Ret Makalesi",
+    "en": "Rejection Paper"
+  },
+  "Ret Makale": {
+    "tr": "Ret Makalesi",
+    "en": "Rejection Paper"
+  },
+  "RejectionRefereeReportCount": {
+    "tr": "Ret Hakem Raporu Sayısı",
+    "en": "Rejection Referee Report Count"
+  },
+  "Ek Makale": {
+    "tr": "Ek Makalesi",
+    "en": "Additional Paper"
+  },
+  "IssuePaper": {
+    "tr": "Sayı Makalesi",
+    "en": "Issue Paper"
+  },
+  "IssueNumber": {
+    "tr": "Sayı Numarası",
+    "en": "Issue Number"
+  },
+  "EvaluationDetail": {
+    "tr": "Değerlendirme Detayı",
+    "en": "Evaluation Detail"
+  },
+  "NotCompleted": {
+    "tr": "Tamamlanmadı",
+    "en": "Not Completed"
+  },
+  "Completed": {
+    "tr": "Tamamlandı",
+    "en": "Completed"
+  },
+  "EvaluationSummary": {
+    "tr": "Değerlendirme Özeti",
+    "en": "Evaluation Summary"
+  },
+  "All": {
+    "tr": "Tümü",
+    "en": "All"
+  },
+  "UPDATE": {
+    "tr": "Güncelleme",
+    "en": "Update"
+  },
+  "INSERT": {
+    "tr": "Ekleme",
+    "en": "Insert"
+  },
+  "DELETE": {
+    "tr": "Silme",
+    "en": "Delete"
+  },
+  "AffectedModel": {
+    "tr": "Etkilenen Model",
+    "en": "Affect Model"
+  },
+  "EventType": {
+    "tr": "İşlem Türü",
+    "en": "Event Type"
+  },
+  "ProcessOwner": {
+    "tr": "İşlemi Yapan",
+    "en": "Process Owner"
+  },
+  "ProcessOwnerEmail": {
+    "tr": "İşlemi Yapan Kullanıcı E-postası",
+    "en": "Process Owner Email"
+  },
+  "IPAddress": {
+    "tr": "IP Adresi",
+    "en": "IP Address"
+  },
+  "AffectedField": {
+    "tr": "Etkilenen Alan",
+    "en": "Affected Field"
+  },
+  "OldValue": {
+    "tr": "Eski Değer",
+    "en": "Old Value"
+  },
+  "NewValue": {
+    "tr": "Yeni Değer",
+    "en": "New Value"
+  },
+  "SendNewAssessment": {
+  "tr": "Yeni değerlendirme iste",
+  "en": "Send new assessment"
+  },
+  "Verified": {
+    "tr": "Doğrulanmış",
+    "en": "Verified"
+  },
+  "Unverified": {
+    "tr": "Doğrulanmamış",
+    "en": "Unverified"
+  },
+  "NotSelectedAnyAuthor": {
+    "tr": "Herhangi Bir Yazar Seçilmedi",
+    "en": "Not Selected Any Author"
+  }  ,
+  "OrcidNotAvailable": {
+    "tr": "Orcid uygun formatta değil",
+    "en": "Orcid Not Available"
+  },
+  "UnauthorizedUser": {
+    "tr": "Yetkisiz Kullanıcı",
+    "en": "Unauthorized User"
+  },
+  "EmptyJournalYear": {
+    "tr": "Dergi Yılı Boş Geçilemez",
+    "en": "Journal Year Cannot Be Empty"
+  },
+  "EmptyCorrespondenceTitle": {
+    "tr": "Yazışma Başlıgı Boş Geçilemez",
+    "en": "Correspondence Title Cannot Be Empty"
+  },
+  "EmptyCorrespondenceContext": {
+    "tr": "Yazışma İçeriği Boş Geçilemez",
+    "en": "Correspondence Context Cannot Be Empty"
+  },
+  "EmptySendType": {
+    "tr": "Gönderim Türü Boş Geçilemez",
+    "en": "Send Type Cannot Be Empty"
+  },
+  "ThereIsNoInstitution": {
+    "tr": "Kurum Yok",
+    "en": "There is no institution"
+  },
+  "Institution": {
+    "tr": "Kurum",
+    "en": "Institution"
+  },
+  "AuthorPublications": {
+    "tr": "Yazarın Yayınları",
+    "en": "Author Publications"
+  },
+  "CreateReleaseDocument": {
+    "tr": "Yayın Belgesi Oluştur",
+    "en": "Create Release Document"
+  },
+  "NotFoundPublications": {
+    "tr": "Herhangi bi makale kaydınız olmadığı için çıktı üretilememiştir.",
+    "en": "Output could not be produced because you do not have any article records."
+  },
+  "exportFileName": {
+    "tr": "TR Dizin yayin belgesi",
+    "en": "Output could not be produced because you do not have any article records."
+  },
+  "exportNotification": {
+    "tr": "İşleminiz sıraya alınmıştır. Sonuçları bildirim bölümünden takip edebilirsiniz.",
+    "en": "Your action is queued. You can follow the results in the notification section."
+  },
+  "RejectionStatement": {
+    "tr": "Ret Açıklaması",
+    "en": "Rejection Statement"
+  },
+  "Waiting": {
+    "tr": "Bekliyor",
+    "en": "Waiting"
+  },
+  "NoteTitleNotEmpty": {
+    "tr": "Not Başlığı Boş Geçilemez",
+    "en": "Not Title Cannot Be Empty"
+  },
+  "NoteTitleAtLeastTwoCharacter": {
+    "tr": "Not Başlığı Boş Geçilemez",
+    "en": "Note Title Must Have At Least 2 Characters!"
+  },
+  "NotesNotLoading": {
+    "tr": "Bir Hata Oluştu, Notlar Getirilemedi!",
+    "en": "An Error Occurred, Failed to Retrieve Grades!"
+  },
+  "FileUploaded": {
+    "tr": "Dosya Yüklendi",
+    "en": "File Uploaded"
+  },
+  "SelectionUser": {
+    "tr": "Kullanıcı Seçimi Yapıp, İstek Oluşturabilirsiniz",
+    "en": "You Can Make a User Selection and Create a Request"
+  },
+  "ProjectGroup": {
+    "tr": "Proje Grubu",
+    "en": "Project Group"
+  },
+  "ControlBy": {
+    "tr": "Atanan",
+    "en": "ControlBy"
+  },
+  "CreateSource": {
+    "tr": "Kaynak",
+    "en": "Source"
+  },
+  "JournalIssue": {
+    "tr": "Dergi Sayısı",
+    "en": "Journal Issue"
+  },
+  "JournalIssueDetail": {
+    "tr": "Dergi Sayı Bilgisi",
+    "en": "Journal Issue Detail"
+  },
+  "JournalPeriod": {
+    "tr": "Dergi Periyodu",
+    "en": "Journal Period"
+  },
+  "JournalContract": {
+    "tr": "Sözleşme",
+    "en": "Journal Contract"
+  },
+  "EnterEmailMustBe1Character": {
+    "tr": "En Az 1 Karakter Girilmelidir",
+    "en": "At least 1 character must be entered"
+  },
+  "NotFoundSSOUser": {
+    "tr": "Aradığınız Kullanıcı SSO'da Bulunmamaktadır",
+    "en": "The User You Are Searching For Is Not In SSO"
+  },
+  "CommitteeHasBenAddedBefore": {
+    "tr": "Bu Kullanıcı Daha Önce Eklenmiş ",
+    "en": "This User Has Been Added Before"
+  },
+  "ManagementRole": {
+    "tr": "Uygulama Rolü",
+    "en": "Managemet Role"
+  },
+  "KvtRole": {
+    "tr": "KVT Rolü",
+    "en": "KVT Role"
+  },
+  "FormRole": {
+    "tr": "Form Rolü",
+    "en": "Form Role"
+  },
+  "CREATE_FORM": {
+    "tr": "Form Oluşturma Yetkisi",
+    "en": "CREATE_FORM"
+  },
+  "CREATE_FORMRESULT": {
+    "tr": "Form Sonuçları Oluşturma Yetkisi",
+    "en": "CREATE_FORMRESULT"
+  },
+  "DELETE_FORMRESULT": {
+    "tr": "Form Sonuçları Silme Yetkisi",
+    "en": "DELETE_FORMRESULT"
+  },
+  "FIND_FORM": {
+    "tr": "Form Görüntüleme Yetkisi",
+    "en": "FIND_FORM"
+  },
+  "FIND_FORMRESULT": {
+    "tr": "Form Sonuçları Görüntüleme Yetkisi",
+    "en": "FIND_FORMRESULT"
+  },
+  "UPDATE_FORMRESULT": {
+    "tr": "Form Sonuçları Düzenleme Yetkisi",
+    "en": "UPDATE_FORMRESULT"
+  },
+  "CREATE_NOTE": {
+    "tr": "Not Oluşturma Yetkisi",
+    "en": "CREATE_NOTE"
+  },
+  "UPDATE_NOTE": {
+    "tr": "Not Güncelleme Yetkisi",
+    "en": "UPDATE_NOTE"
+  },
+  "SEARCH_JOURNAL_NOTE": {
+    "tr": "Dergi Notu Arama Yetkisi",
+    "en": "SEARCH_JOURNAL_NOTE"
+  },
+  "SEARCH_PUBLICATION_NOTE": {
+    "tr": "Yayın Notu Arama Yetkisi",
+    "en": "SEARCH_PUBLICATION_NOTE"
+  },
+  "ExpertAssessmentCompleted": {
+    "tr": "Uzman Değerlendirmesi Tamamlanmış",
+    "en": "Expert Assessment Completed"
+  },
+  "NotCompletedAssessment": {
+    "tr": "Uzman Değerlendirmesi Tamamlanmış",
+    "en": "Not Completed Assessment"
+  },
+  "YouAreAuthorizedJournalNotFound": {
+    "tr": "Yetkili olduğunuz bir dergi bulunmamaktadır. Yeni başvuru yapabilirsiniz veya yetki talep edebilirsiniz.",
+    "en": "There is no journal for which you are authorized. You can make a new application or request authorization."
+  },
+  "PrivacyPolicy": {
+    "tr": "Gizlilik Politikası",
+    "en": "Privacy Policy"
+  },
+  "TermsOfUse": {
+    "tr": "Kullanım Şartları",
+    "en": "Terms Of Use"
+  },
+  "CONTACT": {
+    "tr": "İletişim",
+    "en": "Contact"
+  },
+  "ContactAddress": {
+    "tr": "İletişim Adresi",
+    "en": "Contact Address"
+  },
+  "ContactPhone": {
+    "tr": "İletişim Telefonu",
+    "en": "Contact Phone Number"
+  },
+  "OperationCannotPerformedForProject": {
+    "tr": "Proje türündeki yayın için bu işlem gerçekleştirilemez.",
+    "en": "The operation cannot be performed for a project type publication."
+  },
+  "AlreadyOwnThisJournal": {
+    "tr": "Bu derginin zaten sorumlususunuz.",
+    "en": "You are already own this journal."
+  },
+  "StartDate": {
+    "tr": "Başlangıç Tarihi",
+    "en": "Start Date"
+  },
+  "EndDate": {
+    "tr": "Bitiş Tarihi",
+    "en": "End Date"
+  },
+  "AddNewPerson": {
+    "tr": "Yeni Sorumlu Ekle",
+    "en": "Add New Responsible"
+  },
+  "LastYear": {
+    "tr": "Son Yıl",
+    "en": "Last Year"
+  },
+  "Exist": {
+    "tr": "Var",
+    "en": "Exist"
+  },
+  "NotExist": {
+    "tr": "Yok",
+    "en": "Not Exist"
+  },
+  "Bir hata oluştu: Hatalı PIN.": {
+    "tr": "Hatalı Pin Girdiniz",
+    "en": "Entry Incorrect Pin"
+  },
+  "HasContract": {
+    "tr": "Sözleşme",
+    "en": "Contract"
+  },
+  "NoContract": {
+    "tr": "Sözleşme Yok",
+    "en": "No Contract"
+  },
+  "Subjects": {
+    "tr": "Konular",
+    "en": "Subjects"
+  },
+  "SOCIAL": {
+    "tr": "Sosyal",
+    "en": "Social"
+  },
+  "SCIENCE": {
+    "tr": "Fen",
+    "en": "Science"
+  },
+  "SCIENCE-SOCIAL": {
+    "tr": "Fen-Sosyal",
+    "en": "SCIENCE-SOCIAL"
+  },
+    "Decision": {
+    "tr": "Karar",
+    "en": "Decision"
+  },
+  "ProjectAccessDate": {
+    "tr": "Erişime Açılacak Tarih",
+    "en": "Project Access Date"
+  },
+  "Apply": {
+    "tr": "Uygula",
+    "en": "Apply"
+  },
+  "Reset": {
+    "tr": "Temizle",
+    "en": "Reset"
+  },
+  "Filtered": {
+    "tr": "Filtreli",
+    "en": "Filtered"
+  },
+  "NumberPoolArticles": {
+    "tr": "Havuz Makale Sayısı",
+    "en": "Number of Pool Articles"
+  },
+  "NumberIndexedArticles": {
+    "tr": "İndeksli/Toplam Girilen Makale Sayısı",
+    "en": "Number of indexed/total inserted articles"
+  },
+  "TotalNumberArticlesEntered": {
+    "tr": "Girilmesi gereken toplam makale sayısı",
+    "en": "Total number of articles to be entered"
+  },
+  "NumberOtherArticles": {
+    "tr": "Diğer makale sayısı",
+    "en": "Number of other articles"
+  },
+  "CaseReport": {
+    "tr": "Olgu Sunumu",
+    "en": "Case Report"
+  },
+  "ReviewArticle": {
+    "tr": "Derleme Makalesi",
+    "en": "Review Article"
+  },
+  "ResearchArticle": {
+    "tr": "Araştırma Makalesi",
+    "en": "Research Article"
+  },
+  "ChangeIndexStatus": {
+    "tr": "İndex Durumu Değiştir",
+    "en": "Change Index Status"
+  },
+  "SelectedPerson": {
+    "tr": "Seçilen Kişi",
+    "en": "Selected Person"
+  },
+  "Duty": {
+    "tr": "Görev",
+    "en": "Duty"
+  },
+  "PublisherError": {
+    "tr": "Sadece bir yayıncı olabilir ",
+    "en": "Only one publisher can exist"
+  },
+  "PublicationTypes": {
+    "tr": "Yayın Türü Alanı Boş Geçilemez",
+    "en": "Not Null Publication Types"
+  },
+  "WaitingJobs": {
+    "tr": "BEKLEYEN İŞLER",
+    "en": "WAITING JOBS"
+  },
+  "SendToCheckProcess": {
+    "tr": "Sayının İçindeki Yayınları Kontrol Sürecine Gönder",
+    "en": "Send publications in the journal issue to the check process"
+  },
+  "ContiniousCheckProcess": {
+    "tr": "Sayı Şuan Kontrol Sürecindedir",
+    "en": "Waiting Issue Control Process"
+  },
+  "PoolStatusMustBeWaitingEditForınsertableIsPoolPublication":{
+    "tr": "Sayı kontrol sürecindedir. Bu süreç içerisinde bu sayıya yayın girişi veya düzenlemesi yapamazsınız.",
+    "en": "The journal issue is in the process of checking. During this period, you cannot add or update any publication to this issue."
+  },
+  "View":{
+    "tr": "Görüntüle",
+    "en": "View"
+  },
+  "notExistVolume":{
+    "tr": "Cilt Yok",
+    "en": "No Volume"
+  },
+  "SelectedExpert":{
+    "tr": "Seçilen Uzman",
+    "en": "Selected Expert"
+  },
+  "SearchByMail":{
+    "tr": "Lütfen kullanıcının mail adresini giriniz",
+    "en": "Please enter mail address of a user"
+  },
+  "ProcessHistory":{
+    "tr": "Süreç Geçmişi",
+    "en": "Process History"
+  },  "MeetingPage":{
+    "tr": "Toplantı Sayfası",
+    "en": "Meeting Page"
+  },  "MeetingManagement":{
+    "tr": "Toplantı Yönetimi",
+    "en": "Meeting Management"
+  },
+  "MeetingList":{
+    "tr": "Toplantı Listesi",
+    "en": "Meeting List"
+  },
+  "DateHappened":{
+    "tr": "Gerçekleştiği Tarih",
+    "en": "Date Happened"
+  },
+  "MeetingTopics":{
+    "tr": "Gündem Maddeleri",
+    "en": "Meeting Topics"
+  },
+  "priority":{
+    "tr": "Öncelik",
+    "en": "Priority"
+  },
+  "NewMeeting":{
+    "tr": "Yeni Toplantı",
+    "en": "New Meeting"
+  },
+  "JournalTag":{
+    "tr": "Dergi Kadrosu",
+    "en": "Journal Staff"
+  },
+  "AddAs":{
+    "tr": "Olarak ekle",
+    "en": "Add As"
+  },
+  "TUR":{
+    "tr": "Türkçe",
+    "en": "Turkish"
+  },
+  "ENG":{
+    "tr": "İngilizce",
+    "en": "English"
+  },
+  "SPA":{
+    "tr": "İspanyolca",
+    "en": "Spanish"
+  },
+  "ITA":{
+    "tr": "İtalyanca",
+    "en": "Italian"
+  },
+  "GER":{
+    "tr": "Almanca",
+    "en": "German"
+  },
+  "RUS":{
+    "tr": "Rusça",
+    "en": "Russian"
+  },
+  "ARA":{
+    "tr": "Arapça",
+    "en": "Arabic"
+  },
+  "OTH":{
+    "tr": "Diğer",
+    "en": "Other"
+  },
+  "KAZ":{
+    "tr": "Kazakça",
+    "en": "Kazakh"
+  },
+  "KUR":{
+    "tr": "Kürtçe",
+    "en": "Kurdish"
+  },
+  "AZE":{
+    "tr": "Azerice",
+    "en": "Azerbaijani"
+  },
+  "FRE":{
+    "tr": "Fransızca",
+    "en": "French"
+  },
+  "HRV":{
+    "tr": "Hırvatça",
+    "en": "Croatian"
+  },
+  "POL":{
+    "tr": "Lehçe",
+    "en": "Polish"
+  },
+  "AreYouSureRefuse":{
+    "tr": "Reddetmek istediğinize emin misin",
+    "en": "Are you sure you want to refuse"
+  },
+  "CommitteeMember":{
+    "tr": "Komite Üyesi",
+    "en": "Committee Member"
+  },
+  "SubjectInterest":{
+    "tr": "Konu Alanı",
+    "en": "Subject Interest"
+  },
+  "MeetingTitle":{
+    "tr": "Başlık",
+    "en": "Title"
+  },
+  "MeetingNumber":{
+    "tr": "Numarası",
+    "en": "Number"
+  },
+  "Meeting":{
+    "tr": "Toplantı",
+    "en": "Meeting"
+  },
+  "DONE_EXPERT_REVIEW": {
+    "tr": "Uzman Değerlendirilmesi Yapılmış",
+    "en": "Done Expert Review"
+  },
+  "NOT_DONE_EXPERT_REVIEW": {
+    "tr": "Uzman Değerlendirilmesi Yapılmamış",
+    "en": "Not Done Expert Review"
+  },
+  "SELECTED_COMMITTEE_MEMBER": {
+    "tr": "Komite Üyesi Seçilmiş",
+    "en": "Selected Committee Member"
+  },
+  "ACCEPTED_LAST_YEAR_WITHOUT_EXTENSION": {
+    "tr": "Geçen Yılı Uzatmadan Kabul",
+    "en" : "Accepted Last Year Without Extension"
+  },
+  "REFUSAL_TO_EVALUATE_PAST_YEAR_FROM_EXPORT": {
+    "tr": "Geçen Yılı Uzmandan Değerlendirmeden Ret",
+    "en": "Refusal to Evaluate the Past Year from an Expert"
+  },
+    "PREVIOUS_YEAR_REFUSAL_CONTROL_OF_EXPERT": {
+      "tr": "Geçen Yılı Uzmandan Kontrolden Ret",
+      "en": "Previous Year Refusal Control Of Expert"
+    },
+  "REFUSAL_MEETING_PREVIOUS_YEAR": {
+    "tr": "Geçen Yılı Toplantıdan Ret",
+    "en": "Refusal from Meeting of Previous Year"
+  },
+  "REFUSAL_FROM_MEETING": {
+    "tr": "Toplantıdan Ret",
+    "en": "Refusal From Meeting"
+  },
+  "LOADED_PERİOD_NUMBER": {
+    "tr": "Period Sayısı Yüklenmiş",
+    "en": "Loaded Period Number"
+  },
+  "SELECT_SUBJECT": {
+    "tr": "Konu Seç",
+    "en": "Select Subject"
+  },
+  "APPEAL": {
+    "tr": "BAŞVURU",
+    "en": "APPEAL"
+  },
+  "ACCEPT": {
+    "tr": "Kabul",
+    "en": "Accept"
+  },
+  "REFUSAL": {
+    "tr": "RET",
+    "en": "REFUSAL"
+  },
+  "EXPERT_CONTROL": {
+    "tr": "UZMAN KONTROLÜ",
+    "en": "EXPERT CONTROL"
+  },
+  "CHASE": {
+    "tr": "İZLEME",
+    "en": "CHASE"
+  },
+  "COMITEE_ASSESMENT": {
+    "tr": "KOMİTE DEĞERLENDİRMESİ",
+    "en": "COMITEE ASSESMENT"
+  },
+  "MEETİNG": {
+    "tr": "TOPLANTI",
+    "en": "MEETİNG"
+  },
+  "EXPERT_ASSESMENT": {
+    "tr": "UZMAN DEĞERLENDİRMESİ",
+    "en": "EXPERT ASSESMENT"
+  },
+  "DO_FILTER": {
+    "tr": "Filtrele",
+    "en": "Do Filter"
+  },
+  "expertWarnings": {
+    "tr": "Uzman Uyarıları",
+    "en": "Expert Warnings"
+  },
+  "warnings": {
+    "tr": "Uyarılar",
+    "en": "Warnings"
+  },
+  "PRVIOUS_YEAR": {
+    "tr": "Önceki Yıl",
+    "en": "Previous Year"
+  },
+  "PREVIOUS_YEAR_ACCEPT": {
+    "tr": "Geçen Yılı Kabul",
+    "en": "Previous Year Accept"
+  },
+  "PREVIOUS_YEAR_ACCEPT_BY_MEETING": {
+    "tr": "Geçen Yılı Toplantıdan Kabul",
+    "en": "Meeting of Year Accpt"
+  },
+  "PREVIOUS_YEAR_REJECT": {
+    "tr": "Geçen Yılı Ret",
+    "en": "Previous Year Refusal"
+  },
+  "PREVIOUS_YEAR_NULL": {
+    "tr": "Geçen Yılı Boş",
+    "en": "Previous Year Empty"
+  },
+  "CURRENT_STATUS_MUST_REJECT": {
+    "tr": "İzleme Süreci Ret Olacaklar",
+    "en": "Current Status Must Reject"
+  },
+  "WAITING_COMMITTEEMEMBER_ASSIGNMENT": {
+    "tr": "Komite Üye Seçimi Bekleyen",
+    "en": "Waiting Committee Member Assignment"
+  },
+  "MEETING_TO_NEW_REFEREE_REPORT": {
+    "tr": "Yeni Hakem Raporu İstenenler",
+    "en": "Waiting To New Referee Report"
+  },
+  "EXPERT_ASSESSMENT_COMPLETED": {
+    "tr": "Uzman Değerlendirmesi Yapılmış",
+    "en": "Expert Assessment Completed"
+  },
+  "EXPERT_ASSESSMENT_UNCOMPLETED": {
+    "tr": "Uzman Değerlendirmesi Yapılmamış",
+    "en": "Expert Assessment Uncompleted"
+  },
+  "COMMITTEE_MEMBER_ASSIGNMENT_COMPLETED": {
+    "tr": "Komite Üyesi Seçilmiş",
+    "en": "Committee Assignment Completed"
+  },
+  "PREVIOUS_YEAR_ACCEPT_FROM_EXPERT_CONTROL": {
+    "tr": "Geçen Yılı Uzatmadan Kabul",
+    "en": "Previous Year Accept From Expert Control"
+  },
+  "PREVIOUS_YEAR_REJECT_FROM_EXPERT_ASSESSMENT": {
+    "tr": "Geçen Yılı Uzmandan Değerlendirmeden Ret",
+    "en": "Previous Year Reject From Expert Assessment"
+  },
+  "PREVIOUS_YEAR_REJECT_FROM_EXPERT_CONTROL": {
+    "tr": "Geçen Yılı Uzmandan Kontrolden Ret",
+    "en": "Previous Year Reject From Expert Control"
+  },
+  "PREVIOUS_YEAR_REJECT_FROM_MEETING": {
+    "tr": "Geçen Yılı Toplantıdan Ret",
+    "en": "Previous Year Reject From Meeting"
+  },
+  "REJECT_FROM_MEETING": {
+    "tr": "Toplantıdan Ret",
+    "en": "Reject From Meeting"
+  },
+  "ANNUAL_PUBLISH_ISSUE_COMPLETED": {
+    "tr": "Period Sayısı Yüklenmiş",
+    "en": "Annual Ppublish Issues Completed"
+  },
+  "ExtraMeetingTopic":{
+    "tr": "Ekstra Gündem Maddesi",
+    "en": "Extra Meeting Topic"
+  },
+  "TopicTitle":{
+    "tr": "Gündem Maddesi Başlığı",
+    "en": "Topic Title"
+  },
+  "ENTER_TITLE_MUST_BE_1_CHARACTER": {
+    "tr": "Başlık için en az 1 karakter girilmelidir",
+    "en": "At least 1 character must be entered for title"
+  },
+  "ExtraMeetingTopics": {
+    "tr": "Ekstra Gündem Maddeleri",
+    "en": "Extra Meeting Topics"
+  },
+  "NotNullMeetingSubject": {
+    "tr": "Toplantı Konu Alanı Boş Geçilemez",
+    "en": "Meeting Subject Area Must Be Not Null"
+  },
+  "PublicationPublishDate": {
+    "tr": "Yayın Tarihi Boş Geçilemez",
+    "en": "Publish Date Must Be Not Null"
+  },
+  "NotNullMeetingTitle": {
+    "tr": "Toplantı Başlığı Boş Geçilemez",
+    "en": "Meeting Title Must Be Not Null"
+  },
+  "NotNullMeetingNumber": {
+    "tr": "Toplantı Numarası Boş Geçilemez",
+    "en": "Meeting Number Must Be Not Null"
+  },
+  "NotNullMeetingLocation": {
+    "tr": "Toplantı Adresi Boş Geçilemez",
+    "en": "Meeting Location Must Be Not Null"
+  },
+  "NotNullMeetingDateOffer": {
+    "tr": "Toplantı Tarih Önerisi Boş Geçilemez",
+    "en": "Meeting Date Offer Must Be Not Null"
+  },
+  "Month": {
+    "tr": "Ay",
+    "en": "Month"
+  },
+  "ReadStatus": {
+    "tr": "Okundu",
+    "en": "Read"
+  },
+  "ReadStatusInfo": {
+    "tr": "Okundu Bilgisi",
+    "en": "Read İnformation"
+  },
+  "ForwardedDate": {
+    "tr": "İletilen Tarih",
+    "en": "Forwarded Date"
+  },
+  "SendType": {
+    "tr": "Türü",
+    "en": "Type"
+  },
+  "ViewTheAttachment": {
+    "tr": "Eki Görüntüle",
+    "en": "View The Attachment"
+  },
+  "Content": {
+    "tr": "İçerik",
+    "en": "Content"
+  },
+  "Sendbox": {
+    "tr": "Giden Kutusu",
+    "en": "Sendbox"
+  },
+  "Inbox": {
+    "tr": "Gelen Kutusu",
+    "en": "Inbox"
+  },
+  "Date": {
+    "tr": "Tarih",
+    "en": "Date"
+  },
+  "replyCorrespondence": {
+    "tr": "Yazışmayı Cevapla",
+    "en": "Reply Correspondence"
+  },
+  "ThisPaperHasRefereeReport": {
+    "tr": "Bu Makaleye Ait Hakem Raporu Bulunmaktadır.",
+    "en": "This Paper Already Has Referee Report"
+  },
+  "TrdizinManagement": {
+    "tr": "TR Dizin Yönetimi",
+    "en": "Trdizin Management"
+  },
+  "EmptyCorrespondenceJournal": {
+    "tr": "Dergi seçiniz",
+    "en": "Choose Journal"
+  },
+  "ReferenceTextNotFound": {
+    "tr": "Referans Metni Bulunamadı",
+    "en": "Reference Text Not Found"
+  },
+  "PublicationNotFound": {
+    "tr": "Yayın Bulunamadı",
+    "en": "Publication Not Found"
+  },
+  "MeetingAddress": {
+    "tr": "Yapılacağı Adres",
+    "en": "Meeting Address"
+  },
+  "DateSuggestion": {
+    "tr": "Tarih Önerisi",
+    "en": "Date Suggestion"
+  },
+  "WaitingWidgetAssesmentCommittee":{
+    "tr": "Bekletilen Komite Değerlendirmeleri",
+    "en": "Waiting Committee Assessments"
+  },
+  "WaitingExpertAssessments": {
+    "tr": "Bekletilen Uzman Değerlendirmeleri",
+    "en": "Waiting Expert Assessments"
+  },
+  "WaitingExpertControlAssessments": {
+    "tr": "Bekletilen Uzman Kontrolleri",
+    "en": "Waiting Expert Controls"
+  },
+  "SubjectField": {
+    "tr": "Konu Alanı",
+    "en": "Subject Fields"
+  },
+  "SelectedMeetingTopics": {
+    "tr": "Seçili Gündem Maddeleri",
+    "en": "Selected Meeting Topics"
+  },
+  "AvaibleMeetingTopics": {
+    "tr": "Seçilebilir Gündem Maddeleri",
+    "en": "Avaible Meeting Topics"
+  },
+  "SelectedMember": {
+    "tr": "Seçili Komite Üyeleri",
+    "en": "Selected Committee Member"
+  },
+  "AvaibleMembers": {
+    "tr": "Seçilebilir Komite Üyeleri",
+    "en": "Avaible Committee Member"
+  },
+  "MeetingDetailPage": {
+    "tr": "Toplantı Detayı",
+    "en": "Meeting Detail"
+  },
+  "Avg": {
+    "tr": "Ortalama",
+    "en": "Average"
+  },
+  "Done": {
+    "tr": "Sonlandır",
+    "en": "Done"
+  },
+  "Opinions": {
+    "tr": "Görüşler",
+    "en": "Opinions"
+  },
+  "DecisionSelect": {
+    "tr": "Karar Seçiniz",
+    "en": "Decision Select"
+  },
+  "Accept": {
+    "tr": "Kabul",
+    "en": "Accept"
+  },
+  "Reject": {
+    "tr": "Ret",
+    "en": "Reject"
+  },
+  "REJECT": {
+    "tr": "Ret",
+    "en": "Reject"
+  },
+  "ExpertAssessment": {
+    "tr": "Uzman Değerlendirmesi",
+    "en": "Expert Assessment"
+  },
+  "DecisionNote": {
+    "tr": "Karar Notu",
+    "en": "Decision Note"
+  },
+  "AddDecision": {
+    "tr": "Karar Ekle",
+    "en": "Add Decision"
+  },
+  "SelectionDate": {
+    "tr": "Seçilen Tarih",
+    "en": "Selection Date"
+  },
+  "Participant": {
+    "tr": "Katılımcı",
+    "en": "Participant"
+  },
+  "Excuse": {
+    "tr": "Mazeret",
+    "en": "Excuse"
+  },
+  "ExcuseNotNull": {
+    "tr": "Mazeret boş geçilemez",
+    "en": "Excuse must be not null"
+  },
+  "AcceptanceStatus": {
+    "tr": "Katılım Durumu",
+    "en": "Acceptance Status"
+  },
+  "SelectedDates": {
+    "tr": "Seçilen Tarihler",
+    "en": "SelectedDate"
+  },
+  "MarkAsNotJoin": {
+    "tr": "Katılmadı Olarak İşaretle",
+    "en": "Mark As Not Join"
+  },
+  "MarkAsJoin": {
+    "tr": "Katıldı Olarak İşaretle",
+    "en": "Mark As Join"
+  },
+  "NewYear": {
+    "tr": "Yeni Yıl",
+    "en": "New Year"
+  },
+  "MeetingAttachment": {
+    "tr": "Toplantı Tutanağı",
+    "en": "Meeting Attachment"
+  },
+  "CreateMeetingFile": {
+    "tr": "Toplantı Tutanağı Oluştur",
+    "en": "Create Meeting File"
+  },
+  "NotSelectedJoinStatus": {
+    "tr": "Katılım Durumu Seçilmedi",
+    "en": "Not Selected Join Status"
+  },
+  "SelectedToBeJoin": {
+    "tr": "Katılım Durumunuzu Onayladınız",
+    "en": "Accept To Be Join"
+  },
+  "SelectedToBeNotJoin": {
+    "tr": "Katılmayacağınızı Belirttiniz",
+    "en": "Selected To Be Not Join"
+  },
+  "BeJoin": {
+    "tr": "Katılıyorum",
+    "en": "I will join"
+  },
+  "BeNotJoin": {
+    "tr": "Katılmıyorum",
+    "en": "I will not join"
+  },
+  "AtLeastOneDate": {
+    "tr": "En az bir tarih seçimi yapmalısınız",
+    "en": "Must be select at least one date"
+  },
+    "IbanMustBe26Character": {
+      "tr": "Iban Numarası 26 Karakter Olmalıdır.",
+      "en":"Iban Must Be 26 Character"
+    },
+  "IbanNotBeEmpty": {
+    "tr": "Iban Alanı Boş Geçilemez.",
+    "en": "Iban Not Be Empty"
+  },
+  "TelephoneNumberMustBe10Character": {
+    "tr": "Telefon Numarası Alanı 10 Haneli Girilmelidir.",
+    "en": "Telephone Number Must Be 10 Character"
+  },
+  "TelephoneNumberNotEmpty": {
+    "tr": "Telefon Numarası Alanı Boş Geçilemez.",
+    "en": "Telephone Number Not Empty"
+  },
+  "NameFieldNotEmpty": {
+    "tr": "İsim Alanı Boş Geçilemez.",
+    "en": "Name Field Not Empty"
+  },
+  "EmailMustBeExpectedFormat":{
+    "tr": "Email Alanı İstenilen Formatta Olmalıdır.",
+    "en": "Email Must Be Expected Format"
+  },
+  "CommitteeAssignPage":{
+    "tr": "Komite Üye Seçimi",
+    "en": "Assing Committee Member"
+  },
+  "SystemSettingManagement": {
+    "tr": "Sistem Ayarları Yönetimi",
+    "en": "System Settings Management"
+  },
+  "SystemSettings": {
+    "tr": "Sistem Ayarları",
+    "en": "System Settings"
+  },
+  "RefereeReportSettings": {
+    "tr": "Hakem Raporu Ayarları",
+    "en": "Referee Report Settings"
+  },
+  "POP3_PORT_NUMBER": {
+    "tr": "POP 3 Port Numarası",
+    "en": "POP 3 Port Number"
+  },
+  "MAIL_SERVER": {
+    "tr": "Mail Sunucusu",
+    "en": "Mail Server"
+  },
+  "INFO_ADDRESS": {
+    "tr": "Bilgi Adresi",
+    "en": "Information Address"
+  },
+  "MAIL_ADDRESS": {
+    "tr": "Mail Adesi",
+    "en": "Mail Address"
+  },
+  "SmtpPortNumber": {
+    "tr": "SMTP Port Numarası",
+    "en": "Smtp Port Number"
+  },
+  "MAIL_PASSWORD": {
+    "tr": "Parola",
+    "en": "Password"
+  },
+  "RefereeReportYear": {
+    "tr": "Hakem Raporu Yılı",
+    "en": "Referee Report Year"
+  },
+  "AnnualReportPercent": {
+    "tr": "İstenilecek Rapor Yüzdesi",
+    "en": "Annual Report Percent"
+  },
+  "AnnualMinReportCount": {
+    "tr": "İstenilecek Minimum Rapor Sayısı",
+    "en": "Annual Minimum Report Count"
+  },
+  "NotNullMeetingAgendaTopic":{
+    "tr": "Gündem Maddeleri Boş Geçilemez",
+    "en": "Not Null Meeting Agenda Topic"
+  },
+  "GroupNotEmpty": {
+    "tr": "Grup Bilgisi Boş Olamaz",
+    "en": "Information Of Group Not Be Empty"
+  },
+  "NotNullDecisionStatus":{
+    "tr": "Karar Boş Geçilemez",
+    "en": "Decision must be not null"
+  },
+  "ConfirmedDate":{
+    "tr": "Kararlaştırılan Tarih",
+    "en": "Confirmed Date"
+  },
+  "SaveAndMailSend":{
+    "tr": "Kaydet ve Mail Yolla",
+    "en": "Save And Mail Send"
+  },
+  "NotNullMeetingUser":{
+    "tr": "Katılımcılar Boş Geçilemez",
+    "en": "Meeting users must be not null"
+  },
+  "CommitteeRelations":{
+    "tr": "Atanan Komite Üyeleri",
+    "en": "Committee Relations"
+  },
+  "WaitingSocialMeetingDecision":{
+    "tr": "Tamamlandı Sosyal Toplantı Kararı Bekleniyor",
+    "en": "Waiting Social Meeting Decision"
+  },
+  "WaitingScienceMeetingDecision":{
+    "tr": "Tamamlandı Fen Toplantı Kararı Bekleniyor",
+    "en": "Waiting Science Meeting Decision"
+  },
+  "TotalTopicCount":{
+    "tr": "Toplam Gündem Maddesi",
+    "en": "Total Topic Count"
+  },
+  "UniqueTopicCount":{
+    "tr": "Tekil Gündem Maddesi",
+    "en": "Unique Topic Count"
+  },
+  "POP3": {
+    "tr": "POP 3",
+    "en": "POP 3"
+  },
+  "SMTP": {
+    "tr": "SMTP",
+    "en": "SMTP+"
+  },
+  "YearNotEmpty": {
+    "tr": "Yıl Bilgisi Boş Olamaz",
+    "en": "Year Field Not Empty"
+  },
+  "MinReportCountNotEmpty": {
+    "tr":"İstenilecek Minimum Rapor Sayısı Boş Olamaz",
+    "en": "Anual Minimum Report Count Not Empty"
+  },
+  "ReportRateNotEmpty": {
+    "tr": "İstenilecek Rapor Yüzdesi Boş Olamaz",
+    "en": "Anual Report Rate Not Empty"
+  },
+  "TotalRejectNotEmpty": {
+    "tr": "Ret Hakem Raporu Sayısı Boş Olamaz",
+    "en": "Anual Reject Total Not Empty"
+  },
+  "AreYouSureApprove": {
+    "tr": "Onaylıyor musunuz?",
+    "en": "Are You Sure Approve?"
+  },
+  "SystemSettingsPage": {
+    "tr": "Sistem Ayarları Yönetimi",
+    "en": "System Settings"
+  },
+  "SaveAndNext": {
+    "tr": "Kaydet ve İlerlet",
+    "en": "Save And Next"
+  },
+  "LAST_JOURNAL_ISSUE": {
+    "tr": "Tüm Sayılar Yüklendi",
+    "en": "Uploaded All Issues"
+  },
+  "JOURNAL_SURROGATE_MANAGER": {
+    "tr": "Yetkili Kullanıcı",
+    "en": "Authorized User"
+  },
+  "SearchMeeting": {
+    "tr": "Toplantı Ara",
+    "en": "Search Meeting"
+  },
+  "SurnameNotEmpty": {
+    "tr": "Soyad Alanı Zorunludur.",
+    "en": "Surname Field Not Empty"
+  },"EmptyCommitteeDoAssignClick": {
+    "tr": "Komite üyesi seçilmemiş seçmek için tıklayınız...",
+    "en": "Empty committee list do assign click..."
+  },
+  "EmailNotEmpty": {
+    "tr": "Email Alanı Boş Geçilemez.",
+    "en": "Email Field Not Empty"
+  },
+  "InstitutionNotEmpty": {
+    "tr": "Kurum Alanı Boş Geçilemez.",
+    "en": "Intitution Field Not Empty"
+  },
+  "EntryInstitutionName": {
+    "tr": "Kurumunuzun Adını Giriniz.",
+    "en": "Entry Institution Name"
+  },
+  "NoAuthorizationRequested": {
+    "tr": "Yetki Talebinde Bulunulmamış.",
+    "en": "No Authorization Requested"
+  },
+  "ProcessManagement": {
+    "tr": "Süreç Yönetimi",
+    "en": "Process Management"
+  },
+  "BASVURU": {
+    "tr": "Başvuru",
+    "en": "Register"
+  },
+  "REGISTER": {
+    "tr": "Başvuru",
+    "en": "Register"
+  },
+  "UZMAN_KONTROLU": {
+    "tr": "Uzman Kontrolü",
+    "en": "Expert Control"
+  },
+  "IZLEME": {
+    "tr": "İzleme",
+    "en": "Observation"
+  },
+  "KOMITE_DEGERLENDIRMESI": {
+    "tr": "Komite Değerlendirmesi",
+    "en": "Committee Assessment"
+  },
+  "TOPLANTI": {
+    "tr": "Toplantı",
+    "en": "Meeting"
+  },
+  "UZMAN_DEGERLENDIRMESI": {
+    "tr": "Uzman Değerlendirmesi",
+    "en": "Expert Assessment"
+  },
+  "NotNullCorrespondence": {
+    "tr": "Yazışma bilgisi boş geçilemez",
+    "en": "Not Null Correspondence"
+  },
+  "ThisYearAlreadyExist": {
+    "tr": "Bu yıl Bilgisi Zaten Var",
+    "en": "This Year Already Exist"
+  },
+  "scienceCommitteeMemberLeastTwo": {
+    "tr": "Fen konu alanından en az 2 komite üyesi seçmelisiniz. ",
+    "en": "Must select least two committee member science subject area"
+  },
+  "socielCommitteeMemberLeastTwo": {
+    "tr": "Sosyal konu alanından en az 2 komite üyesi seçmelisiniz. ",
+    "en": "Must select least two committee member social subject area"
+  },
+  "NotNullJournalYearCommitteeRelation": {
+    "tr": "Komite seçimi boş geçilemez",
+    "en": "Must be not null committee relations"
+  },
+  "AssignedJournals": {
+    "tr": "Üzerindeki Dergiler",
+    "en": "Assigned Journals"
+  },
+  "File": {
+    "tr": "Dosya",
+    "en": "File"
+  },
+  "JournalIssueMutilplePeriodNotice": {
+    "tr": "Sadece birleşik sayı için birden fazla ay seçilmelidir. Eğer birleşik sayı yüklemek istemiyorsanız sadece bir yayım ayı seçiniz.",
+    "en": "More than one month should be selected only for the combined journal year. If you do not want to upload a combined journal year, just select a publication month."
+  },
+  "JournalIssueUpdateNotice": {
+    "tr": "Not: Makale sayısındaki değişimlerde hakem raporları otomatik olarak silinir ve yeniden yüklenmesi beklenir.",
+    "en": "Notice: In case of changes in the journal issue, the referee reports are automatically deleted and they are expected to be uploaded again."
+  },
+  "AcceptRecommendationPublicationNotice": {
+    "tr": "NOT: Yayının kendi adınıza tanımlanmasını talep etmenizin ardından sistemde görünmesi 48 saat içinde gerçekleşecektir.",
+    "en": "NOTICE: After you request the publication to be identified on your behalf, it will appear in the system within 48 hours."
+  },
+  "Use": {
+    "tr": "Kullan",
+    "en": "Use"
+  },
+  "ExpertAssessmentFormNotEmpty": {
+    "tr": "Uzman Değerlendirme Formu Boş Olmamaz.",
+    "en": "Expert Assessment Form Not Empty"
+  },
+  "ExpertControlAssessmentFormNotEmpty": {
+    "tr": "Uzman Kontrol Değerlendirme Formu Boş Olmamaz.",
+    "en": "Expert Control Assessment Form Not Empty"
+  },
+  "CommitteeAssessmentFormNotEmpty": {
+    "tr": "Komite Değerlendirme Formu Boş Olmamaz.",
+    "en": "Committee Assessment Form Not Empty"
+  },
+  "EditorAssessmentFormNotEmpty": {
+    "tr": "Editör Değerlendirme Formu Boş Olmamaz.",
+    "en": "Editor Assessment Form Not Empty"
+  },
+  "ExpertAssessmentForm": {
+    "tr": "Uzman Değerlendirme Formu",
+    "en": "Expert Assessment Form"
+  },
+  "ExpertControlAssessmentForm": {
+    "tr": "Uzman Kontrol Değerlendirme Formu",
+    "en": "Expert Control Assessment Form"
+  },
+  "CommitteeAssessmentForm": {
+    "tr": "Komite Değerlendirme Formu",
+    "en": "Committee Assessment Form"
+  },
+  "EditorAssessmentForm": {
+    "tr": "Editör Değerlendirme Formu",
+    "en": "Editor Assessment Form"
+  },
+  "AssessmentFormTypes": {
+    "tr": "Değerlendirme Formu Ayarları",
+    "en": "Assessment Form Types Settings"
+  },
+  "AssessmentFormTypeYear": {
+    "tr": "Değerlendirme Formu Yılı",
+    "en": "Assessment Form Year"
+  },
+  "Ok": {
+    "tr": "Tamam",
+    "en": "Ok"
+  },
+  "UserAlreadyRefused":{
+    "tr": "Bu Dergide Yetki İsteğiniz Daha Önce Reddedildi.",
+    "en": "This Journal Your Authorization Request Refused"
+  },
+  "DailyOverRequest": {
+    "tr": "Günlük Limit Aşmı",
+    "en": "Daily Over Request"
+  },
+  "DailyRequestLimit10": {
+    "tr": "1 Günde En Fazla 10 İstek Yapabilirsiniz",
+    "en": "You Can Make Up To Ten Requests In A Day"
+  },
+  "UserAlreadyAuth": {
+    "tr": "Kişi Zaten Yetkili",
+    "en": "User Already Auth"
+  },
+  "UserAlreadyAuthThJournal": {
+    "tr": "Bu kullanıcı Bu Dergi İçin Zaten Yetkili",
+    "en": "User have already authorized the journal"
+  },
+  "AlreadyRequested": {
+    "tr": "Bu Kişi İçin Zaten İstek Var",
+    "en": "Already Request For This User"
+  },
+  "UserAlreadyRequested": {
+    "tr": "Daha Önce İstekte Bulunmuşsunuz",
+    "en": "User have already requested the journal"
+  },
+  "EnterNameAndSurname": {
+    "tr": "Ad ve Soyad Giriniz",
+    "en": "Enter Name And Surname"
+  },
+
+  "NotFoundAssessmentClickCreate": {
+    "tr": "Herhangi bir değerlendirmeniz bulunmamaktadır. Değerlendirme yapmak için tıklayınız...",
+    "en": "Not Found Assessment Click Create..."
+  },
+  "Paper":{
+    "tr":"Makale",
+    "en":"Paper"
+  },
+  "Citation":{
+    "tr":"Atıf",
+    "en":"Citation"
+  },
+  "NoMeeting":{
+    "tr":"Toplantı Yok",
+    "en":"No Meeting"
+  },
+  "Project":{
+    "tr":"Proje",
+    "en":"Project"
+  },
+  "H-Index":{
+    "tr":"H-Index",
+    "en":"H-Index"
+  },
+  "Citation Avarage":{
+    "tr":"Atıf Ortalaması",
+    "en":"Citation Avarage"
+  },
+  "Self Citation":{
+    "tr":"Kendine Atıf",
+    "en":"Self Citation"
+  },
+  "NotFoundAssessmentForOwner": {
+    "tr": "Bu değerlendirmenin sahibi henüz bir değerlendirme yapmadı...",
+    "en": "Not filled assessment by related user yet..."
+  },
+  "WelcomeToTrDizin": {
+    "tr": "TR Dizin'e Hoşgeldiniz ",
+    "en": "Welcome To TR Dizin"
+  },
+  "CanCreateYourAuthorProfile": {
+    "tr": "Yazar profili oluşturabilirsiniz",
+    "en": "You can create your author profile"
+  },
+  "CanMakeJournalApplication": {
+    "tr": "Dergi başvurusu yapabilirsiniz",
+    "en": "You can apply to journal"
+  },
+  "CanMakeRequestAuthorizationExistingJournal": {
+    "tr": "var olan bir dergide yetki talep edebilirsiniz",
+    "en": "request authorization to an existing journal"
+  },
+  "or": {
+    "tr": "veya",
+    "en": "or"
+  },
+  "AlreadyExistThisMail": {
+    "tr": "Bu E-Postayla Başka Bir Kullanıcı Bulunmaktadır.",
+    "en": "Already Exist This Mail"
+  },
+  "JournalAuthorizationRequests": {
+    "tr": "İstenen Görev",
+    "en": "Requested Authorization"
+  },
+  "CanNotDeleteYourself": {
+    "tr": "Kendi Yetkinizi Silemezsiniz",
+    "en": "Can Not Delete Yourself"
+  },
+  "AssessmentFormTitle": {
+    "tr": "Değerlendirme Formları",
+    "en": "Assessment Form"
+  },
+  "COMMITTEE": {
+    "tr": "Komite",
+    "en": "Committee"
+  },
+  "AssessmentFormType": {
+    "tr": "Form Tipi",
+    "en": "Assessment Form Type"
+  },
+  "YearAndTitleAlreadyExist": {
+    "tr": "Bu Form Tipine ve Bu Yıla Ait Değerlendirme Formu Zaten Var",
+    "en": "There is Already an Assessment Form for This Form Type and for This Year"
+  },
+  "AreYouSureGenerate": {
+    "tr": "Oluşturmak İstediğinize Emin misiniz?",
+    "en": "Are You Sure Generate"
+  },
+  "NotChangeYearInfo": {
+    "tr": "Yıl Bilgisi Değiştirilemez",
+    "en": "Not Change Year Information"
+  },
+  "Assessment": {
+    "tr": "Değerlendirme",
+    "en": "Assessment"
+  },
+  "MustAssessmentBeCompleted": {
+    "tr": "Değerlendirme formunu kaydetmeniz gerekmektedir",
+    "en": "Must be save to assessment form"
+  },
+  "AssessmentNotBelongYou": {
+    "tr": "Değerlendirme formu size ait değil",
+    "en": "Assessment not belong you"
+  },
+  "NotNullAssessmentType": {
+    "tr": "Değerlendirme türü boş geçilemez",
+    "en": "Not null assessment type"
+  },
+  "NotNullResultCode": {
+    "tr": "Değerlendirme formu boş geçilemez",
+    "en": "Not null assessment form"
+  },
+  "NotFoundThisYearFormConfig": {
+    "tr": "Bu yıla ait form seçeneği henüz belirtilmemiş. Lütfen sistem ayarlarınızı kontrol ediniz",
+    "en": "This year form not config yet. Please check system config"
+  },
+  "Automatic": {
+    "tr": "Otomatik",
+    "en": "Automatic"
+  },
+  "GrayStatus": {
+    "tr": "Gri durumunu oluşturan uyarısı bulunmaktadır",
+    "en": "Exist correspondence of gray status"
+  },
+  "MultiProcessChange": {
+    "tr": "Toplu Süreç",
+    "en": "Multi Process"
+  },
+  "VIEW_CREATE_ASSESSMENT_PAGE": {
+    "tr": "Değerlendirme Yapma Sayfası Görüntüleme Yetkisi",
+    "en": "View Assessment Page Authority"
+  },
+  "IHaveRead": {
+    "tr": "Okudum",
+    "en": "I Have Read"
+  },
+  "Order": {
+    "tr": "Sıra",
+    "en": "Order"
+  },
+  "NotNullDescription": {
+    "tr": "Açıklama Kısmı Boş Geçilemez",
+    "en": "Description Field Not Empty"
+  },
+  "ThisUserAlreadyAuthorizationUser": {
+    "tr": "Bu Kullanıcı Zaten Bu Derginin Yetkili Kullanıcısıdır.",
+    "en": "This User Already Authorization User"
+  },
+  "Reply": {
+    "tr": "Cevapla",
+    "en": "Reply"
+  },
+  "Exports": {
+    "tr": "Çıktılar",
+    "en": "Exports"
+  },
+  "FileName": {
+    "tr": "Dosya",
+    "en": "File"
+  },
+  "RequestDate": {
+    "tr": "İstek Tarihi",
+    "en": "Request Date"
+  },
+  "JournalAuthRequestSearch": {
+    "tr": "Dergi ya da oluşturan ara",
+    "en": "Search by creator or journal name"
+  },
+  "Announcement": {
+    "tr": "Duyuru",
+    "en": "Announcement"
+  },
+  "Notification": {
+    "tr": "Bildirim",
+    "en": "Notification"
+  },
+  "SendNotification": {
+    "tr": "Bildirim Gönder",
+    "en": "SendNotification"
+  },
+  "NotificationBody": {
+    "tr": "Bildirim içeriği",
+    "en": "Notification Content"
+  },
+  "Uploading": {
+    "tr": "Yüklenme",
+    "en": "Uploading"
+  },
+  "AUTHOR": {
+    "tr": "Yazar",
+    "en": "Author"
+  },
+  "TitleNotEmpty": {
+    "tr": "Başlık Alanı Boş Geçilemez",
+    "en": "Title Not Empty"
+  },
+  "NotificationNotEmpty": {
+    "tr": "Bildirim İçeriği Boş Geçilemez",
+    "en": "Notification Content Not Empty"
+  },
+  "NotificationTypeNotEmpty": {
+    "tr": "Gönderim Türü Boş Geçilemez",
+    "en": "Submission Type Not Empty"
+  },
+  "INPROGRESS": {
+    "tr": "Devam Ediyor",
+    "en": "In Progress"
+  },
+  "Notifications": {
+    "tr": "Bildirimler",
+    "en": "Notifications"
+  },
+  "subjectAreaChanged": {
+    "tr": "Veri Tabanı Seviyesinde Konu Alanı Değişikliği Vardır",
+    "en": "Subject Area Changed"
+  },
+  "VIEW_PAGE_SSO": {
+    "tr": "SSO Sayfasını Görüntüleme Yetkisi",
+    "en": "VIEW PAGE SSO"
+  },
+  "CREATE_MEETING": {
+    "tr": "Toplantı Oluşturma Yetkisi",
+    "en": "CREATE MEETING"
+  },
+  "CREATE_JOURNAL_YEAR_SUBJECT": {
+    "tr": "Dergi Yıl Konusu Oluşturma Yetkisi",
+    "en": "CREATE JOURNAL YEAR SUBJECT"
+  },
+  "CREATE_NOTIFICATION": {
+    "tr": "Bildirim Oluşturma Yetkisi",
+    "en": "CREATE NOTIFICATION"
+  },
+  "SEND_NOTIFICATION": {
+    "tr": "Bildirim Gönderme Yetkisi",
+    "en": "SEND NOTIFICATION"
+  },
+  "VIEW_USER_NOTIFICATONS": {
+    "tr": "Gelen Kullanıcı Bildirimi Görüntüleme Yetkisi",
+    "en": "VIEW USER NOTIFICATONS"
+  },
+  "FIND_NOTIFICATION": {
+    "tr": "Bildirim Arama Yetkisi",
+    "en": "FIND NOTIFICATION"
+  },
+  "FIND_JOURNAL_YEAR_SUBJECT": {
+    "tr": "Dergi Yılı Konusu Arama Yetkisi",
+    "en": "FIND JOURNAL YEAR SUBJECT"
+  },
+  "FIND_AUTHOR": {
+    "tr": "Yazar Arama Yetkisi",
+    "en": "FIND AUTHOR"
+  },
+  "FIND_NOTE": {
+    "tr": "Not Arama Yetkisi",
+    "en": "FIND NOTE"
+  },
+  "UPDATE_JOURNAL_ISSUE_INDEX_STATUS": {
+    "tr": "Dergi Sayısı İndeksi Güncelleme Yetkisi",
+    "en": "UPDATE JOURNAL ISSUE INDEX STATUS"
+  },
+  "UPDATE_JOURNAL_YEAR_SUBJECT": {
+    "tr": "Dergi Yılı Konusu Güncelleme Yetkisi",
+    "en": "UPDATE JOURNAL YEAR SUBJECT"
+  },
+  "UPDATE_MEETING": {
+    "tr": "Toplantı Güncelleme Yetkisi",
+    "en": "UPDATE MEETING"
+  },
+  "UPDATE_NOTIFICATION": {
+    "tr": "Bildirim Güncelleme Yetkisi",
+    "en": "UPDATE MEETING"
+  },
+  "VIEW_HISTORY": {
+    "tr": "Geçmiş Görünteleme Yetkisi",
+    "en": "VIEW HISTORY"
+  },
+  "VIEW_PAGE_MANAGMENT": {
+    "tr": "Yönetim Sayfasını Görüntüleme Yetkisi",
+    "en": "VIEW PAGE MANAGMENT"
+  },
+  "VIEW_PAGE_KVT": {
+    "tr": "KVT Sayfasını Görüntüleme Yetkisi",
+    "en": "VIEW PAGE KVT"
+  },
+  "VIEW_PAGE_FORM": {
+    "tr": "Form Sayfasını Görüntüleme Yetkisi",
+    "en": "VIEW PAGE FORM"
+  },
+  "VIEW_MEETING_LIST": {
+    "tr": "Toplantı Listesini Görüntüleme Yetkisi",
+    "en": "VIEW MEETING LIST"
+  },
+  "DELETE_JOURNAL_YEAR_SUBJECT": {
+    "tr": "Dergi Yılı Konusu Silme Yetkisi",
+    "en": "DELETE JOURNAL YEAR SUBJECT"
+  },
+  "VIEW_ALL_COMMITTEE_ASSESSMENTS": {
+    "tr": "Bütün Komite Değerlendirmelerini Görünteleme Yetkisi",
+    "en": "VIEW ALL COMMITTEE ASSESSMENTS"
+  },
+  "VIEW_CORRESPONDENCE_BOX": {
+    "tr": "Yazışma Kutularını Görünteleme Yetkisi",
+    "en": "VIEW CORRESPONDENCE BOX"
+  },
+  "DELETE_NOTIFICATION": {
+    "tr": "Bildirim Silme Yetkisi",
+    "en": "DELETE NOTIFICATION"
+  },
+  "ADD_NOTE": {
+    "tr": "Not Ekleme Yetkisi",
+    "en": "ADD NOTE"
+  },
+  "CHANGE_JOURNAL_YEAR_CONTRACT": {
+    "tr": "Dergi Yıl Sözleşmesi Değiştirme Yetkisi",
+    "en": "CHANGE JOURNAL YEAR CONTRACT"
+  },
+  "REPLY_CORRESPONDENCE": {
+    "tr": "Yazışma Cevaplama Yetkisi",
+    "en": "REPLY CORRESPONDENCE"
+  },
+  "BULK_UPDATE_PUBLICATION": {
+    "tr": "Toplu Yayın Değişiklik Yetkisi",
+    "en": "BULK UPDATE PUBLICATION"
+  },
+  "EditorFormTypeIsAlreadyExist": {
+    "tr": "Editör Formu Zaten Mevcut",
+    "en": "Editor Form Is Already Exist"
+  },
+  "NotEmptyYearsOfOtherForms": {
+    "tr": "Editör Formu Dışındaki Formların Yılı Boş Geçilemez",
+    "en": "The Year of Forms Other Than the Editor Form Cannot be Passed Blank"
+  },
+  "EXPERT_CONTROL_LAST_YEAR_IS_ACCEPT": {
+    "tr": "Kabul Devamı Bekleyenler",
+    "en": "Waiting Sequal Acceptance"
+  },
+  "NotificationSketchs": {
+    "tr": "Bildirim Taslakları",
+    "en": "Notification Sketchs"
+  },
+  "CorrespondencesAndNotifications": {
+    "tr": "Yazışmalar ve Bildirimler",
+    "en": "Correspondences And Notifications"
+  },
+  "Send": {
+    "tr": "Gönder",
+    "en": "Send"
+  },
+  "SubjectNotEmpty": {
+    "tr": "Konu Alanı Boş Geçilemez",
+    "en": "Subject Not Empty"
+  },
+  "Pop-up": {
+    "tr": "Pop-up",
+    "en": "Pop-up"
+  },
+  "REJECT_PUBLICATION_OWNER_AUTHOR": {
+    "tr": "Yazarın kendisine atanmış makaleleri silme yetkisi",
+    "en": "REJECT_PUBLICATION_OWNER_AUTHOR"
+  },
+  "ALL_REJECT_PUBLICATION_OWNER_AUTHOR": {
+    "tr": "Herhangi bir yazara atanmış makale silme yetkisi",
+    "en": "ALL_REJECT_PUBLICATION_OWNER_AUTHOR"
+  },
+  "CorrespondenceTemplateManagement": {
+    "tr": "Yazışma Şablon Yönetimi",
+    "en": "Correspondence Template Management"
+  },
+  "Type": {
+    "tr": "Türü",
+    "en": "Type"
+  },
+  "AddCorrespondenceTemplate": {
+    "tr": "Yazışma Şablonu Ekle",
+    "en": "Add Correspondence Template"
+  },
+  "TypeFieldNotEmpty": {
+    "tr": "Tür Alanı Boş Geçilemez",
+    "en":"Type Field Not Empty"
+  },
+  "ContentFieldNotEmpty": {
+    "tr": "İçerik Alanı Boş Geçilemez",
+    "en": "Content Field Not Empty"
+  },
+  "AreYouSureChangeIssueIndexStatus": {
+    "tr": "Dergi sayısının index durumunu güncellemek istediğinizden emin misiniz",
+    "en": "Are you sure you want to change journal issue index status?"
+  },
+  "ChooseAtLeastOneRole": {
+    "tr": "En Az Bir Rol Seçmelisiniz",
+    "en": "Choose At Least One Role"
+  },
+  "NotNullInstitutionCode": {
+    "tr": "Kurum Kodu Boş Olamaz",
+    "en": "Institution Code Not Empty"
+  },
+  "NotNullIssn/Eissn": {
+    "tr": "Issn/Eissn Boş Olamaz",
+    "en": "Issn/Eissn Not Empty"
+  },
+  "NotNullFirstname": {
+    "tr": "İsim Alanı Boş Geçilemez.",
+    "en": "Name Field Not Empty"
+  },
+  "NotNullOrcid": {
+    "tr": "Orcid Boş Geçilemez.",
+    "en": "Orcid Field Not Empty"
+  },
+  "NotNullUser": {
+    "tr": "Kullanıcı Boş Geçilemez.",
+    "en": "User Field Not Empty"
+  },
+  "NotNullAuthor": {
+    "tr": "Yazar Boş Geçilemez.",
+    "en": "Author Field Not Empty"
+  },
+  "NotNullPublication": {
+    "tr": "Yayın Boş Geçilemez.",
+    "en": "Publication Field Not Empty"
+  },
+  "NotNullRelation": {
+    "tr": "İlişki Boş Geçilemez.",
+    "en": "Relation Field Not Empty"
+  },
+  "NotNullEmail": {
+    "tr": "Email Boş Geçilemez.",
+    "en": "Email Field Not Empty"
+  },
+  "NotNullPhone": {
+    "tr": "Telefon Boş Geçilemez.",
+    "en": "Phone Field Not Empty"
+  },
+  "NotNullIban": {
+    "tr": "Iban Boş Geçilemez.",
+    "en": "Iban Field Not Empty"
+  },
+  "NotNullExpert": {
+    "tr": "Uzman Alanı Boş Geçilemez.",
+    "en": "Expert Field Not Empty"
+  },
+  "NotNullAuthorization": {
+    "tr": "Yetki Alanı Boş Geçilemez.",
+    "en": "Authorization Field Not Empty"
+  },
+  "NotNullIssn": {
+    "tr": "Issn Boş Olamaz",
+    "en": "Issn Not Empty"
+  },
+  "NotNullEissn": {
+    "tr": "Eissn Boş Olamaz",
+    "en": "Eissn Not Empty"
+  },
+  "NotNullJournal": {
+    "tr": "Dergi Boş Olamaz",
+    "en": "Journal Not Empty"
+  },
+  "NotNullSubject": {
+    "tr": "Konu Alanı Boş Olamaz",
+    "en": "Subject Not Empty"
+  },
+  "NotNullProperty": {
+    "tr": "Özellik Alanı Boş Olamaz",
+    "en": "Property Not Empty"
+  },
+  "NotNullNumber": {
+    "tr": "Numara Alanı Boş Olamaz",
+    "en": "Number Not Empty"
+  },
+  "NotNullYear": {
+    "tr": "Numara Alanı Boş Olamaz",
+    "en": "Number Not Empty"
+  },
+  "NotNullCorrectionPublication": {
+    "tr": "Yayın Alanı Boş Olamaz",
+    "en": "CorrectionPublication Not Empty"
+  },
+  "NotNullCorrectionPublicationLanguage": {
+    "tr": "Yayın Dili Alanı Boş Olamaz",
+    "en": "Publication Language Not Empty"
+  },
+  "NotNullCorrectionEndDate": {
+    "tr": "Son Tarih Alanı Boş Olamaz",
+    "en": "End Date Language Not Empty"
+  },
+  "NotNullProjectGroup": {
+    "tr": "Son Tarih Alanı Boş Olamaz",
+    "en": "End Date Language Not Empty"
+  },
+  "ASSESSMENT": {
+    "tr": "Değerlendirme",
+    "en": "Assessment"
+  },
+  "UniqueAbstractContentKeywords": {
+    "tr": "Anahtar Kelimeler Benzersiz olmalıdır",
+    "en": "Unique Abstract Content Keywords"
+  },
+  "UniqueOrcid": {
+    "tr": "Orcid Benzersiz olmalıdır",
+    "en": "Unique Orcid"
+  },
+  "UniqueAbstractKeywords": {
+    "tr": "Anahtar Kelimeler Benzersiz olmalıdır",
+    "en": "Unique Abstract Content Keywords"
+  },"UniquePeriods": {
+    "tr": "Periyot Benzersiz olmalıdır",
+    "en": "Unique Period"
+  },"UniquePeriodMonth": {
+    "tr": "Aylık Periyot Benzersiz olmalıdır",
+    "en": "Unique Period Month"
+  },"UniqueYear": {
+    "tr": "Yıl Benzersiz olmalıdır",
+    "en": "Unique Year"
+  },"UniqueExpertLetterRange": {
+    "tr": "Uzman Kelime Benzersiz olmalıdır",
+    "en": "Unique ExpertLetterRange"
+  },
+  "NotNullAccessibleDate": {
+  "tr": "Son Tarih Alanı Boş Olamaz",
+  "en": "Accessible Date Language Not Empty"
+  },
+  "NotNullPublicationType": {
+  "tr": "Yayın Tipi Alanı Boş Olamaz",
+  "en": "Publication Type Date Language Not Empty"
+  },
+  "NotNullJournalIssue": {
+  "tr": "Dergi Sayı Alanı Boş Olamaz",
+  "en": "Journal Issue Date Language Not Empty"
+  },
+  "NotNullPDFFile": {
+  "tr": "Pdf Alanı Boş Olamaz",
+  "en": "PDF File Date Language Not Empty"
+  },
+  "NotNullAbstractContent": {
+  "tr": "Öz Alanı Boş Olamaz",
+  "en": "Abstract Content Not Empty"
+  },
+  "NotNullAbstractContentLanguage": {
+  "tr": "Öz Alanı Boş Olamaz",
+  "en": "Abstract Content Language Not Empty"
+  },
+  "NotNullAbstractTitle": {
+  "tr": "Öz Başlık Boş Olamaz",
+  "en": "Abstract Content Title Not Empty"
+  },
+  "NotNullKeywordName": {
+  "tr": "Anahtar Kelime Adı Boş Olamaz",
+  "en": "Keyword Name Title Not Empty"
+  },
+  "ProcessInProgress": {
+    "tr": "İşlem devam ediyor.",
+    "en": "Process in progress."
+  },
+  "UPDATE_PUBLICATION_SUBJECTS": {
+    "tr": "Makalenin konu alanını güncelleme yetkisi",
+    "en": "UPDATE_PUBLICATION_SUBJECTS"
+  },
+  "PersonNotEmpty": {
+    "tr": "Kişi Seçimi Zorunludur",
+    "en": "Person Not Empty"
+  },
+  "Months": {
+    "tr": "Aylar",
+    "en": "Months"
+  },
+  "TOPIC_DECISION": {
+    "tr": "Toplantı Gündem Maddesine Karar Verebilme Yetkisi",
+    "en": "Decide Process Status of Meeting Topic Authority"
+  },
+  "NotFoundAddNew1": {
+    "tr": "Kayıt Bulunamadı, ",
+    "en": "No Records Found, "
+  },
+  "NotFoundAddNew2": {
+    "tr": "Yeni Kişi Ekleyin",
+    "en": "Add New Contact"
+  },
+  "AcceptIndex": {
+    "tr": "Kabul İndeksi",
+    "en": "Accept Index"
+  },
+  "BothSubject": {
+    "tr": "Sosyal ve Fen",
+    "en": "Social and Science"
+  },
+  "SSOUserManagement": {
+    "tr": "SSO Kullanıcı Yönetimi",
+    "en": "SSO User Management"
+  },
+  "PaperPoolInsertNotice": {
+    "tr": "Dergi sorumlusu havuz makale ekleme/düzenlemesi yapabilir. Sayıdaki tüm makalelerin girişini tamamladığınızda dergi detay sayfasından kontrole gönder butonuna tıklayınız.Makale ve yıl süreçleri tamamlandığında dizinlenecektir.",
+    "en": "Dergi sorumlusu havuz makale ekleme/düzenlemesi yapabilir. Sayıdaki tüm makalelerin girişini tamamladığınızda dergi detay sayfasından kontrole gönder butonuna tıklayınız. Makale ve yıl süreçleri tamamlandığında dizinlenecektir."
+  },
+  "ContinuousPublicationNotice": {
+    "tr": "Derginiz normal periyot düzeninde yayın yapıyorsa lütfen bu seçeneği işaretlemeyiniz...",
+    "en": "Derginiz normal periyot düzeninde yayın yapıyorsa lütfen bu seçeneği işaretlemeyiniz..."
+  },
+  "continuousMesage": {
+    "tr": "Sürekli yayın modeli, makalelerin hakemler tarafından değerlendirilip kabul edildikten sonra bir sayıda yayınlanmak üzere bekletilmeden, hızlı ve güncel olarak yayınlanması olarak tanımlanmaktadır.",
+    "en": "Remodeling of publications can be applied to an acceptable number of people for evaluation of articles, widely applicable to date.The sequential page numbering used by a volume for articles in this model."
+  },
+  "continuousMesage2": {
+    "tr": "Bununla birlikte makaleye yapılacak atıflarda da sayfa numaraları yerine makaleye verilen özel numara veya DOI'de tanımlanmış alan kullanılmaktadır.",
+    "en": "Articles included in related articles in the domains in the specific DOI given to the article in use."
+  },
+  "SearchCorrespondence": {
+    "tr": "Yazışma Ara",
+    "en": "Search Correspondence"
+  },
+  "UsesContinuousPublication": {
+    "tr": "Sürekli Yayın Modeli Kullanıyor",
+    "en": "Uses Continuous Publication Model"
+  },
+  "ContinuousPublication": {
+    "tr": "Sürekli Yayın Modeli",
+    "en": "Continuous Publication Model"
+  },
+  "whatiscontinuous": {
+    "tr": "Sürekli Yayın Nedir ?",
+    "en": "What is Continuous Publication ?"
+  },
+  "PublishDateEqualIssueYear": {
+    "tr": "Yayın yılı sayının yayınlandığı yılla aynı olmalıdır.",
+    "en": "Publish date must be equals issue publish year"
+  },
+  "DeleteFile": {
+    "tr": "Dosyayı Sil",
+    "en": "Delete File"
+  },
+  "DownloadFileSure": {
+    "tr": "Tutanak Oluşturmak İstediğinize Emin misiniz?",
+    "en": "Are You Sure You Want to Generate Meeting Report?"
+  },
+  "MeetingDone": {
+    "tr": "Toplantı Sonlandırıldı",
+    "en": "Meeting Done"
+  },
+  "CommitteeStartDate": {
+    "tr": "Komite Başlangıç Tarihi",
+    "en": "Committee Start Date"
+  },
+  "CommitteeEndDate": {
+    "tr": "Komite Bitiş Tarihi",
+    "en": "Committee End Date"
+  },
+  "CommitteeManagerStartDate": {
+    "tr": "Komite Başkanlığı Başlangıç Tarihi",
+    "en": "Manager of Committee Start Date"
+  },
+  "CommitteeManagerEndDate": {
+    "tr": "Komite Başkanlığı Bitiş Tarihi",
+    "en": "Manager of Committee End Date"
+  },
+  "MIN_PUBLICATION_COUNT": {
+    "tr": "Minimum Girilmesi Gereken Makale Sayısı",
+    "en": "Must Uploaded Least Paper Count"
+  },
+  "MIN_WAITING_DAY": {
+    "tr": "İlk Makale Girişinden Sonra Beklenecek Minimum Gün Sayısı",
+    "en": "On Uploaded First Paper Then  Must Waiting Day Least"
+  },
+  "ContinuousPublicationSettings": {
+    "tr": "Sürekli Yayın Ayarları",
+    "en": "Continuous Publication Settings"
+  },
+  "ControlledDate": {
+  "tr": "Kontrol Tarihi",
+  "en": "Controlled Date"
+},
+  "CommitteeHistory": {
+    "tr": "Komite Geçmişi",
+    "en": "Committee History"
+  },
+  "ShowReport": {
+    "tr": "Tutanağı Göster",
+    "en": "Show Report"
+  },
+  "Follow": {
+  "tr": "Takip Et",
+  "en": "Follow"
+  },
+  "Adding": {
+  "tr": "Ekleme/Oluşturma",
+  "en": "Adding"
+  },
+  "FileExpireException": {
+    "tr": "Dosya Be Süresi Doldu",
+    "en": "The File Has Expired"
+  },
+  "UploadedFileIsExpiredTime": {
+    "tr": "Lütfen dosyanızı Tekrar Yükleyiniz",
+    "en": "Upload The File Please"
+  },
+  "Updating": {
+  "tr": "Güncelleme",
+  "en": "Updating"
+  },
+  "Deleting": {
+  "tr": "Silme",
+  "en": "Deleting"
+  },
+  "NotificationProperty": {
+  "tr": "Takip Edilecek Değişiklik",
+  "en": "Notification Property"
+  },
+  "REFEREE_REPORT": {
+  "tr": "Hakem Raporu",
+  "en": "Referee Report"
+  },
+  "JOURNAL_ISSUE": {
+  "tr": "Dergi Sayısı",
+  "en": "Journal Issue"
+  },
+  "JOURNAL_YEAR_CURRENT_STATUS": {
+  "tr": "Yıl Süreci",
+  "en": "Journal Year Current Status"
+  },
+  "PUBLICATION": {
+  "tr": "Yayın",
+  "en": "Publication"
+  },
+  "JOURNAL_WEB_ADDRESS": {
+  "tr": "Dergi Web Adresi",
+  "en": "Journal Web Adresi"
+  },
+  "JOURNAL_CONTRACT": {
+  "tr": "Sözleşme",
+  "en": "Contract"
+  },
+  "FILLED_EXPERT_ASSESSMENT": {
+  "tr": "Uzman Değerlendirmesi",
+  "en": "Expert Assessment"
+  },
+  "FILLED_COMMITTEE_ASSESSMENT": {
+  "tr": "Komite Değerlendirmesi",
+  "en": "Committee Assessment"
+  },
+  "FILLED_EXPERT_CONTROL_FORM": {
+  "tr": "Uzman Kontrol Formu",
+  "en": "Expert Control Form"
+  },
+  "FILLED_COMMITTEE_CONTROL_FORM": {
+  "tr": "Komite Kontrol Formu",
+  "en": "Committee Control Form"
+  },
+  "IS_CONTINUOUS_PUBLICATION_YEAR": {
+  "tr": "Sürekli Yayın Yılı",
+  "en": "Year Of Continuous Publication"
+  },
+  "Reassessment": {
+  "tr": "Yeniden Değerlendirme",
+  "en": "Reassessment"
+  },
+  "AlreadyExistReassessment": {
+  "tr": "Yeniden Değerlendirme Bekleniyor",
+  "en": "Already Exist Reassessment"
+  },
+  "NotFoundCommitteeReassessmentRequest": {
+  "tr": "Yeniden Değerlendirme İstenilmemiş",
+  "en": "Not Found Committee Reassessment Request"
+  },
+  "NotFoundCommitteeRelation": {
+  "tr": "Komite ilişkiniz bulunamadı",
+  "en": "Not Found Committee Relation"
+  },
+  "RECOMMITTEE": {
+  "tr": "Tekrar Komite",
+  "en": "Recommittee"
+  },
+  "CommitteeReassessments": {
+  "tr": "Tekrar Yapılan Komite Değerlendirmesi",
+  "en": "Recommittee"
+  },
+  "CommitteeReassessmentRequest": {
+  "tr": "Tekrar Komite Değerlendirmesi İste",
+  "en": "Request Recommittee"
+  },
+  "oldMeetingTopicDecisionWarning": {
+  "tr": "Daha önce bir toplantıya eklenmiş ancak toplantı kararı kesinleştirilmemiştir.",
+  "en": "Daha önce bir toplantıya eklenmiş ancak toplantı kararı kesinleştirilmemiştir."
+  },
+  "ReportCanNotAdd": {
+    "tr": "Rapor Eklenemedi",
+    "en": "Report Did Not Add"
+  },
+  "OrcidNotFound": {
+    "tr": "Orcid ile ilişkili yazar bulunamadı.",
+    "en": "The author associated with the orcid was not found."
+  },
+  "Users": {
+    "tr": "Kullanıcılar",
+    "en":"Users"
+  },
+  "ReadDate": {
+    "tr": "Okunma Tarihi",
+    "en": "Read Date"
+  },
+  "SaveToSketch": {
+    "tr": "Taslağa Kaydet",
+    "en": "Save To Sketch"
+  },
+  "Sketch" : {
+    "tr": "Taslak",
+    "en": "Sketch"
+  },
+  "DeleteSketch": {
+    "tr": "Taslağı Sil",
+    "en": "Delete Sketch"
+  },
+  "SendNotifications": {
+    "tr": "Gönderilen Bildirimler",
+    "en": "Send Notifications"
+  },
+  "NotFoundOrcid": {
+    "tr": "Orcid Bulunamadı",
+    "en": "Not Found Orcid"
+  },
+  "OrcidOrNameFieldNotEmpty": {
+    "tr": "Kontrol için ORCID ve İsim alanı doldurulmalıdır",
+    "en": "ORCID and Name field must be filled for control"
+  },
+  "LatexInfo" : {
+    "tr": "Latex editörü için tıklayınız.",
+    "en": "Click for latex editor."
+  },
+  "CitationMarked" : {
+    "tr": "Atıf eşleştirilecek şekilde işaretlendi.",
+    "en": "Citation marked as to match."
+  },
+  "CitationUnmarked" : {
+    "tr": "Atıf eşleştirilmeyecek şekilde işaretlendi.",
+    "en": "Citation marked as not to be matched."
+  },
+  "OrcidMatch" : {
+    "tr": "ORCID yazar eşleşmesi sorgula",
+    "en": "Query ORCID author match"
+  },
+
+  "ReassessmentStatus": {
+    "tr": "Yeniden Değerlendirme",
+    "en": "Reassessment Status"
+  },
+  "UpdateSelected": {
+    "tr": "Seçilenleri Güncelle",
+    "en": "Update Selected"
+  },
+  "ManagementHelp": {
+    "tr": "Yönetici Yardım Sayfası",
+    "en": "Manager Help Page"
+  },
+  "ExpertHelp": {
+    "tr": "Uzman Yardım Sayfası",
+    "en": "Expert Help Page"
+  },
+  "CommitteeHelp": {
+    "tr": "Komite Yardım Sayfası",
+    "en": "Committee Help Page"
+  },
+  "GeneralHelp": {
+    "tr": "Genel Kullanıcı Yardım Sayfası",
+    "en": "General User Help Page"
+  },
+  "SecreterHelp": {
+    "tr": "Sekreter Yardım Sayfası",
+    "en": "Secretary Help Page"
+  },
+  "HelpPage": {
+    "tr": "Yardım Sayfası",
+    "en": "Help Page"
+  },
+  "SearchHelp": {
+    "tr": "Arama Yardım Sayfası",
+    "en": "Search Help Page"
+  },
+  "IdentityCardNo": {
+    "tr": "TC Kimlik Numarası",
+    "en": "Identity Card"
+  },
+  "IdentityMustBeValidFormat": {
+    "tr": "TC Kimlik Numarası Uygun Formatta Olamlıdır.",
+    "en": "Identity Must Be Valid Format"
+  },
+  "ProceedingList": {
+    "tr": "Bildiri Listesi",
+    "en": "Proceeding List"
+  },
+  "SearchProceeding": {
+    "tr": "Bildiri Ara",
+    "en": "Search Proceeding"
+  },
+  "ProceedingNotFound": {
+    "tr": "Bildiri Bulunamadı",
+    "en": "Proceeding Not Found"
+  },
+  "Activity": {
+    "tr": "Etkinlik",
+    "en": "Activity"
+  },
+  "Proceeding": {
+    "tr": "Bildiri",
+    "en": "Proceeding"
+  },
+  "ProceedingBook": {
+    "tr": "Bildiri Kitabı",
+    "en": "Proceeding Book"
+  },
+  "ActivityName": {
+    "tr": "Etkinlik Adı",
+    "en": "Activity Name"
+  },
+  "BookTitle": {
+    "tr": "Kitap Adı",
+    "en": "ProceedingBookTitle"
+  },
+  "ProceedingTitle": {
+    "tr": "Bildiri Başlığı",
+    "en": "ProceedingTitle"
+  },
+  "ISSN": {
+    "tr": "ISSN",
+    "en": "ISSN"
+  },
+  "ISBN": {
+    "tr": "ISBN",
+    "en": "ISBN"
+  },
+  "NewProceeding": {
+    "tr": "Bildiri Kayıt",
+    "en": "New Proceeding"
+  },
+  "NewActivity": {
+    "tr": "Yeni Etkinlik",
+    "en": "New Activity"
+  },
+  "ActivityList": {
+    "tr": "Etkinlik Listesi",
+    "en": "Activity List"
+  },
+  "SearchActivity": {
+    "tr": "Etkinlik Ara",
+    "en": "Search Activity"
+  },
+  "Addrees": {
+    "tr": "Etkinlik Adres",
+    "en": "Address"
+  },
+  "ActivityAdd": {
+    "tr": "Etkinlik Ekle ",
+    "en": "Activity Add "
+  },
+  "StartYear": {
+    "tr": "Etkinlik Serisi Başlangıç Yılı ",
+    "en": "Start Year"
+  },
+  "EnterSponsor": {
+    "tr": "Sponsor Giriniz",
+    "en": "Enter Sponsor"
+  },
+  "Sponsor": {
+    "tr": "Sponsor",
+    "en": "Sponsor"
+  },
+  "ActivityDate": {
+    "tr": "Etkinlik Tarihi ",
+    "en": "Activity Date"
+  },
+  "EnterStartYear": {
+    "tr": "Etkinlik Serisi Başlangıç Yılı Giriniz",
+    "en": "Enter Start Year"
+  },
+  "EnterWebAddress": {
+    "tr": "Web Adresi Giriniz",
+    "en": "Enter Web Address"
+  },
+  "EnterSerialNumber": {
+    "tr": "Konferans Serisi Giriniz",
+    "en": "Enter Serial Number"
+  },
+  "SerialNumber":{
+    "tr": "Konferans Serisi ",
+    "en": "SerialNumber"
+  },
+  "EnterActivityDescription": {
+    "tr": "Etkinlik Hakkında Açıklama Giriniz ",
+    "en": "Enter Activity Description"
+  },
+  "ActivityDescription": {
+    "tr": "Etkinlik Hakkında",
+    "en": "ActivityDescription"
+  },
+  "EnterSubject": {
+    "tr": "Konu Giriniz",
+    "en": "EnterSubject"
+  },
+  "AddSponsor": {
+    "tr": "Sponsor Ekle",
+    "en": "Add Sponsor"
+  },
+  "DetailActivity": {
+    "tr": "Etkinlik Detay",
+    "en": "Detail Activity"
+  },
+  "ActivityDetailPage": {
+    "tr": "Etkinlik Detay Sayfası",
+    "en": "Activity Detail Page"
+  },
+  "DeleteSponsor": {
+    "tr": "Sponsor Silindi",
+    "en": "Delete Sponsor"
+  },
+  "ActivityUpdatePage": {
+    "tr": "Etkinlik Güncelleme Sayfası",
+    "en": "Activity Update Page"
+  },
+  "Books": {
+    "tr": "Kitaplar",
+    "en": "Books"
+  },
+  "DOI": {
+    "tr": "DOI",
+    "en": "DOI"
+  },
+  "ProceedingBookDetail": {
+    "tr": "Bildiri Kitabı Detay",
+    "en": "ProceedingBookDetail"
+  },
+  "NewAddBook": {
+    "tr": "Yeni Kitap Ekle",
+    "en": "Add New Book"
+  },
+  "EnterBookTitle": {
+    "tr": "Başlık Giriniz",
+    "en": "Enter Title"
+  },
+  "EnterDOI": {
+    "tr": "DOI Numarasını Giriniz",
+    "en": "Enter DOI"
+  },
+
+  "NewBook": {
+    "tr": "Yeni Kitap",
+    "en": "New Book"
+  },
+  "EnterISSN": {
+    "tr": "ISSN Numarasını Giriniz",
+    "en": "EnterISSN"
+  },
+
+  "EnterISBN": {
+    "tr": "ISBN Numarasını Giriniz",
+    "en": "EnterISBN"
+  },
+  "EnterEISBN": {
+    "tr": "EISBN Numarasını Giriniz",
+    "en": "EnterEISBN"
+  },
+  "EnterEISSN": {
+    "tr": "EISSN Numarasını Giriniz",
+    "en": "EnterEISSN"
+  },
+  "EnterActivity": {
+    "tr": "Etkinlik Giriniz",
+    "en": "EnterActivity"
+  },
+  "EISSN": {
+    "tr": "EISSN",
+    "en": "EISSN"
+  },
+  "EISBN": {
+    "tr": "EISBN",
+    "en": "EISBN"
+  },
+  "EntertotalPage": {
+    "tr": "Toplam Sayfa Giriniz",
+    "en": "Enter Total Page"
+  },
+  "Subtitle": {
+    "tr": "Alt Başlık",
+    "en": "Subtitle"
+  },
+  "EnterSubtitle": {
+    "tr": "Alt Başlık Giriniz",
+    "en": "Enter Subtitle"
+  },
+  "EnterUrl": {
+    "tr": "http/https Url Giriniz",
+    "en": "Enter Url"
+  },
+  "URL": {
+    "tr": "URL ",
+    "en": "URL"
+  },
+  "BookType": {
+    "tr": "Kitap Türü",
+    "en": "Book Type"
+},
+  "EnterBookType": {
+    "tr": "Kitap Türünü Belirtiniz",
+    "en": "EnterBookType"
+  },
+  "EnterPublicationType": {
+    "tr": "Yayın Türü Giriniz ",
+    "en": "Enter PublicationType"
+  },
+  "PROCEEDINGBOOK": {
+    "tr": "Bildiri Kitabı ",
+    "en": "Proceeding Book"
+  },
+  "ABSTRACTBOOK": {
+    "tr": "Özet Kitap ",
+    "en": "Abstract Book"
+  },
+  "EditBook": {
+    "tr": "Kitap Düzenleme ",
+    "en": "Edit Book"
+  },
+  "NewAddProceeding": {
+    "tr": "Bildiri Ekleme ",
+    "en": "Add New Proceeding"
+  },
+  "ORCID": {
+    "tr": "ORCID ",
+    "en": "ORCID"
+  },
+  "Editor": {
+    "tr": "Editör ",
+    "en": "Editor"
+  },
+  "EnterEditor": {
+    "tr": "Editörü Giriniz",
+    "en": "EnterEditor"
+  },
+  "EditorName": {
+    "tr": "AD-SOYAD",
+    "en": "EditorNameSurname"
+  },
+  "Kurum": {
+    "tr": "Kurum",
+    "en": "Kurum"
+  },
+  "EnterKurum": {
+    "tr": "Kurum Giriniz",
+    "en": "Enter Institution"
+  },
+  "EditorInPaperName": {
+    "tr": "Editor Adı Giriniz",
+    "en": "Editor In Paper Name"
+  },
+
+  "AddEditor": {
+    "tr": "Editör Ekle",
+    "en": "Add Editor"
+  },
+  "CITY": {
+    "tr": "Şehir",
+    "en": "City"
+  },
+  "EnterORCID": {
+    "tr": "ORCID Giriniz",
+    "en": "EnterORCID"
+  },
+  "ProceedingAdd": {
+    "tr": "Bildiri Ekle",
+    "en": "New Proceeding"
+  },
+  "AddFunder": {
+    "tr": "Fonlayan Ekle",
+    "en": "AddFunder"
+  },
+  "EnterProceedingTitle": {
+    "tr": "Bildiri Başlığı Giriniz",
+    "en": "Enter Proceeding Title"
+  },
+  "EnterProceedingBook": {
+    "tr": "BildiriKitabını Giriniz",
+    "en": "Enter ProceedingBook"
+  },
+  "ActivityYear": {
+    "tr": "Etkinlik Yılı Giriniz",
+    "en": "Enter ActivityYear"
+  },
+  "ProceedingLanguage": {
+    "tr": "Bildiri Dili",
+    "en": "Proceeding Language"
+  },
+
+  "ProceedingType": {
+    "tr": "Bildiri Türü",
+    "en": "Proceeding Type"
+  },
+  "ActivityTitle": {
+    "tr": "Etkinlik Başlığı Giriniz",
+    "en": "Activity Title "
+  },
+  "ProceedingPDF": {
+    "tr": "Bildiri PDF",
+    "en": "Proceeding PDF "
+  },
+  "SelectActivity": {
+    "tr": "Etkinlik Seçiniz",
+    "en": "Select Activity  "
+  },
+  "SelectBook": {
+    "tr": "Kitap Seçebilirsiniz ",
+    "en": "Select Book "
+  },
+  "Book": {
+    "tr": "Kitap ",
+    "en": "Book "
+  },
+  "ProceedingUpdatePage": {
+    "tr": "Bildiri Düzenleme Sayfası ",
+    "en": "Proceeding Update Page "
+  },
+  "DetailProceeding": {
+    "tr": "Bildiri Detay  ",
+    "en": "Detail Proceeding "
+  },
+  "ProceedingDetailPage": {
+    "tr": "Bildiri Detay Sayfası ",
+    "en": "Proceeding Detail Page "
+  },
+  "FullText": {
+    "tr": " Tam Metin",
+    "en": "Full Text"
+  },
+  "ABSTRACT": {
+    "tr": "Öz",
+    "en": "Abstract"
+  },
+  "ExtendedAbstract": {
+    "tr": "Genişletilmiş Öz",
+    "en": "Extended Abstract"
+  },
+  "POSTER": {
+    "tr": "Poster",
+    "en": "Poster"
+  },
+  "Presentation": {
+    "tr": "Sunum",
+    "en": "Presentation"
+  },
+  "AudioVisual": {
+    "tr": "Görsel-İşitsel Yayın",
+    "en": "Audio-Visual Publication"
+  },
+  "EmptySponsorName": {
+    "tr": "Sponsor Adı Boş Geçilemez",
+    "en": "Sponsor Name in the Article is Required"
+  },
+  "EmptyEditorName": {
+    "tr": "Editor Adı Boş Geçilemez",
+    "en": "Editor Name in the Article is Required"
+  },
+  "SameSponsor": {
+    "tr": "Aynı Sponsor Eklenemez",
+    "en": "Same Sponsor Cannot Be Added Again!"
+  },
+  "SameEditor": {
+    "tr": "Aynı Editor Eklenemez",
+    "en": "Same Editor Cannot Be Added Again!"
+  },
+  "EnterPublishDate": {
+    "tr": "Yayın Yılı Giriniz",
+    "en": "Enter Publish Year"
+  },
+  "DescriptionWarning": {
+    "tr": "Açıklama Alanı 1024 karekter uzunluğunu Geçmemelidir",
+    "en": "Description Field must not exceed 1024 characters"
+  },
+  "IssnWarning": {
+    "tr": "ISNN Uzunluğu 8 Karaterden Kısa Olamaz",
+    "en": "ISNN Length Not Shorter than 8 Characters"
+  },
+  "EIssnWarning": {
+    "tr": "EISNN Uzunluğu 8 Karaterden Kısa Olamaz",
+    "en": "EISNN Length Not Shorter than 8 Characters"
+  },
+  "IsbnWarning": {
+    "tr": "ISBN Uzunluğu 11 veya 13  Karater olmalıdır",
+    "en": "ISBN Length must be 11 or 13 Characters"
+  },
+  "EısbnWarning": {
+    "tr": "EISBN Uzunluğu 11 veya 13  Karater olmalıdır",
+    "en": "EISBN Length must be 11 or 13 Characters"
+  },
+  "RecommitteeAssessment": {
+    "tr": "Komite Yeniden Değerlendirmesi",
+    "en": "Recommittee Assessment"
+  },
+  "Receivers": {
+    "tr": "Alıcılar",
+    "en": "Receivers"
+  },
+  "SelectCommitteMember": {
+    "tr": "Komite Üye Seçimi",
+    "en": "Select Committee Member"
+  },
+  "WaitingAssessments":{
+    "tr": "Bekleyen Değerlendirmeler",
+    "en": "Waiting Assessments"
+  },
+  "HaveNotBeenEvaluated": {
+    "tr": "Tamamlanmamış Değerlendirmeler Bulunmaktadır.",
+    "en": "There Are Incomplete Assessments"
+  },
+  "CoExpert": {
+    "tr": "Eş Uzmanlar",
+    "en": "Co Expert"
+  },
+  "JournalNo": {
+    "tr": "Dergi Numarası",
+    "en": "Journal No"
+  },
+  "ExpertNo": {
+    "tr": "Uzman Numarası",
+    "en": "Expert No"
+  },
+  "ExpertName": {
+    "tr": "Uzman Adı",
+    "en": "Expert Name"
+  },
+  "OKEY": {
+    "tr": "Tamam",
+    "en": "OKEY"
+  },
+  "DeleteCoExpert": {
+    "tr": "Bu uzmanlar harf aralığı atama sonrası dergilerden kaldırılacaktır",
+    "en": "Specialists to be deleted when assigning letter spacing"
+  }, "Tasks": {
+  "tr": "Görevler",
+  "en": "Tasks"
+},
+   "ClickHere": {
+  "tr": "Tıklayınız",
+  "en": "ClickHere"
+},
+  "CorrespondenceHistory": {
+   "tr": "Yazışma Geçmişi",
+   "en": "Correspondence History"
+  },
+  "MoreCorrespondenceHistory": {
+    "tr": "Daha geçmiş yazışmaları görmek için tıklayınız",
+    "en": "Click to see more past correspondence"
+  },
+  "meetingDate": {
+    "tr": "Toplantı tarihini seçtiniz",
+    "en": "You have selected the meeting date"
+  },
+  "cancelmeetingDate": {
+    "tr": "Toplantı tarih seçimini iptal ettiniz",
+    "en": "You canceled the meeting date"
+  },
+  "emptyDecision": {
+    "tr": "Karar Verilmeyenler",
+    "en": "empty"
+  },
+  "NONE": {
+    "tr": "Yok",
+    "en": "NONE"
+  },
+  "THERE_IS": {
+    "tr": "Var",
+    "en": "THERE IS"
+  },
+  "YourRequestAccepted": {
+    "tr": "İsteginiz Sıraya Alındı En Yakın Sürede Size Bildirilecektir.",
+    "en":"Your Request Has Been Queued and You Will Be Notified As Soon as Possible."
+  },
+
+  "enabled": {
+    "tr": "Aktif",
+    "en": "Enabled"
+  },
+  "fullName": {
+    "tr": "Ad-Soyad",
+    "en": "FullName"
+  },
+  "SearchSystemUser": {
+    "tr": "Sistem Kullanıcı Ara ",
+    "en": "Search SystemUser"
+  },
+  "SaveAccept": {
+    "tr": "Kaydet Kabul",
+    "en": "Save Accept"
+  },
+  "SaveReject": {
+    "tr": "Kaydet Reddet",
+    "en": "Save Reject"
+  },
+  "SaveChooseCommittee": {
+    "tr": "Kaydet Komite Seç",
+    "en": "Save Choose Committee"
+  },
+  "SaveDescription": {
+    "tr": "Açıklamayı Kaydet",
+    "en": "Save Description"
+  },
+  "AssessmentCompleted": {
+    "tr": "Değerlendirme tamamlanmıştır...",
+    "en": "Assessment is completed ..."
+  },
+  "DontForgetSaveAssessment": {
+    "tr": "Değerlendirmenizi kaydetmeyi unutmayınız...",
+    "en": "Do not forget to save assessment"
+  },
+  "WhichData": {
+    "tr":"Hangi verileri çıktı olarak almak istersiniz?",
+    "en": "What data would you like to output?"
+  },
+
+  "ProcessStartYear": {
+    "tr": "Süreç Başlangıç Yılı",
+    "en": "ProcessStartYear"
+  },
+  "ProcessFinisYear": {
+    "tr": "Süreç Bitiş Yılı",
+    "en": "ProcessFinisYear"
+  },
+  "InstitutionType": {
+    "tr": "Kurum Türü",
+    "en": "Institution Type"
+  },
+  "UpdatePerson": {
+    "tr": "Kişiyi Düzenle",
+    "en": "Update Person"
+  },
+  "MultipleUploadPublication": {
+    "tr": "Toplu Yayın Ekle (.json)",
+    "en": "Upload Multiple Publication (.json)"
+  },
+  "ExistInstitution": {
+    "tr": "Var Olan Bir Kurumu Eklemeye Çalışıyorsunuz",
+    "en": "This Institution Already Exist"
+  },
+  "AlreadyExist": {
+    "tr": "Mevcut",
+    "en": "Already Exist"
+  },
+  "VIEW_DATA_EXPORT": {
+    "tr": "Çıktı Alabilme Yetkisi",
+    "en": "View Data Export"
+  },
+  "AddressNotEmpty": {
+    "tr": "Adres alanı boş geçilemez",
+    "en": "Address Not Empty"
+  },
+  "SubjectList": {
+    "tr": "Konu Listesi",
+    "en": "Subject List"
+  },
+  "SearchSubject": {
+    "tr": "Konu ara",
+    "en": "Search Subject"
+  },
+  "SubjectAreaHierarchy": {
+    "tr": "Konu Alanı Hiyerarşisi",
+    "en": "Subject Area Hierarchy"
+  },
+  "SubjectAdd": {
+    "tr": "Konu Ekle",
+    "en": "Subject Add"
+  },
+  "SubjectAreaName": {
+    "tr": "Konu Alanı Adı",
+    "en": "Subject Area Name"
+  },
+  "SelectCategory": {
+    "tr": "Kategori Seç",
+    "en": "Select Category"
+  },
+  "SubjectListPage": {
+    "tr": "Konu Listesi Sayfası",
+    "en": "Subject List Page"
+  },
+  "ParentSubjectNotNull": {
+    "tr": "Kategori Alanı Boş Geçilemez",
+    "en": "Category Field Cannot Be Empty"
+  },
+  "SubjectManagement": {
+    "tr": "Konu  Alanı Yönetimi",
+    "en": "Subject Area Management "
+  },
+  "V101": {
+    "tr": "Makalenin birinci dil harici veri girilen diğer dillerdeki üst verilerinin doldurulması zorunludur. Lütfen diğer dillerdeki başlık, anahtar kelime ve özü kontrol ediniz.",
+    "en": "It is mandatory to fill in the metadata of the article in other languages where data other than the first language is entered. Please check the title, keyword and abstract in other languages."
+  },
+  "V102":{
+    "tr":  "Makale başlığı eksiktir. Lütfen makale başlığını ekleyiniz.",
+    "en": "The article title is missing. Please add the article title."
+  },
+  "V202": {
+    "tr": "Makalenin yazar türü sadece , Yazar, veya Çevirmen olabilir. Lütfen kontrol ediniz.",
+    "en": "The author type of the article can only be , Author, or Translator. Please check."
+  },
+  "V204": {
+    "tr": "DOI numarası standart formata uymamaktadır. Lütfen verinin uygun formatta olmasını sağlayınız.",
+    "en": "The DOI number does not conform to the standard format. Please ensure that the data is in the appropriate format."
+  },
+  "V205": {
+    "tr": "Yazarların ORCID değerleri 0000-0001-5000-0007 ile 0000-0003-5000-0001 arasında veya 0009-0000-0000-0000 ile 0009-0010-0000-0000 arasında 16 haneli olmalıdır. Lütfen kontrol ediniz verinin düzeltilmesini sağlayınız.",
+    "en": "Authors' ORCID values should be 16 digits between 0000-0001-5000-0007 and 0000-0003-5000-0001 or 0009-0000-0000-0000 and 0009-0010-0000-0000. Please check and have the data corrected."
+  },
+  "V207": {
+    "tr":"Kaynakça sırası pozitif sayılardan oluşmalıdır. Lütfen kaynakça sıralamasını kontrol ediniz.",
+    "en": "The bibliography order should consist of positive numbers. Please check the bibliography order."
+  },
+  "V208": {
+    "tr": "Yayın türü olarak belirtilen liste içerisinden değil farklı bir yayın türü girilmeye çalışılmıştır.",
+    "en": "An attempt was made to enter a different publication type, not from the list specified as the publication type."
+  },
+  "V209": {
+    "tr": "Yayın dili olarak belirtilen liste içerisinden değil farklı bir yayın dili girilmeye çalışılmıştır.",
+    "en": "An attempt was made to enter a different broadcast language, not from the list specified as the broadcast language."
+  },
+  "V210": {
+    "tr": "Yayının başlangıç sayfa numarası geçersizdir. Lütfen sayfa aralığını kontrol ediniz.",
+    "en": "The starting page number of the publication is invalid. Please check the page range."
+  },
+  "V211": {
+    "tr": "Yayının bitiş sayfa numarası geçersizdir. Lütfen sayfa aralığını kontrol ediniz",
+    "en": "The end page number of the publication is invalid. Please check the page range"
+  },
+  "V301": {
+    "tr": "Yayın içerisinde tekrar eden anahtar kelimeler bulunmamalıdır. Lütfen kontrol ediniz ve verinin düzeltilmesini sağlayınız.",
+    "en": "There should be no repetitive keywords in the publication. Please check and have the data corrected."
+  },
+  "V302": {
+    "tr": "Lütfen ilgili makaleleri kontrol ediniz ve DOI numaralarını düzeltiniz.",
+    "en": "Please check related articles and correct DOI numbers."
+  },
+  "V306": {
+    "tr": "Makalelerde başlık ve sayfa aralığı aynı olmamalıdır. İlgili sayıdaki makale başlıklarını ve sayfa aralıklarını kontrol ediniz.",
+    "en": "The title and page spacing of the articles should not be the same. Check the article titles and page ranges in the relevant issue."
+  },
+  "SearchComitteMeetingTopics":{
+    "tr": "Gündem Maddesi ya da Komite Ara",
+    "en": "Search Comitte MeetingTopics"
+  },
+  "PeriodInfo":{
+    "tr": "Periyot değişikliği olan yıl için önce yeni yıl kaydı oluşturup aynı ekranda periodunuzu belirleyebilirsiniz. Ayrıca buradan da yeni periodunuzu seçebilirsiniz. Bu oluşturulan kayıt yeni yıl yaratılına kadar \"-\" olarak görünecektir.",
+    "en": "For the year with the Period Change, you can first create the new year record and set your period on the same screen. In addition, you can carry the burden of your new term from here.You can also choose your new period from here. This created record will appear as \"-\" until the new year is created."
+  },
+
+  "NotFoundSubjectForPub": {
+    "tr": "Yayın için Konu Bulunamadı",
+    "en": "For Publication Not Found Subject"
+  },
+  "CheckFile": {
+    "tr": "Dosyanızı Kontrol Ediniz.",
+    "en": "Check Your Json File"
+  },
+  "CheckReferences": {
+    "tr": "Yayının Referans Sıralamalarını Kontrol Ediniz",
+    "en": "Publication Check References Gradation"
+  },
+  "CheckAuthors": {
+    "tr": "Yayının Yazar Sıralamalarını Kontrol Ediniz",
+    "en": "Publication Check Authors Gradation"
+  },
+  "NonAuthorizationForPool": {
+    "tr": "Yayında Havuz durumu setlenmiştir. böyle bir yetkiniz bulunmamaktadır",
+    "en": "You have not authorization to change pool status"
+  },
+  "NonAuthorizationForStatusOfIndex": {
+    "tr": "Yayında index durumu INDEXED setlenmiştir. böyle bir yetkiniz bulunmamaktadır",
+    "en": "You have not authorization to change index status"
+  },
+  "NonAuthorType": {
+    "tr": "Yayında Yazar Tipi Belirtilmemiş Yazar Bulunmaktadır ",
+    "en": "Publication Has Author who authortype field is unspecified"
+  },
+  "NonAuthorName": {
+    "tr": "Yayında Yazar İsmi",
+    "en": "Author has not Name"
+  },
+  "NotEmptyPublicationType": {
+    "tr": "Yayının Yayın türü girilmemişir.",
+    "en": "Publication type is empty"
+  },
+  "NotEmptyStartPage": {
+    "tr": "Yayının İlk sayfa sayısı girilmemişir.",
+    "en": "End page number is empty"
+  },
+  "NotEmptyEndPage": {
+    "tr": "Yayının son sayfa sayısı girilmemişir.",
+    "en": "End page number is empty"
+  },
+  "PubAbstractContentNotFound": {
+    "tr": "Öz dili hatalı girilmiştir",
+    "en": "Abstract content is faulty"
+  },
+  "ForPublication": {
+    "tr": "Yayın için",
+    "en": "Publication"
+  },
+  "NotFoundAbstractContentPublicationLanguage": {
+    "tr": "öz bilgisinin dil bilgisi bulunamadı",
+    "en": "abstract content has not language info"
+  },
+  "NotFoundContents": {
+    "tr": "Yayın için Başlık ve Özet Bulunamadı",
+    "en": "For Publication Not Found Title And Abstract"
+  },
+  "NotFoundLanguage": {
+    "tr": "Yayın için Dil Bilgisi Bulunamadı",
+    "en": "For Publication Not Found Language"
+  },
+  "NotFoundLanguageId": {
+    "tr": "Yayın için Dil Bilgisinin Id'si Bulunamadı",
+    "en": "For Publication Not Found Id of Language"
+  },
+  "NotFoundAuthor": {
+    "tr": "Yayın için Yazar Bilgisi Bulunamadı",
+    "en": "For Publication Not Found Author"
+  },
+  "PubFileNotFound": {
+    "tr": "Yayın için Dosya Bulunamadı",
+    "en": "For Publication Not Found File"
+  },
+  "ChangeSubject": {
+    "tr": "Konu Değiştir",
+    "en": "Change Subject"
+  },
+  "ChangeKeyword": {
+    "tr": "Anahtar Kelime Değiştir",
+    "en": "Change Keyword"
+  },
+  "SearchKeyword": {
+    "tr": "Anahtar Kelime Ara",
+    "en": "Search Keyword"
+  },
+  "KeywordAreaName": {
+    "tr": "Anahtar Kelime Alan Adı",
+    "en": "KeywordAreaName"
+  },
+  "KeywordAdd": {
+    "tr": "Anahtar Kelime Ekle",
+    "en": "Keyword Add"
+  },
+  "SearchItself": {
+    "tr": "Arama",
+    "en": "Search"
+  },
+  "SavedSearchs": {
+    "tr": "Kayıtlı Aramalar",
+    "en": "Saved Searchs"
+  },
+  "OldCount": {
+    "tr": "Değer",
+    "en": "Value"
+  },
+  "JournalYearSubject": {
+    "tr": "Dergi Yılı Konu Alanı",
+    "en": "Journal Year Subject"
+  },
+  "NotSelectSubject": {
+    "tr": "Konu Alanı Seçilmedi",
+    "en": "Not Select Subject"
+  },
+
+  "OpenForNotification": {
+    "tr": "Bildirim almak için açınız.",
+    "en": "Open to receive notification."
+  },
+  "CloseForNotNotification": {
+    "tr": "Bildirim almak istemiyorsanız kapatınız.",
+    "en": "If you do not want the notification, turn it off. "
+  },
+  "Keywords": {
+    "tr": "Anahtar Kelimeler",
+    "en": "Keywords"
+  },
+  "BearAuthor": {
+    "tr": "Yazarı Üstlen",
+    "en": "Bear Author"
+  },
+  "GetAuthorProfileToYourself": {
+    "tr": "Yazar Profilini Üstüne Al",
+    "en": "Bear Author Profile"
+  },
+  "ClickToPrint": {
+    "tr": "Çıktı almak için tıklayınız.",
+    "en": "Click to print."
+  },
+  "ISSNChangeRequestInfoStart": {
+    "tr": "Bu form derginin yeni ad ve/veya yeni ISSN bilgisinin başvurusu için kullanılmaktadır. Buradan yapılan işleme onay verilmesi durumunda yeni bir dergi oluşacaktır. Seçili derginin herhangi bir alanındaki güncelleme istekleri için tıklayınız: ",
+    "en": "This form is used to apply for the journal's new name and/or new ISSN information. If the application made here is approved, a new journal will be created. For update requests in any area of the selected journal you can click: "
+  },
+  "HelpDesk": {
+    "tr": "Yardım Masası",
+    "en": "Help Desk"
+  },
+  "journal": {
+    "tr": "Dergi",
+    "en": "Journal"
+  },
+  "AssignedDate": {
+    "tr": "Atanma Tarihi",
+    "en": "Assigned Date"
+  },
+  "Remove": {
+    "tr": "Çıkar",
+    "en": "Remove"
+  },
+  "PROCEEDING": {
+    "tr": "Bildiri",
+    "en": "Proceeding"
+  },
+  "BOOK": {
+    "tr": "Kitap",
+    "en": "Book"
+  },
+  "AWARD": {
+    "tr": "Ödül",
+    "en": "Award"
+  },
+  "PATENT": {
+    "tr": "Patent",
+    "en": "Patent"
+  },
+  "PRODUCT": {
+    "tr": "Ürün/Model/Şirket",
+    "en": "Product"
+  },
+  "SPREAD": {
+    "tr": "Yayılım",
+    "en": "Spread"
+  },
+  "THESIS": {
+    "tr": "Tez",
+    "en": "Thesis"
+  },
+  "Attachment": {
+    "tr": "Ek Dosya",
+    "en": "Attachment File"
+  },
+  "AddFile": {
+    "tr": "Ek PDF Ekle",
+    "en": "Add Attachment PDF File"
+  },
+  "TheFileIndexed": {
+    "tr": "Taramada göster",
+    "en": "Show On The Scan"
+  },
+  "CheckTheFile": {
+    "tr": "Dosyayı Kontrol Edin",
+    "en": "Check Thhe File"
+  },
+  "DescriptionArea": {
+    "tr": "Açıklama Alanı",
+    "en": "Description Area"
+  },
+  "AddAttachmentFile": {
+    "tr": "Ek Dosya Yükle",
+    "en": "Upload Attachment File"
+  },
+  "DescriptionNotEmpty": {
+    "tr": "Açıklama alanı boş geçilemez",
+    "en": "Description area not empty"
+  },
+  "NotSavedIssnEissn": {
+    "tr": "Kayıtlı Olmayan ISSN/E-ISSN",
+    "en": "Unregistered ISSN/E-ISSN"
+  },
+  "eissn": {
+    "tr": "EISSN",
+    "en": "EISSN"
+  },
+  "issn": {
+    "tr": "ISSN",
+    "en": "ISSN"
+  },
+  "EditAttachmentFile": {
+    "tr": "Ek Dosya Düzenle",
+    "en": "Edit Attachment File"
+  },
+  "CommitteeRemarks": {
+    "tr":  "Komite Görüşleri",
+    "en": "Committee Remarks"
+  },
+  "ExpertRemarks": {
+    "tr": "Uzman Görüşleri",
+    "en": "Expert Remarks"
+  },
+  "SelectedProcess": {
+    "tr": "Seçilmiş Süreç",
+    "en": "Selected Process"
+  },
+  "ISSNEISSNnotvalidException": {
+    "tr": "ISSN-EISSN geçerli değildir.",
+    "en": "ISSN-EISSN is not valid."
+  },
+  "ThisValueAlreadyExistsISSNEISSN": {
+    "tr": "Bu değer daha önce eklenmiş. ISSN-EISSN: ",
+    "en": "This value has already been added. ISSN-EISSN: "
+  },
+  "ThisIssnIsNotUnique": {
+    "tr": "Bu issn/eissn bilgilerinin olduğu bir dergi mevcuttur.",
+    "en": "There is a journal with this issn/eissn information."
+  },
+  "WatchingJournals": {
+    "tr": "Takip Edilen Dergiler",
+    "en": "Watching Journals"
+  },
+  "Reminder": {
+    "tr": "Anımsatıcı",
+    "en": "Reminder"
+  },
+  "NewReminder": {
+    "tr": "Yeni Anımsatıcı",
+    "en": "New Reminder"
+  },
+  "NewReminderTitle": {
+    "tr": "Yeni Anımsatıcı Başlık",
+    "en": "New Reminder Title"
+  },
+  "ReminderDate": {
+    "tr": "Anımsatıcı Tarihi",
+    "en": "Reminder Date"
+  },
+  "setUpReminder": {
+    "tr": "Hatırlatıcıyı Kur",
+    "en": "Set Up Reminder"
+  },
+  "EmptyCorrespondenceNotificationDate": {
+    "tr": "Anımsatıcı Tarihi Boş Geçilemez",
+    "en": "EmptyCorrespondence Notification Date Cannot Be Empty"
+  },
+  "EmptyCorrespondenceReminderNote": {
+    "tr": "Anımsatıcı Not Alanı Boş Geçilemez",
+    "en": "EmptyCorrespondence ReminderNote Not  Cannot Be Empty"
+  },
+  "ReminderList": {
+    "tr": "Anımsatıcı Listesi",
+    "en": "Reminder List"
+  },
+  "ReminderSendType": {
+    "tr": "Anımsatıcı  DURUMU ",
+    "en": "Reminder Send Type"
+  },
+
+
+  "CompletionStatus":{
+    "tr": "Tamamlanma Durumu",
+    "en": "Completion Status"
+  },
+  "AssignCommittee": {
+    "tr": "Atanmış Komiteler",
+    "en": "Assign Committee"
+  },
+  "FILLED_RE_COMMITTEE_CONTROL_FORM": {
+    "tr": "Komite Kontrol Form",
+    "en": "Committee Control Form"
+  },
+  "FormOfPublication": {
+    "tr": "Yayım Şekli",
+    "en": "Form Of Publication"
+  },
+  "Continuous": {
+    "tr": "Sürekli",
+    "en": "Continuous"
+  },
+  "Normal": {
+    "tr": "Normal",
+    "en": "Normal"
+  },
+  "MyDocuments": {
+    "tr": "Belgelerim",
+    "en": "My Documents"
+  },
+  "theRecordYouAreTryingChangeDoesNotBelongToYou": {
+    "tr": "Değiştirmeye çalıştığınız kayıt size ait değil",
+    "en": "The record you are trying to change does not belong to you"
+    },
+  "Remove": {
+    "tr": "Kaldır",
+    "en": "Remove"
+  },
+  "Sent": {
+    "tr": "Gönderildi",
+    "en": "Sent"
+  },
+  "NotSent": {
+    "tr": "Gönderilmedi",
+    "en": "Not Sent"
+  },
+  "All publications for approval are required to be approved": {
+    "tr": "Sayı onayı için tüm yayınların onaylanması gerekmektedir",
+    "en": "All publications for approval are required to be approved"
+  },
+  "Clear": {
+    "tr": "Temizle",
+    "en": "Clear"
+  },
+  "EntryPin": {
+    "tr": "Pin Giriniz",
+    "en": "Entry Pin"
+  },
+  "EsignerHeader": {
+    "tr": "PDF imzala",
+    "en": "Sign Pdf"
+  },
+  "Signing": {
+    "tr": "İmzala",
+    "en": "Sign"
+  },
+  "PasswordNotEmpty": {
+    "tr": "Şifre Alanı Boş Geçilemez",
+    "en": "Password Not Empty"
+  },
+  "PiNotEmpty": {
+    "tr": "Pin Alanı Boş Geçilemez",
+    "en": "Pin Not Empty"
+  },
+  "EDOYOUHAVEASIGNATURE": {
+    "tr": "E imzanız var mı",
+    "en": "E DO YOU HAVE A SIGNATURE"
+  },
+  "AreTheDocuments": {
+    "tr": "Belgeler tamam mı",
+    "en": "Are the documents ok?"
+  },
+  "electronice-signatureContractDetails": {
+    "tr": "Elektronik İmza Sözleşme Detayları",
+    "en": "Electronic E-signature Contract Details"
+  },
+  "TüM_SAYILAR_İÇİN_ONAYLIYORUM": {
+    "tr": "Tüm sayılar için onaylıyorum",
+    "en": "I approve for all numbers"
+  },
+  "SON_SAYI_HARİÇ_ONAYLIYORUM": {
+    "tr": "Son sayı hariç onaylıyorum",
+    "en": "I approve except for  the last issue"
+  },
+  "SON_BİR_YIL_İÇİN_ONAYLIYORUM": {
+    "tr": "Son bir yıl hariç onaylıyorum",
+    "en": "I approve except for the last year"
+  },
+  "ONAYLAMIYORUM": {
+    "tr": "Onaylamıyorum",
+    "en": "I do not confırm"
+  },
+  "ElectronicAccessType": {
+    "tr": "5.Madde için elektronik ortamda erişim türünü seçiniz",
+    "en": " Please select access type for fifth item "
+  },
+  "SignIt": {
+    "tr": "İmzala",
+    "en": "Sign it"
+  },
+  "ContractsPendingForElectronicSignature": {
+    "tr": "Elektronik imza için bekleyen sözleşmeler",
+    "en": " Contracts pending for electronic signature"
+  },
+  "SignMulti": {
+    "tr": "Toplu İmzala",
+    "en": "Sign Multiple"
+  },
+  "SignedSuccessfully": {
+    "tr": "Başarılı bir şekilde imzalandı",
+    "en": "Signed Successfully"
+  },
+  "NotSelectDongle": {
+    "tr": "Dongle Seçilmedi",
+    "en": "Not Selected Dongle"
+  },
+  "NotHaveSignedContract": {
+    "tr": "İmzalancak Sözleşme yok",
+    "en": "You Have Not Signed Contract"
+  },
+  "NoSignedContract": {
+    "tr": "İmzalı sözleşme yok",
+    "en": "No Signed Contract"
+  },
+  "SmartCards": {
+    "tr": "Elektronik Kartınızı Seçiniz",
+    "en": "Select Electronic Card"
+  },
+  "NotFoundDongle": {
+    "tr": "Elektronik Kart Bulunamadı",
+    "en": "Not Found Electronic Card"
+  },
+  "TokenNotValid": {
+    "tr": "Token süreniz dolmuştur lütfen popup ekranını kapatıp tekrar açınız",
+    "en": "Token Not Valid"
+  },
+  "WrongPin": {
+    "tr": "Hatalı Pin Girdiniz",
+    "en": "Wrong Pin"
+  },
+  "EsignerContract": {
+    "tr": "Elektronik İmza",
+    "en": "Electronic Signature"
+  },
+  "NO_SIGNED": {
+    "tr": "İmzalayan Yok",
+    "en": "No Sıgned"
+  },
+  "MUDUR_SIGNED": {
+    "tr": "Müdür İmzaladı",
+    "en": "Mudur Sıgned"
+  },
+  "EDITOR_SIGNED": {
+    "tr": "Editor İmzaladı",
+    "en": "Edıtor Sıgned"
+  },"Signatory": {
+  "tr": "İmzalayan",
+  "en": "Signatory"
+},
+  "HaveEsignature": {
+    "tr": "E imza var mı",
+    "en": "Have E Signature"
+  },
+  "WarningEsignerContract": {
+    "tr": "Sözleşme yükleme işlemine devam ederseniz bu derginin e-imza süreci sonlandırılacaktır",
+    "en": "If you continue with the contract upload process, the e-signature process of this journal will end."
+  },
+  "Next": {
+    "tr": "İlerle",
+    "en": "Next"
+  },
+  "EsignerStatusNote": {
+    "tr": "Yılı Sözleşmesi için E imzanız var mı",
+    "en": "Do you have an E-signature for the Year Contract?"
+  },
+  "AwaitingSignature": {
+    "tr": "İmza bekleniyor",
+    "en": "Awaiting Signature"
+  },
+  "Signed": {
+    "tr": "İmzalı",
+    "en": "Signed"
+  },
+  "WetSignatureWarning": {
+    "tr": "Sözleşmeyi 20 gün içerisinde elektronik olarak imzalamazsanız e-imza süreciniz ıslak imza olarak değiştirilecektir.",
+    "en": "If you do not sign the contract electronically within 20 days, your e-signature process will be changed to a wet signature."
+  }
+}
