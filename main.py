@@ -26,7 +26,6 @@ session = Session()
 
 results = session.query(Auth).all()
 
-liste = []
 
 with open("localizationWords.json", "r+",encoding="utf-8") as file:
     data = json.load(file)
