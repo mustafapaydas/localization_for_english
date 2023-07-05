@@ -27,7 +27,8 @@ session = Session()
 results = session.query(Auth).all()
 
 
-with open("localizationWords.json", "r+",encoding="utf-8") as file:
+
+with open(os.getenv("FILE_PATH"+.json), "r+",encoding="utf-8") as file:
     data = json.load(file)
     for index, row in enumerate(results):
         if row.code in data:
